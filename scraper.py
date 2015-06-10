@@ -3,8 +3,10 @@ import os
 import re
 import logging
 import requests
+import dataset
 from lxml import html
 from urlparse import urljoin
+from normality import normalize
 
 log = logging.getLogger(__name__)
 
@@ -22,7 +24,7 @@ SPEAKER_STOPWORDS = ['ich zitiere', 'zitieren', 'Zitat', 'zitiert',
                      'ich rufe den', 'ich rufe die',
                      'wir kommen zur Frage', 'kommen wir zu Frage', 'bei Frage',
                      'fordert', 'fordern', u'Ich möchte',
-                     'Darin steht', ' Aspekte ', ' Punkte ']
+                     'Darin steht', ' Aspekte ', ' Punkte ', 'Berichtszeitraum']
 
 BEGIN_MARK = re.compile('Beginn: [X\d]{1,2}.\d{1,2} Uhr')
 END_MARK = re.compile('\(Schluss:.\d{1,2}.\d{1,2}.Uhr\).*')
@@ -31,6 +33,43 @@ TOP_MARK = re.compile('.*(rufe.*die Frage|zur Frage|Tagesordnungspunkt|Zusatzpun
 POI_MARK = re.compile('\((.*)\)\s*$', re.M)
 WRITING_BEGIN = re.compile('.*werden die Reden zu Protokoll genommen.*')
 WRITING_END = re.compile(u'(^Tagesordnungspunkt .*:\s*$|– Drucksache d{2}/\d{2,6} –.*|^Ich schließe die Aussprache.$)')
+
+POI_PREFIXES = re.compile(u'(Ge ?genruf|Weiterer Zuruf|Zuruf|Weiterer)( de[sr] (Abg.|Staatsministers|Bundesministers|Parl. Staatssekretärin))?')
+NAME_REMOVE = re.compile(r'(\[.*\]|\(.*\)|^Abg.? |Liedvortrag|Bundeskanzler(in)?|CDU/? ?(CSU)?|SPD?|(, zur.*)|(, auf die)|( an die)|(, an .*)|(, Parl\. .*)|(gewandt)|(, Staatsmin.*)|(, Bundesmin.*)|(, Ministe.*))')
+FP_REMOVE = re.compile('(^Dr.?( h.? ?c.?)?| (von( der)?)| [A-Z]\. )')
+
+eng = dataset.connect('sqlite:///data.sqlite')
+table = eng['data']
+
+
+def clean_text(fh):
+    text = fh.read()
+    try:
+        text = text.decode('utf-8')
+    except:
+        text = text.decode('latin-1')
+    text = text.replace('\r', '\n')
+    text = text.replace(u'\xa0', ' ')
+    text = text.replace(u'\x96', '-')
+    text = text.replace(u'\u2014', '-')
+    text = text.replace(u'\u2013', '-')
+    return text
+
+
+def clean_name(name):
+    if name is None:
+        return name
+    name = POI_PREFIXES.sub('', name)
+    name = NAME_REMOVE.sub('', name)
+    name = name.strip('-')
+    return name.strip()
+
+
+def fingerprint(name):
+    if name is None:
+        return
+    name = FP_REMOVE.sub(' ', name)
+    return normalize(name, transliterate=True)
 
 
 class SpeechParser(object):
@@ -43,19 +82,15 @@ class SpeechParser(object):
         for poi in group.split(' - '):
             text = poi
             speaker_name = None
-            fingerprint = None
             sinfo = poi.split(': ', 1)
             if len(sinfo) > 1:
                 speaker_name = sinfo[0]
                 text = sinfo[1]
-                speaker = speaker_name.replace('Gegenruf des Abg. ', '')
-                fingerprint = 'XXX' + speaker
-            yield (speaker_name, fingerprint, text)
+            yield (speaker_name, text)
 
     def __iter__(self):
         self.in_session = False
         speaker = None
-        fingerprint = None
         in_writing = False
         chair_ = [False]
         text = []
@@ -65,7 +100,6 @@ class SpeechParser(object):
                 'speaker': speaker,
                 'in_writing': in_writing,
                 'type': 'chair' if chair_[0] else 'speech',
-                'fingerprint': fingerprint,
                 'text': "\n\n".join(text).strip()
             }
             if reset_chair:
@@ -74,13 +108,7 @@ class SpeechParser(object):
             return data
 
         for line in self.lines:
-            # try:
-            #     line = line.decode('latin-1')
-            # except:
-            #     pass
-            line = line.replace(u'\u2014', '-')
-            line = line.replace(u'\x96', '-')
-            rline = line.replace(u'\xa0', ' ').strip()
+            line = line.strip()
 
             if not self.in_session and BEGIN_MARK.match(line):
                 self.in_session = True
@@ -88,20 +116,20 @@ class SpeechParser(object):
             elif not self.in_session:
                 continue
 
-            if END_MARK.match(rline):
+            if END_MARK.match(line):
                 return
 
-            if WRITING_BEGIN.match(rline):
+            if WRITING_BEGIN.match(line):
                 in_writing = True
 
-            if WRITING_END.match(rline):
+            if WRITING_END.match(line):
                 in_writing = False
 
             if not len(line.strip()):
                 continue
 
             is_top = False
-            if TOP_MARK.match(rline):
+            if TOP_MARK.match(line):
                 is_top = True
 
             has_stopword = False
@@ -115,7 +143,6 @@ class SpeechParser(object):
                     yield emit()
                 _speaker = m.group(1)
                 role = line.strip().split(' ')[0]
-                fingerprint = 'YYY' + _speaker
                 speaker = _speaker
                 chair_[0] = role in CHAIRS
                 continue
@@ -125,12 +152,11 @@ class SpeechParser(object):
                 if not m.group(1).lower().strip().startswith('siehe'):
                     yield emit(reset_chair=False)
                     in_writing = False
-                    for _speaker, _fingerprint, _text in self.parse_pois(m.group(1)):
+                    for _speaker, _text in self.parse_pois(m.group(1)):
                         yield {
                             'speaker': _speaker,
                             'in_writing': False,
                             'type': 'poi',
-                            'fingerprint': _fingerprint,
                             'text': _text
                         }
                     continue
@@ -144,56 +170,34 @@ def file_metadata(filename):
     return int(fname[:2]), int(fname[2:5])
 
 
+names = set()
+
+
 def parse_transcript(filename):
     wp, session = file_metadata(filename)
-    fh = open(filename, 'rb')
-    text = fh.read()
-    try:
-        text = text.decode('utf-8')
-    except:
-        text = text.decode('latin-1')
-    text = text.replace('\r', '\n')
-    
-    # print wp, session, u'ü' in text
+    text = clean_text(open(filename, 'rb'))
+    table.delete(wahlperiode=wp, sitzung=session)
 
-    # table = sl.get_table(engine, 'speech')
-    # sio = find_local(url)
-    # sample = {'source_etag': 'local'}
-    # if sio is None:
-    #     sample = sl.find_one(engine, table, source_url=url, matched=True)
-    #     response, sio = fetch_stream(url)
-    #     sample = check_tags(sample or {}, response, force)
     base_data = {
-        'source_file': filename,
+        'filename': filename,
         'sitzung': session,
         'wahlperiode': wp
     }
-    log.info("Loading transcript: %s/%s, from %s", wp, session, filename)
-    print filename
+    print "Loading transcript: %s/%.3d, from %s" % (wp, session, filename)
     seq = 0
     parser = SpeechParser(text.split('\n'))
+
     for contrib in parser:
         contrib.update(base_data)
         contrib['sequence'] = seq
-        # print contrib
+        # if contrib['type'] == 'poi':
+        #     print contrib['text'], contrib['speaker']
+        contrib['speaker_cleaned'] = clean_name(contrib['speaker'])
+        contrib['speaker_fp'] = fingerprint(contrib['speaker_cleaned'])
         seq += 1
+        table.insert(contrib)
 
-    print filename, seq
-    #     if not len(contrib['text'].strip()):
-    #         continue
-    #     contrib.update(base_data)
-    #     contrib['sequence'] = seq
-    #     sl.upsert(engine, table, contrib, 
-    #               unique=['source_url', 'sequence'])
-    #     seq += 1
-    # if not parser.missing_recon:
-    #     sl.upsert(engine, table, {
-    #                 'matched': True,
-    #                 'source_url': url,
-    #         }, unique=['source_url'])
-    # else:
-    #     raise InvalidReference()
-    # return base_data
+    # print filename, seq
 
 
 def fetch_protokolle():
