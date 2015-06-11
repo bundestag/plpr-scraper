@@ -27,7 +27,7 @@ SPEAKER_STOPWORDS = ['ich zitiere', 'zitieren', 'Zitat', 'zitiert',
                      'Darin steht', ' Aspekte ', ' Punkte ', 'Berichtszeitraum']
 
 BEGIN_MARK = re.compile('Beginn: [X\d]{1,2}.\d{1,2} Uhr')
-END_MARK = re.compile('\(Schluss:.\d{1,2}.\d{1,2}.Uhr\).*')
+END_MARK = re.compile('(\(Schluss:.\d{1,2}.\d{1,2}.Uhr\).*|Schluss der Sitzung)')
 SPEAKER_MARK = re.compile('  (.{5,140}):\s*$')
 TOP_MARK = re.compile('.*(rufe.*die Frage|zur Frage|Tagesordnungspunkt|Zusatzpunkt).*')
 POI_MARK = re.compile('\((.*)\)\s*$', re.M)
@@ -37,6 +37,15 @@ WRITING_END = re.compile(u'(^Tagesordnungspunkt .*:\s*$|– Drucksache d{2}/\d{2
 POI_PREFIXES = re.compile(u'(Ge ?genruf|Weiterer Zuruf|Zuruf|Weiterer)( de[sr] (Abg.|Staatsministers|Bundesministers|Parl. Staatssekretärin))?')
 NAME_REMOVE = re.compile(r'(\[.*\]|\(.*\)|^Abg.? |Liedvortrag|Bundeskanzler(in)?|CDU/? ?(CSU)?|SPD?|(, zur.*)|(, auf die)|( an die)|(, an .*)|(, Parl\. .*)|(gewandt)|(, Staatsmin.*)|(, Bundesmin.*)|(, Ministe.*))')
 FP_REMOVE = re.compile('(^Dr.?( h.? ?c.?)?| (von( der)?)| [A-Z]\. )')
+
+PARTIES_SPLIT = NAME_REMOVE = re.compile(r'(, (auf|an|zur|zum)( die| den )?(.* gewandt)?)')
+PARTIES = {
+    'cducsu': re.compile(' cdu ?(csu)?'),
+    'spd': re.compile(' spd'),
+    'linke': re.compile(' (die|der|den) linken?'),
+    'fdp': re.compile(' fdp'),
+    'gruene': re.compile(' bund ?nis\-?(ses)? ?90 die gru ?nen'),
+}
 
 eng = dataset.connect('sqlite:///data.sqlite')
 table = eng['data']
@@ -69,7 +78,22 @@ def fingerprint(name):
     if name is None:
         return
     name = FP_REMOVE.sub(' ', name)
-    return normalize(name, transliterate=True)
+    return normalize(name).replace(' ', '-')
+
+
+def in_america(you):  # can always find a party
+    if you is None:
+        return
+    you = PARTIES_SPLIT.split(you)
+    name = normalize(you[0])
+    parties = set()
+    for party, rex in PARTIES.items():
+        if rex.findall(name):
+            parties.add(party)
+    if not len(parties):
+        return
+    parties = ':'.join(sorted(parties))
+    return parties
 
 
 class SpeechParser(object):
@@ -190,14 +214,17 @@ def parse_transcript(filename):
     for contrib in parser:
         contrib.update(base_data)
         contrib['sequence'] = seq
-        # if contrib['type'] == 'poi':
-        #     print contrib['text'], contrib['speaker']
         contrib['speaker_cleaned'] = clean_name(contrib['speaker'])
         contrib['speaker_fp'] = fingerprint(contrib['speaker_cleaned'])
+        contrib['speaker_party'] = in_america(contrib['speaker'])
         seq += 1
         table.insert(contrib)
 
-    # print filename, seq
+    q = '''SELECT * FROM data WHERE wahlperiode = :w AND sitzung = :s
+            ORDER BY sequence ASC'''
+    fcsv = os.path.basename(filename).replace('.txt', '.csv')
+    rp = eng.query(q, w=wp, s=session)
+    dataset.freeze(rp, filename=fcsv, prefix=OUT_DIR, format='csv')
 
 
 def fetch_protokolle():
