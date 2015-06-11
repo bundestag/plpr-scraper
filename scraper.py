@@ -18,7 +18,7 @@ OUT_DIR = os.path.join(DATA_DIR, 'out')
 INDEX_URL = 'https://www.bundestag.de/plenarprotokolle'
 ARCHIVE_URL = 'http://webarchiv.bundestag.de/archive/2013/0927/dokumente/protokolle/plenarprotokolle/plenarprotokolle/17%03.d.txt'
 
-CHAIRS = [u'Vizepräsidentin', u'Vizepräsident', u'Präsident']
+CHAIRS = [u'Vizepräsidentin', u'Vizepräsident', u'Präsident', u'Präsidentin', u'Alterspräsident', u'Alterspräsidentin']
 
 SPEAKER_STOPWORDS = ['ich zitiere', 'zitieren', 'Zitat', 'zitiert',
                      'ich rufe den', 'ich rufe die',
@@ -29,16 +29,17 @@ SPEAKER_STOPWORDS = ['ich zitiere', 'zitieren', 'Zitat', 'zitiert',
 BEGIN_MARK = re.compile('Beginn: [X\d]{1,2}.\d{1,2} Uhr')
 END_MARK = re.compile('(\(Schluss:.\d{1,2}.\d{1,2}.Uhr\).*|Schluss der Sitzung)')
 SPEAKER_MARK = re.compile('  (.{5,140}):\s*$')
-TOP_MARK = re.compile('.*(rufe.*die Frage|zur Frage|Tagesordnungspunkt|Zusatzpunkt).*')
+TOP_MARK = re.compile('.*(rufe.*die Frage|zur Frage|der Tagesordnung|Tagesordnungspunkt|Zusatzpunkt).*')
 POI_MARK = re.compile('\((.*)\)\s*$', re.M)
 WRITING_BEGIN = re.compile('.*werden die Reden zu Protokoll genommen.*')
 WRITING_END = re.compile(u'(^Tagesordnungspunkt .*:\s*$|– Drucksache d{2}/\d{2,6} –.*|^Ich schließe die Aussprache.$)')
 
 POI_PREFIXES = re.compile(u'(Ge ?genruf|Weiterer Zuruf|Zuruf|Weiterer)( de[sr] (Abg.|Staatsministers|Bundesministers|Parl. Staatssekretärin))?')
-NAME_REMOVE = re.compile(r'(\[.*\]|\(.*\)|^Abg.? |Liedvortrag|Bundeskanzler(in)?|CDU/? ?(CSU)?|SPD?|(, zur.*)|(, auf die)|( an die)|(, an .*)|(, Parl\. .*)|(gewandt)|(, Staatsmin.*)|(, Bundesmin.*)|(, Ministe.*))')
-FP_REMOVE = re.compile('(^Dr.?( h.? ?c.?)?| (von( der)?)| [A-Z]\. )')
+REM_CHAIRS = '|'.join(CHAIRS)
+NAME_REMOVE = re.compile(u'(\\[.*\\]|\\(.*\\)|%s|^Abg.? |Liedvortrag|Bundeskanzler(in)?|, zur.*|, auf die| an die|, an .*|, Parl\\. .*|gewandt|, Staatsmin.*|, Bundesmin.*|, Ministe.*)' % REM_CHAIRS, re.U)
+FP_REMOVE = re.compile(u'(^.*Dr.?( h.? ?c.?)?| (von( der)?)| [A-Z]\. )')
 
-PARTIES_SPLIT = NAME_REMOVE = re.compile(r'(, (auf|an|zur|zum)( die| den )?(.* gewandt)?)')
+PARTIES_SPLIT = re.compile(r'(, (auf|an|zur|zum)( die| den )?(.* gewandt)?)')
 PARTIES = {
     'cducsu': re.compile(' cdu ?(csu)?'),
     'spd': re.compile(' spd'),
@@ -77,7 +78,7 @@ def clean_name(name):
 def fingerprint(name):
     if name is None:
         return
-    name = FP_REMOVE.sub(' ', name)
+    name = FP_REMOVE.sub(' ', name.strip())
     return normalize(name).replace(' ', '-')
 
 
@@ -132,7 +133,7 @@ class SpeechParser(object):
             return data
 
         for line in self.lines:
-            line = line.strip()
+            rline = line.strip()
 
             if not self.in_session and BEGIN_MARK.match(line):
                 self.in_session = True
@@ -140,16 +141,16 @@ class SpeechParser(object):
             elif not self.in_session:
                 continue
 
-            if END_MARK.match(line):
+            if END_MARK.match(rline):
                 return
 
-            if WRITING_BEGIN.match(line):
+            if WRITING_BEGIN.match(rline):
                 in_writing = True
 
-            if WRITING_END.match(line):
+            if WRITING_END.match(rline):
                 in_writing = False
 
-            if not len(line.strip()):
+            if not len(rline):
                 continue
 
             is_top = False
@@ -171,7 +172,7 @@ class SpeechParser(object):
                 chair_[0] = role in CHAIRS
                 continue
 
-            m = POI_MARK.match(line)
+            m = POI_MARK.match(rline)
             if m is not None:
                 if not m.group(1).lower().strip().startswith('siehe'):
                     yield emit(reset_chair=False)
@@ -185,7 +186,7 @@ class SpeechParser(object):
                         }
                     continue
 
-            text.append(line)
+            text.append(rline)
         yield emit()
 
 
@@ -265,3 +266,4 @@ if __name__ == '__main__':
 
     for filename in os.listdir(TXT_DIR):
         parse_transcript(os.path.join(TXT_DIR, filename))
+        # break
