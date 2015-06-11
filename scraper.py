@@ -6,7 +6,8 @@ import requests
 import dataset
 from lxml import html
 from urlparse import urljoin
-from normality import normalize
+from normdatei.text import clean_text, clean_name, fingerprint
+from normdatei.parties import search_party_names
 
 log = logging.getLogger(__name__)
 
@@ -34,67 +35,13 @@ POI_MARK = re.compile('\((.*)\)\s*$', re.M)
 WRITING_BEGIN = re.compile('.*werden die Reden zu Protokoll genommen.*')
 WRITING_END = re.compile(u'(^Tagesordnungspunkt .*:\s*$|– Drucksache d{2}/\d{2,6} –.*|^Ich schließe die Aussprache.$)')
 
-POI_PREFIXES = re.compile(u'(Ge ?genruf|Weiterer Zuruf|Zuruf|Weiterer)( de[sr] (Abg.|Staatsministers|Bundesministers|Parl. Staatssekretärin))?')
-REM_CHAIRS = '|'.join(CHAIRS)
-NAME_REMOVE = re.compile(u'(\\[.*\\]|\\(.*\\)|%s|^Abg.? |Liedvortrag|Bundeskanzler(in)?|, zur.*|, auf die| an die|, an .*|, Parl\\. .*|gewandt|, Staatsmin.*|, Bundesmin.*|, Ministe.*)' % REM_CHAIRS, re.U)
-FP_REMOVE = re.compile(u'(^.*Dr.?( h.? ?c.?)?| (von( der)?)| [A-Z]\. )')
+# POI_PREFIXES = re.compile(u'(Ge ?genruf|Weiterer Zuruf|Zuruf|Weiterer)( de[sr] (Abg.|Staatsministers|Bundesministers|Parl. Staatssekretärin))?')
+# REM_CHAIRS = '|'.join(CHAIRS)
+# NAME_REMOVE = re.compile(u'(\\[.*\\]|\\(.*\\)|%s|^Abg.? |Liedvortrag|Bundeskanzler(in)?|, zur.*|, auf die| an die|, an .*|, Parl\\. .*|gewandt|, Staatsmin.*|, Bundesmin.*|, Ministe.*)' % REM_CHAIRS, re.U)
 
-PARTIES_SPLIT = re.compile(r'(, (auf|an|zur|zum)( die| den )?(.* gewandt)?)')
-PARTIES = {
-    'cducsu': re.compile(' cdu ?(csu)?'),
-    'spd': re.compile(' spd'),
-    'linke': re.compile(' (die|der|den) linken?'),
-    'fdp': re.compile(' fdp'),
-    'gruene': re.compile(' bund ?nis\-?(ses)? ?90 die gru ?nen'),
-}
 
 eng = dataset.connect('sqlite:///data.sqlite')
 table = eng['data']
-
-
-def clean_text(fh):
-    text = fh.read()
-    try:
-        text = text.decode('utf-8')
-    except:
-        text = text.decode('latin-1')
-    text = text.replace('\r', '\n')
-    text = text.replace(u'\xa0', ' ')
-    text = text.replace(u'\x96', '-')
-    text = text.replace(u'\u2014', '-')
-    text = text.replace(u'\u2013', '-')
-    return text
-
-
-def clean_name(name):
-    if name is None:
-        return name
-    name = POI_PREFIXES.sub('', name)
-    name = NAME_REMOVE.sub('', name)
-    name = name.strip('-')
-    return name.strip()
-
-
-def fingerprint(name):
-    if name is None:
-        return
-    name = FP_REMOVE.sub(' ', name.strip())
-    return normalize(name).replace(' ', '-')
-
-
-def in_america(you):  # can always find a party
-    if you is None:
-        return
-    you = PARTIES_SPLIT.split(you)
-    name = normalize(you[0])
-    parties = set()
-    for party, rex in PARTIES.items():
-        if rex.findall(name):
-            parties.add(party)
-    if not len(parties):
-        return
-    parties = ':'.join(sorted(parties))
-    return parties
 
 
 class SpeechParser(object):
@@ -200,7 +147,8 @@ names = set()
 
 def parse_transcript(filename):
     wp, session = file_metadata(filename)
-    text = clean_text(open(filename, 'rb'))
+    with open(filename, 'rb') as fh:
+        text = clean_text(fh.read())
     table.delete(wahlperiode=wp, sitzung=session)
 
     base_data = {
@@ -217,7 +165,7 @@ def parse_transcript(filename):
         contrib['sequence'] = seq
         contrib['speaker_cleaned'] = clean_name(contrib['speaker'])
         contrib['speaker_fp'] = fingerprint(contrib['speaker_cleaned'])
-        contrib['speaker_party'] = in_america(contrib['speaker'])
+        contrib['speaker_party'] = search_party_names(contrib['speaker'])
         seq += 1
         table.insert(contrib)
 
