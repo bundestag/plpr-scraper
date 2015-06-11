@@ -11,6 +11,7 @@ import os
 import csv
 import sys
 from unicodecsv import DictReader
+import unicodedata
 from lxml import etree
 
 DATA_DIR = 'data'
@@ -35,6 +36,11 @@ def iter_session(path):
     with open(path, 'rb') as fh:
         for row in DictReader(fh):
             yield row
+
+
+def safe_text(text):
+    text = "".join(ch for ch in text if unicodedata.category(ch)[0] != "C")
+    return text.strip()
 
 
 def init_doc(row):
@@ -120,7 +126,7 @@ def convert_session(path):
         for para in text.split('\n'):
             if len(para.strip()):
                 p = etree.SubElement(speech, "p")
-                p.text = para.strip()
+                p.text = safe_text(para)
 
     out_file = os.path.basename(path).replace('.csv', '.xml')
     out_file = os.path.join(XML_DIR, out_file)
