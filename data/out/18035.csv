@@ -1,5 +1,5 @@
 id,sitzung,wahlperiode,in_writing,speaker,speaker_cleaned,speaker_fp,sequence,text,filename,type,speaker_party
-2234663,35,18,0,,,,0,"Vizepräsidentin Edelgard Bulmahn:
+2815013,35,18,0,,,,0,"Vizepräsidentin Edelgard Bulmahn:
 
 Guten Tag, liebe Kolleginnen und Kollegen! Ich begrüße Sie ganz herzlich und eröffne die Sitzung.
 
@@ -182,12 +182,12 @@ Seit über einem halben Jahr gibt es in dieser Bundesregierung einen großen Kon
 Dr. Johanna Wanka, Bundesministerin für Bildung und Forschung:
 
 Forschung und Innovation in Deutschland bezahlen wir nicht aus den Rentenbeiträgen",data/txt/18035.txt,speech,
-2234664,35,18,0,,,,1,Lachen beim BÜNDNIS 90/DIE GRÜNEN,data/txt/18035.txt,poi,
-2234665,35,18,0,,,,2,"- ja, das ist so -, sondern aus Steuermitteln. In den Ko-alitionsverhandlungen ist ergänzend zu all dem, was schon im Plan stand, gesagt worden: 23 Milliarden Euro Mehrausgaben in dieser Legislaturperiode; und von diesen 23 Milliarden Euro werden 9 Milliarden Euro für den Bereich Bildung, Wissenschaft und Forschung vorgesehen. Das ist, wenn ich richtig rechne, mehr als ein Drittel. Ich denke, das ist eine ganz klare Prioritätensetzung seitens der Koalitionsfraktionen.
+2815014,35,18,0,,,,1,Lachen beim BÜNDNIS 90/DIE GRÜNEN,data/txt/18035.txt,poi,
+2815015,35,18,0,,,,2,"- ja, das ist so -, sondern aus Steuermitteln. In den Ko-alitionsverhandlungen ist ergänzend zu all dem, was schon im Plan stand, gesagt worden: 23 Milliarden Euro Mehrausgaben in dieser Legislaturperiode; und von diesen 23 Milliarden Euro werden 9 Milliarden Euro für den Bereich Bildung, Wissenschaft und Forschung vorgesehen. Das ist, wenn ich richtig rechne, mehr als ein Drittel. Ich denke, das ist eine ganz klare Prioritätensetzung seitens der Koalitionsfraktionen.
 
 Die Pressekonferenz von Herrn Hippler, HRK-Chef, Herrn Strohschneider, DFG-Chef, und Herrn Marquardt, Chef des Wissenschaftsrats, habe ich sehr genau verfolgt. Sie sind nicht wegen mangelnder Sicherheit in Aufregung; denn alle außeruniversitären Einrichtungen haben ganz klare Rahmenbedingungen. Und dass sie so schnell wie möglich eine Lösung haben möchten, ist natürlich; dafür haben sie geworben. Das finde ich völlig legitim. Wir sind bei den Verhandlungen auf der Zielgeraden. Ich denke, es wird eine gute Lösung.",data/txt/18035.txt,speech,
-2234666,35,18,0,Kai Gehring [BÜNDNIS 90/DIE GRÜNEN],Kai Gehring [BÜNDNIS 90/DIE GRÜNEN],kai-gehring-bundnis-90-die-grunen,3,Und sind Sie dabei?,data/txt/18035.txt,poi,gruene
-2234667,35,18,0,,,,4,"Vizepräsidentin Edelgard Bulmahn:
+2815016,35,18,0,Kai Gehring [BÜNDNIS 90/DIE GRÜNEN],Kai Gehring,kai-gehring,3,Und sind Sie dabei?,data/txt/18035.txt,poi,gruene
+2815017,35,18,0,,,,4,"Vizepräsidentin Edelgard Bulmahn:
 
 Als Nächster hat der Kollege Diaby das Wort.
 
@@ -272,8 +272,8 @@ Zum Beispiel ist bei den Juniorprofessuren - das freut mich besonders - ein viel
 Ich glaube, wenn der Bund, die Bundesregierung, die Koalitionsfraktionen sagen würden: Wir wollen die Grundfinanzierung der Hochschulen unterstützen, dann ginge das weit über unseren Auftrag hinaus. Dazu besteht weder eine rechtliche Verpflichtung, noch gibt es ohne Weiteres die entsprechenden Möglichkeiten. Es wäre eine kleine Revolution, wenn wir das hinbekommen würden. Wir wollen, dass die Bedingungen an den Hochschulen verbessert werden, auch dadurch, dass die Grundfinanzierung verbessert wird.
 
 Ein Beispiel ist die Exzellenzinitiative. Wozu führt sie? In der Regel hat sie zur Folge, dass in den Hochschulen viel Geld für qualifizierte Arbeitsplätze vorhanden ist. Dass der Anteil junger Menschen, der an einer Hochschule oder Wissenschaftseinrichtung befristet - das ist für sie ein großer Nachteil - beschäftigt ist, so groß ist, hat damit zu tun, dass der Bund die dafür erforderlichen finanziellen Möglichkeiten geschaffen hat.",data/txt/18035.txt,speech,
-2234668,35,18,0,Kai Gehring [BÜNDNIS 90/DIE GRÜNEN],Kai Gehring [BÜNDNIS 90/DIE GRÜNEN],kai-gehring-bundnis-90-die-grunen,5,Was ist mit dem Wissenschaftszeitvertragsgesetz?,data/txt/18035.txt,poi,gruene
-2234669,35,18,0,,,,6,"- Das wird angegangen, haben wir uns vorgenommen.
+2815018,35,18,0,Kai Gehring [BÜNDNIS 90/DIE GRÜNEN],Kai Gehring,kai-gehring,5,Was ist mit dem Wissenschaftszeitvertragsgesetz?,data/txt/18035.txt,poi,gruene
+2815019,35,18,0,,,,6,"- Das wird angegangen, haben wir uns vorgenommen.
 
 Vizepräsidentin Edelgard Bulmahn:
 
@@ -328,8 +328,8 @@ Es ist wichtig, von Anfang an auf die Ängste der Menschen, die es durchaus gibt
 Das sind einige wichtige Punkte. Es gibt aber noch viele andere. Ich möchte zum Beispiel gerne, dass die Fachhochschulen noch sehr viel stärker in der Breite präsent sind, weil sie Anlaufstellen für die kleinen und mittleren Unternehmen sind. Das ist aus meiner Sicht ein Weg, um Innovationen mehr zu befördern.
 
 Ich hoffe auf eine gute Diskussion, wenn wir hier über unsere Eckpunkte für die Weiterentwicklung der Hightech-Strategie sprechen.",data/txt/18035.txt,speech,
-2234670,35,18,0,Kai Gehring [BÜNDNIS 90/DIE GRÜNEN],Kai Gehring [BÜNDNIS 90/DIE GRÜNEN],kai-gehring-bundnis-90-die-grunen,7,"Wir sind gespannt, wann das der Fall ist!",data/txt/18035.txt,poi,gruene
-2234671,35,18,0,,,,8,"Vizepräsidentin Edelgard Bulmahn:
+2815020,35,18,0,Kai Gehring [BÜNDNIS 90/DIE GRÜNEN],Kai Gehring,kai-gehring,7,"Wir sind gespannt, wann das der Fall ist!",data/txt/18035.txt,poi,gruene
+2815021,35,18,0,,,,8,"Vizepräsidentin Edelgard Bulmahn:
 
 Liebe Kolleginnen und Kollegen, gibt es Fragen zu anderen Themen der heutigen Kabinettssitzung? - Das ist nicht der Fall. Damit beende ich den Bereich der Themen der heutigen Kabinettssitzung.
 
@@ -614,10 +614,10 @@ Ich möchte nur zum Punkt Gespräche nachfragen; den Punkt Verhandlungen und B
 Rita Schwarzelühr-Sutter, Parl. Staatssekretärin bei der Bundesministerin für Umwelt, Naturschutz, Bau und Reaktorsicherheit:
 
 Die Liste der Gespräche und Gesprächsteilnehmer ist ja nachher Gegenstand einer Frage von Herrn Meiwald, gerichtet an das BMUB, und einer weiteren Frage, gerichtet an das BMWi. Ich möchte jetzt einfach darum bitten, dass ich Ihnen diese Liste nachher zukommen lassen darf.",data/txt/18035.txt,speech,
-2234672,35,18,0,Steffi Lemke [BÜNDNIS 90/DIE GRÜNEN],Steffi Lemke [BÜNDNIS 90/DIE GRÜNEN],steffi-lemke-bundnis-90-die-grunen,9,"Ich wollte aber wissen, ob Sie über die Gespräche informiert worden sind!",data/txt/18035.txt,poi,gruene
-2234673,35,18,0,,,,10,"- Es gab keine Gespräche, in denen dieses Thema im Mittelpunkt stand.",data/txt/18035.txt,speech,
-2234674,35,18,0,,,,11,Zuruf der Abg. Steffi Lemke [BÜNDNIS 90/DIE GRÜNEN],data/txt/18035.txt,poi,
-2234675,35,18,0,,,,12,"Vizepräsidentin Edelgard Bulmahn:
+2815022,35,18,0,Steffi Lemke [BÜNDNIS 90/DIE GRÜNEN],Steffi Lemke,steffi-lemke,9,"Ich wollte aber wissen, ob Sie über die Gespräche informiert worden sind!",data/txt/18035.txt,poi,gruene
+2815023,35,18,0,,,,10,"- Es gab keine Gespräche, in denen dieses Thema im Mittelpunkt stand.",data/txt/18035.txt,speech,
+2815024,35,18,0,,,,11,Zuruf der Abg. Steffi Lemke [BÜNDNIS 90/DIE GRÜNEN],data/txt/18035.txt,poi,
+2815025,35,18,0,,,,12,"Vizepräsidentin Edelgard Bulmahn:
 
 Natürlich können Sie eine weitere Nachfrage stellen, Frau Lemke. Ich bitte Sie aber, dafür meine Worterteilung abzuwarten und nicht dazwischenzurufen. - Bitte, Frau Lemke.
 
@@ -644,8 +644,8 @@ Rita Schwarzelühr-Sutter, Parl. Staatssekretärin bei der Bundesministerin für
 Frau Höhn, Sie verknüpfen jetzt mehrere Themenbereiche, nämlich das Thema der Entsorgungsfonds und die Frage, wie Vattenfall sich unternehmerisch aufgestellt hat. Ich möchte beide Themen gern trennen.
 
 Zu dem Thema Entsorgung hat es, wie ich es gerade gesagt habe, keine Verhandlungen und keine Beschlüsse gegeben. Ich könnte jetzt der Frage von Frau Kotting-Uhl vorgreifen, die darauf gerichtet ist, zu erfahren, wie sich die Situation für die Muttergesellschaft durch Beherrschungs- und Gewinnabführungsverträge verändert hat. Ich kann die Antwort auf diese Frage gern vorziehen.",data/txt/18035.txt,speech,
-2234676,35,18,0,Bärbel Höhn [BÜNDNIS 90/DIE GRÜNEN],Bärbel Höhn [BÜNDNIS 90/DIE GRÜNEN],barbel-hohn-bundnis-90-die-grunen,13,Die Frage war nicht die von Frau Kotting-Uhl!,data/txt/18035.txt,poi,gruene
-2234677,35,18,0,,,,14,"Vizepräsidentin Edelgard Bulmahn:
+2815026,35,18,0,Bärbel Höhn [BÜNDNIS 90/DIE GRÜNEN],Bärbel Höhn,barbel-hohn,13,Die Frage war nicht die von Frau Kotting-Uhl!,data/txt/18035.txt,poi,gruene
+2815027,35,18,0,,,,14,"Vizepräsidentin Edelgard Bulmahn:
 
 Jetzt hat aber zunächst die Kollegin Verlinden das Wort.
 
@@ -662,22 +662,22 @@ Folgende Gespräche auf Leitungsebene des BMUB mit hochrangigen Vertretern von K
 Am 25. April 2014 gab es ein Telefonat von Staatssekretär Jochen Flasbarth mit Dr.-Ing. Bernhard Fischer von Eon Generation GmbH zum Thema Standortzwischenlager. Aspekte des Rückbaus und der Entsorgung der AKW bzw. des Atommülls waren kein Gesprächsgegenstand.
 
 Am 19. Mai 2014 gab es ein Telefonat von Staatssekretär Jochen Flasbarth mit Dr.-Ing. Hans-Josef Zimmer von EnBW. Auch dabei ging es um das Thema Standortzwischenlager. Aspekte des Rückbaus und der Entsorgung der AKW bzw. des Atommülls waren kein Gesprächsthema.",data/txt/18035.txt,speech,
-2234678,35,18,0,Dr. Julia Verlinden [BÜNDNIS 90/DIE GRÜNEN],Dr. Julia Verlinden [BÜNDNIS 90/DIE GRÜNEN],julia-verlinden-bundnis-90-die-grunen,15,Entschuldigung!,data/txt/18035.txt,poi,gruene
-2234679,35,18,0,,,,16,- Sie wollten die Gespräche und die Termine wissen. Ich trage es Ihnen gerade detailliert vor.,data/txt/18035.txt,speech,
-2234680,35,18,0,Steffi Lemke [BÜNDNIS 90/DIE GRÜNEN],Steffi Lemke [BÜNDNIS 90/DIE GRÜNEN],steffi-lemke-bundnis-90-die-grunen,17,Das hat sie nicht gefragt!,data/txt/18035.txt,poi,gruene
-2234681,35,18,0,,,,18,"Vizepräsidentin Edelgard Bulmahn:
+2815028,35,18,0,Dr. Julia Verlinden [BÜNDNIS 90/DIE GRÜNEN],Dr. Julia Verlinden,julia-verlinden,15,Entschuldigung!,data/txt/18035.txt,poi,gruene
+2815029,35,18,0,,,,16,- Sie wollten die Gespräche und die Termine wissen. Ich trage es Ihnen gerade detailliert vor.,data/txt/18035.txt,speech,
+2815030,35,18,0,Steffi Lemke [BÜNDNIS 90/DIE GRÜNEN],Steffi Lemke,steffi-lemke,17,Das hat sie nicht gefragt!,data/txt/18035.txt,poi,gruene
+2815031,35,18,0,,,,18,"Vizepräsidentin Edelgard Bulmahn:
 
 Wir kommen jetzt zur nächsten Frage.",data/txt/18035.txt,speech,
-2234682,35,18,0,,,,19,Zuruf der Abg. Dr. Julia Verlinden [BÜNDNIS 90/DIE GRÜNEN],data/txt/18035.txt,poi,
-2234683,35,18,0,,,,20,"Rita Schwarzelühr-Sutter, Parl. Staatssekretärin bei der Bundesministerin für Umwelt, Naturschutz, Bau und Reaktorsicherheit:
+2815032,35,18,0,,,,19,Zuruf der Abg. Dr. Julia Verlinden [BÜNDNIS 90/DIE GRÜNEN],data/txt/18035.txt,poi,
+2815033,35,18,0,,,,20,"Rita Schwarzelühr-Sutter, Parl. Staatssekretärin bei der Bundesministerin für Umwelt, Naturschutz, Bau und Reaktorsicherheit:
 
 Schriftverkehr gibt es keinen.",data/txt/18035.txt,speech,
-2234684,35,18,0,Dr. Julia Verlinden [BÜNDNIS 90/DIE GRÜNEN],Dr. Julia Verlinden [BÜNDNIS 90/DIE GRÜNEN],julia-verlinden-bundnis-90-die-grunen,21,Austausch zwischen Umwelt- und Wirtschaftsministerium!,data/txt/18035.txt,poi,gruene
-2234685,35,18,0,,,,22,"Vizepräsidentin Edelgard Bulmahn:
+2815034,35,18,0,Dr. Julia Verlinden [BÜNDNIS 90/DIE GRÜNEN],Dr. Julia Verlinden,julia-verlinden,21,Austausch zwischen Umwelt- und Wirtschaftsministerium!,data/txt/18035.txt,poi,gruene
+2815035,35,18,0,,,,22,"Vizepräsidentin Edelgard Bulmahn:
 
 Entschuldigung! Wir haben noch eine ganze Reihe von Fragen zu dem Themenkomplex. Ich würde einfach darum bitten, dass im Rahmen der Behandlung der weiteren Fragen noch Nachfragen gestellt werden.",data/txt/18035.txt,speech,
-2234686,35,18,0,Steffi Lemke [BÜNDNIS 90/DIE GRÜNEN],Steffi Lemke [BÜNDNIS 90/DIE GRÜNEN],steffi-lemke-bundnis-90-die-grunen,23,Wenn keine Antworten kommen!,data/txt/18035.txt,poi,gruene
-2234687,35,18,0,,,,24,"Ich rufe jetzt die Frage 16 der Abgeordneten Sylvia Kotting-Uhl auf:
+2815036,35,18,0,Steffi Lemke [BÜNDNIS 90/DIE GRÜNEN],Steffi Lemke,steffi-lemke,23,Wenn keine Antworten kommen!,data/txt/18035.txt,poi,gruene
+2815037,35,18,0,,,,24,"Ich rufe jetzt die Frage 16 der Abgeordneten Sylvia Kotting-Uhl auf:
 
 Bestehen nach Kenntnis des BMUB jeweils zwischen der Vattenfall Europe Sales GmbH einerseits und der Kernkraftwerk Brunsbüttel GmbH & Co. OHG und der Kernkraftwerk Krümmel GmbH & Co. OHG andererseits jeweils Gewinnabführungs- und/oder Beherrschungsverträge, und falls nein, welche Konsequenzen ergeben sich hieraus aus Sicht des BMUB bezüglich einer möglichen oder nicht möglichen finanziellen Heranziehung der Vattenfall Europe Sales GmbH im nuklearen Haftungsfall oder bei einem Nichtausreichen der finanziellen Mittel der beiden oben genannten Betreibergesellschaften von Brunsbüttel und Krümmel für Rückbau und Entsorgung des betreffenden Atomkraftwerks und Atommülls?
 
@@ -924,8 +924,8 @@ Jetzt hat die Kollegin Verlinden das Wort zu einer Nachfrage.
 Dr. Julia Verlinden (BÜNDNIS 90/DIE GRÜNEN):
 
 Wir haben verschiedene Rückmeldungen über die Gespräche mit den EVU bekommen, bei denen es mehr oder weniger intensiv um dieses Thema ging. Ich möchte auf meine Frage von eben zurückkommen. Mir ist es wichtig, zu erfahren: Gab es einen Austausch innerhalb der Bundesregierung, also zwischen den Ressorts?",data/txt/18035.txt,speech,
-2234688,35,18,0,"Iris Gleicke, Parl. Staatssekretärin","Iris Gleicke, Parl. Staatssekretärin",iris-gleicke-parl-staatssekretarin,25,Wir reden öfters miteinander!,data/txt/18035.txt,poi,
-2234689,35,18,0,,,,26,"Gab es Besprechungen auf Leitungsebene zwischen Umweltministerium, Energieministerium und Kanzleramt über die vielen verschiedenen Gespräche, die jeweils mit den EVU geführt worden sind, um eine gemeinsame Linie abzustecken, um gemeinsam festzulegen, wie man politisch weiter vorgeht? Dazu haben wir jetzt noch gar nichts gehört. Ich würde mich freuen, wenn Sie noch ein bisschen konkreter schildern würden, welche Absprachen zwischen den verschiedenen Ressorts, die mit sehr unterschiedlichen Positionen in der Öffentlichkeit wahrgenommen werden, stattfanden.
+2815038,35,18,0,"Iris Gleicke, Parl. Staatssekretärin",Iris Gleicke,iris-gleicke,25,Wir reden öfters miteinander!,data/txt/18035.txt,poi,
+2815039,35,18,0,,,,26,"Gab es Besprechungen auf Leitungsebene zwischen Umweltministerium, Energieministerium und Kanzleramt über die vielen verschiedenen Gespräche, die jeweils mit den EVU geführt worden sind, um eine gemeinsame Linie abzustecken, um gemeinsam festzulegen, wie man politisch weiter vorgeht? Dazu haben wir jetzt noch gar nichts gehört. Ich würde mich freuen, wenn Sie noch ein bisschen konkreter schildern würden, welche Absprachen zwischen den verschiedenen Ressorts, die mit sehr unterschiedlichen Positionen in der Öffentlichkeit wahrgenommen werden, stattfanden.
 
 Rita Schwarzelühr-Sutter, Parl. Staatssekretärin bei der Bundesministerin für Umwelt, Naturschutz, Bau und Reaktorsicherheit:
 
@@ -1024,8 +1024,8 @@ Ich möchte ein Stück zurückgehen, und zwar in das Jahr 2011. Mir ist bewusst,
 Rita Schwarzelühr-Sutter, Parl. Staatssekretärin bei der Bundesministerin für Umwelt, Naturschutz, Bau und Reaktorsicherheit:
 
 Sehr geehrte Frau Kollegin Kotting-Uhl, ich kann dazu jetzt keine Auskunft geben, würde Ihnen aber schriftlich nachreichen, ob und gegebenenfalls welche Gespräche es in jener Zeit zu diesem Thema gegeben hat.",data/txt/18035.txt,speech,
-2234690,35,18,0,Sylvia Kotting-Uhl [BÜNDNIS 90/DIE GRÜNEN],Sylvia Kotting-Uhl [BÜNDNIS 90/DIE GRÜNEN],sylvia-kotting-uhl-bundnis-90-die-grunen,27,Gut!,data/txt/18035.txt,poi,gruene
-2234691,35,18,0,,,,28,"Vizepräsidentin Edelgard Bulmahn:
+2815040,35,18,0,Sylvia Kotting-Uhl [BÜNDNIS 90/DIE GRÜNEN],Sylvia Kotting-Uhl,sylvia-kotting-uhl,27,Gut!,data/txt/18035.txt,poi,gruene
+2815041,35,18,0,,,,28,"Vizepräsidentin Edelgard Bulmahn:
 
 Jetzt hat der Kollege Zdebel das Wort zu einer Nachfrage.
 
@@ -1078,8 +1078,8 @@ Aus welchem Anlass sind diese Gespräche denn geführt worden? War der Anlass, d
 Iris Gleicke, Parl. Staatssekretärin beim Bundesminister für Wirtschaft und Energie:
 
 Herr Kollege Krischer, mir ist zum Anlass der Ein-ladungen und zum Prozedere nichts bekannt. Ich habe Ihnen nur die beiden Termine genannt, die mir das Kanzleramt mitgeteilt hat. Aber ich kann dort gerne nachfragen und Ihnen diese Frage schriftlich beantworten.",data/txt/18035.txt,speech,
-2234692,35,18,0,Oliver Krischer [BÜNDNIS 90/DIE GRÜNEN],Oliver Krischer [BÜNDNIS 90/DIE GRÜNEN],oliver-krischer-bundnis-90-die-grunen,29,"Ja, das würde mich sehr interessieren!",data/txt/18035.txt,poi,gruene
-2234693,35,18,0,,,,30,"Vizepräsidentin Edelgard Bulmahn:
+2815042,35,18,0,Oliver Krischer [BÜNDNIS 90/DIE GRÜNEN],Oliver Krischer,oliver-krischer,29,"Ja, das würde mich sehr interessieren!",data/txt/18035.txt,poi,gruene
+2815043,35,18,0,,,,30,"Vizepräsidentin Edelgard Bulmahn:
 
 Als nächste Fragestellerin hat die Kollegin Höhn das Wort.
 
@@ -1134,8 +1134,8 @@ Können Sie das schriftlich nachreichen?
 Iris Gleicke, Parl. Staatssekretärin beim Bundesminister für Wirtschaft und Energie:
 
 Ja, ich kann nachfragen - wenn die Gesprächspartner mich da informieren.",data/txt/18035.txt,speech,
-2234694,35,18,0,Peter Meiwald [BÜNDNIS 90/DIE GRÜNEN],Peter Meiwald [BÜNDNIS 90/DIE GRÜNEN],peter-meiwald-bundnis-90-die-grunen,31,Vielen Dank!,data/txt/18035.txt,poi,gruene
-2234695,35,18,0,,,,32,"Vizepräsidentin Edelgard Bulmahn:
+2815044,35,18,0,Peter Meiwald [BÜNDNIS 90/DIE GRÜNEN],Peter Meiwald,peter-meiwald,31,Vielen Dank!,data/txt/18035.txt,poi,gruene
+2815045,35,18,0,,,,32,"Vizepräsidentin Edelgard Bulmahn:
 
 Wir kommen zur Frage 24 der Abgeordneten Verlinden:
 
@@ -1238,9 +1238,9 @@ Frau Staatssekretärin, ich habe jetzt gehört, dass es Diskussionen, Gespräche
 Iris Gleicke, Parl. Staatssekretärin beim Bundesminister für Wirtschaft und Energie:
 
 Herr Kollege Krischer, ich glaube, es ist nichts dagegen einzuwenden, dass die Mitglieder der Bundesregierung, aber auch die Mitarbeiterinnen und Mitarbeiter in den einzelnen Ministerien ihrer Arbeit nachkommen, Gespräche in unterschiedlichen Konstellationen führen, sich mit unterschiedlichen Vorschlägen befassen und im Endeffekt Vorbereitungen für weiterführende Gespräche treffen. Die Federführung ist allein schon an der Zuordnung Ihrer Fragen zu dem entsprechenden Geschäftsbereich zu erkennen.",data/txt/18035.txt,speech,
-2234696,35,18,0,Sylvia Kotting-Uhl [BÜNDNIS 90/DIE GRÜNEN],Sylvia Kotting-Uhl [BÜNDNIS 90/DIE GRÜNEN],sylvia-kotting-uhl-bundnis-90-die-grunen,33,Daraus nun gerade nicht!,data/txt/18035.txt,poi,gruene
-2234697,35,18,0,Oliver Krischer [BÜNDNIS 90/DIE GRÜNEN],Oliver Krischer [BÜNDNIS 90/DIE GRÜNEN],oliver-krischer-bundnis-90-die-grunen,34,Nein! Wer hat die Federführung?,data/txt/18035.txt,poi,gruene
-2234698,35,18,0,,,,35,"Vizepräsident Peter Hintze:
+2815046,35,18,0,Sylvia Kotting-Uhl [BÜNDNIS 90/DIE GRÜNEN],Sylvia Kotting-Uhl,sylvia-kotting-uhl,33,Daraus nun gerade nicht!,data/txt/18035.txt,poi,gruene
+2815047,35,18,0,Oliver Krischer [BÜNDNIS 90/DIE GRÜNEN],Oliver Krischer,oliver-krischer,34,Nein! Wer hat die Federführung?,data/txt/18035.txt,poi,gruene
+2815048,35,18,0,,,,35,"Vizepräsident Peter Hintze:
 
 Die selbstständige Wortergreifung ist jedenfalls nicht zulässig. Außerdem sage ich allen, die am Thema interessiert sind: Es gibt noch weitere Fragen von anderen Kolleginnen und Kollegen zu diesem Komplex, sodass ich denke, dieses Thema wird noch vertieft werden können.
 
@@ -1289,8 +1289,8 @@ Am 20. März 2014 hat Herr Baake ein Gespräch geführt mit Eberhard Schomburg v
 Am 10. April 2014 führte Herr Baake ein Gespräch mit Dr. Ingo Luge von Eon, Dr. Frank Mastiaux von EnBW sowie Vertreterinnen und Vertretern anderer Organisationen. In diesem Gespräch ging es um die Versorgungssicherheit in Süddeutschland. Aspekte des Rückbaus und der Entsorgung von Kernkraftwerken bzw. radioaktiven Abfällen wurden nicht besprochen.
 
 Da Sie sich das nicht alles merken konnten, bekommen Sie das selbstverständlich schriftlich, genauso wie die Protokollanten.",data/txt/18035.txt,speech,
-2234699,35,18,0,,,,36,Beifall des Abg. Jörn Wunderlich [DIE LINKE],data/txt/18035.txt,poi,
-2234700,35,18,0,,,,37,"Vizepräsident Peter Hintze:
+2815049,35,18,0,,,,36,Beifall des Abg. Jörn Wunderlich [DIE LINKE],data/txt/18035.txt,poi,
+2815050,35,18,0,,,,37,"Vizepräsident Peter Hintze:
 
 Die Bundesregierung hat die Antwortzeit von zwei Minuten, die normalerweise üblich ist, geringfügig überzogen.
 
@@ -1315,10 +1315,10 @@ Nun zu meiner Nachfrage. Sie haben gesagt, dass Sie mindestens zweimal über das
 Iris Gleicke, Parl. Staatssekretärin beim Bundesminister für Wirtschaft und Energie:
 
 Frau Kollegin Wilms, Sie haben mich danach gefragt, mit welchen hochrangigen Vertretern von atomkraftwerkbetreibenden Energiekonzernen wir Gespräche geführt haben.",data/txt/18035.txt,speech,
-2234701,35,18,0,Dr. Valerie Wilms [BÜNDNIS 90/DIE GRÜNEN],Dr. Valerie Wilms [BÜNDNIS 90/DIE GRÜNEN],valerie-wilms-bundnis-90-die-grunen,38,"Ja, das ist richtig!",data/txt/18035.txt,poi,gruene
-2234702,35,18,0,,,,39,"Ich kann Ihnen sagen, welche Gespräche wir in der Zwischenzeit noch geführt haben. Aber daraus zu schließen, dass an dieser Stelle ein besonders großer Lobbyismus ausgebrochen sei, halte ich für ein bisschen abenteuerlich, wenn ich das bemerken darf. Ich versuche, auf Ihre Fragen so erschöpfend wie möglich zu antworten.",data/txt/18035.txt,speech,
-2234703,35,18,0,Dr. Valerie Wilms [BÜNDNIS 90/DIE GRÜNEN],Dr. Valerie Wilms [BÜNDNIS 90/DIE GRÜNEN],valerie-wilms-bundnis-90-die-grunen,40,Danke!,data/txt/18035.txt,poi,gruene
-2234704,35,18,0,,,,41,"Wie ich vorhin gesagt habe, ist es in den beiden Gesprächen, die ich auch aufgezählt habe, am Rande um sehr unkonkrete Vorschläge gegangen. Es hat keine Zugeständnisse, Beschlüsse oder sonst irgendetwas gegeben.
+2815051,35,18,0,Dr. Valerie Wilms [BÜNDNIS 90/DIE GRÜNEN],Dr. Valerie Wilms,valerie-wilms,38,"Ja, das ist richtig!",data/txt/18035.txt,poi,gruene
+2815052,35,18,0,,,,39,"Ich kann Ihnen sagen, welche Gespräche wir in der Zwischenzeit noch geführt haben. Aber daraus zu schließen, dass an dieser Stelle ein besonders großer Lobbyismus ausgebrochen sei, halte ich für ein bisschen abenteuerlich, wenn ich das bemerken darf. Ich versuche, auf Ihre Fragen so erschöpfend wie möglich zu antworten.",data/txt/18035.txt,speech,
+2815053,35,18,0,Dr. Valerie Wilms [BÜNDNIS 90/DIE GRÜNEN],Dr. Valerie Wilms,valerie-wilms,40,Danke!,data/txt/18035.txt,poi,gruene
+2815054,35,18,0,,,,41,"Wie ich vorhin gesagt habe, ist es in den beiden Gesprächen, die ich auch aufgezählt habe, am Rande um sehr unkonkrete Vorschläge gegangen. Es hat keine Zugeständnisse, Beschlüsse oder sonst irgendetwas gegeben.
 
 Vizepräsident Peter Hintze:
 
@@ -1481,8 +1481,8 @@ Danke schön, Herr Präsident. - Frau Staatssekretärin, ist das nicht ein bissc
 Iris Gleicke, Parl. Staatssekretärin beim Bundesminister für Wirtschaft und Energie:
 
 Herr Kollege, ich habe Ihnen gerade gesagt, dass es diese allgemeinen Gespräche gegeben hat. Sie gehören zu unserer Arbeit; das ist also systemimmanent, will ich mal sagen. Aber Sie haben mich gefragt - auf Ihre Frage bezieht sich meine Antwort -, was Inhalt dieser Vorschläge war. Ich habe Ihnen gesagt: Die Vorschläge waren unkonkret. Ich kann dazu keine Ausführungen machen, weil es quasi keinen konkreten Vorschlag gibt.",data/txt/18035.txt,speech,
-2234705,35,18,0,Heinz Wiese [Ehingen] [CDU/CSU],Heinz Wiese [Ehingen] [CDU/CSU],heinz-wiese-ehingen-cdu-csu,42,So ist es nun mal!,data/txt/18035.txt,poi,cducsu
-2234706,35,18,0,,,,43,"Ich bitte dafür herzlich um Verständnis.
+2815055,35,18,0,Heinz Wiese [Ehingen] [CDU/CSU],Heinz Wiese,heinz-wiese,42,So ist es nun mal!,data/txt/18035.txt,poi,cducsu
+2815056,35,18,0,,,,43,"Ich bitte dafür herzlich um Verständnis.
 
 Vizepräsident Peter Hintze:
 
@@ -1569,8 +1569,8 @@ auf Verlangen der Fraktionen der CDU/CSU und SPD
 Freilassung der von Boko Haram entführten Schulmädchen in Nigeria
 
 Ich eröffne die Aussprache. Das Wort hat der Vorsitzende der CDU/CSU-Fraktion, Volker Kauder.",data/txt/18035.txt,speech,
-2234707,35,18,0,,,,44,Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD,data/txt/18035.txt,poi,
-2234708,35,18,0,,,,45,"Volker Kauder (CDU/CSU):
+2815057,35,18,0,,,,44,Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD,data/txt/18035.txt,poi,
+2815058,35,18,0,,,,45,"Volker Kauder (CDU/CSU):
 
 Herr Präsident! Liebe Kolleginnen! Liebe Kollegen! Seit einiger Zeit bewegt uns das Schicksal von 200 jungen Mädchen und Frauen - vielleicht sind es auch ein wenig mehr -, die in Nigeria brutal entführt wurden und nach Ankündigung der Gruppe, die sie entführt hat, als Sklavinnen verkauft oder zwangsverheiratet werden sollen. Diese Gruppe, Boko Haram, hat sich nicht nur zu der Entführung bekannt, sondern hat diese jungen Mädchen und Frauen in einer widerlichen Art und Weise öffentlich zur Schau gestellt. Sie hat damit gezeigt, was für einen Charakter sie hat.
 
@@ -1579,24 +1579,24 @@ Wir alle - bis vielleicht auf diejenigen, die schon vor Ort waren - haben unsere
 Es gibt in den großen Zeitungen eine ganze Reihe von analytischen Berichten darüber, was hinter dieser Tat steckt. Es wird über Machtfragen, Geldfragen, ethnische Fragen und Landfragen spekuliert. Das ein oder andere spielt natürlich eine Rolle. Wir brauchen aber gar nicht zu spekulieren. Es gibt nämlich eine Fülle von Dokumenten von Boko Haram, die den Kern der Gruppe aufzeigen. In diesen Dokumenten wird eindeutig und klar formuliert: Wir wollen - zumindest im Norden Nigerias -, eine islamische Republik, einen Teil Afrikas, in dem ausschließlich die Scharia herrscht. - Das ist nicht einfach so dahingesprochen. In beachtlichen Teilen im Norden des Landes wurde die Scharia bereits überfallartig eingeführt.
 
 Boko Haram hat nicht nur erklärt, dass die Scharia in ganz Nigeria eingeführt werden soll, sondern auch, dass sie in diesem Land keine Christen haben will. Es ist also nicht wie in anderen Staaten, wo man die Scharia auch auf Minderheiten ausdehnt. Boko Haram will, dass die Christen aus Nigeria verschwinden. Das ist eine klare Andeutung, die zeigt, dass es im Kern nicht um eine -ethnische Auseinandersetzung oder etwas anderes geht. Im Kern geht es vielmehr darum, dass Boko Haram die Christen aus dem Land verdrängen will und nicht davor zurückschreckt, Kindern - es sind übrigens auch Jungen überfallen worden - in brutalster Art und Weise ein solches Verbrechen anzutun, und zwar, weil sie auch Christen sind oder vielleicht, weil sie Christen sind. Ich finde, wir haben daher allen Grund, dies auch offen anzusprechen.",data/txt/18035.txt,speech,
-2234709,35,18,0,,,,46,Beifall bei der CDU/CSU und der SPD,data/txt/18035.txt,poi,
-2234710,35,18,0,,,,47,"Sie wissen alle, dass mich die Frage der Religionsfreiheit seit vielen Jahren beschäftigt. Ich bin sehr vorsichtig, wenn es um die Frage geht: Wo handelt es sich um ethnische Konflikte, und wo geht es tatsächlich um Religionsfreiheit? In diesem Fall in Nigeria geht es um Religionen.
+2815059,35,18,0,,,,46,Beifall bei der CDU/CSU und der SPD,data/txt/18035.txt,poi,
+2815060,35,18,0,,,,47,"Sie wissen alle, dass mich die Frage der Religionsfreiheit seit vielen Jahren beschäftigt. Ich bin sehr vorsichtig, wenn es um die Frage geht: Wo handelt es sich um ethnische Konflikte, und wo geht es tatsächlich um Religionsfreiheit? In diesem Fall in Nigeria geht es um Religionen.
 
 Warum sich Boko Haram so hat ausdehnen können, hat viele Gründe. Wir stellen seit einiger Zeit eine Veränderung fest. Waren es früher vor allem Staaten, die Gläubige, darunter Christen, verfolgt haben, so sind es nun zunehmend Gruppen, die deswegen stark sind, weil das staatliche Gewaltmonopol nicht mehr existiert. Genau dies ist auch in Nigeria der Fall. Um diese Probleme zu bekämpfen, müssen wir alles daransetzen, dass der Staat seinen Aufgaben nachkommen kann. Wir müssen klar und deutlich sagen: Wir werden die Verfolgung von Menschen, die glauben, nicht zulassen. Dabei geht es uns um die Glaubensfreiheit generell. Aber die Wahrheit ist leider, dass die am meisten verfolgte Gruppe die Christen sind, und zwar vor allem dort, wo Muslime in der Mehrheit sind und die Macht haben.  Dies muss offen angesprochen werden. Die Wahrheit ist politisch immer korrekt, liebe Kolleginnen und Kollegen.",data/txt/18035.txt,speech,
-2234711,35,18,0,,,,48,Beifall bei der CDU/CSU,data/txt/18035.txt,poi,
-2234712,35,18,0,,,,49,"Vizepräsident Peter Hintze:
+2815061,35,18,0,,,,48,Beifall bei der CDU/CSU,data/txt/18035.txt,poi,
+2815062,35,18,0,,,,49,"Vizepräsident Peter Hintze:
 
 Als nächster Rednerin erteile ich der Kollegin Annette Groth, Fraktion Die Linke, das Wort.",data/txt/18035.txt,speech,
-2234713,35,18,0,,,,50,Beifall bei der LINKEN,data/txt/18035.txt,poi,
-2234714,35,18,0,,,,51,"Annette Groth (DIE LINKE):
+2815063,35,18,0,,,,50,Beifall bei der LINKEN,data/txt/18035.txt,poi,
+2815064,35,18,0,,,,51,"Annette Groth (DIE LINKE):
 
 Herr Präsident! Sehr geehrte Damen und Herren! Wir alle sind berührt von dem Schicksal der über 200 Mädchen, die von Boko Haram verschleppt wurden. Diese unschuldigen Mädchen und jungen Frauen wurden Geiseln einer kriminellen Bande.
 
 Seit vielen Jahren begeht Boko Haram furchtbare Menschenrechtsverletzungen. Tausende Menschen wurden in den vergangenen Jahren in Dörfern, Kirchen, Schulen und Polizeistationen massakriert. Dies wurde allerdings lange Zeit in unseren Medien kaum erwähnt. Jetzt müssen alle erdenklichen Mühen unternommen werden, um die Mädchen zu finden und zu ihren Familien zurückzubringen.",data/txt/18035.txt,speech,
-2234715,35,18,0,,,,52,"Beifall bei der LINKEN, der CDU/CSU und der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN",data/txt/18035.txt,poi,
-2234716,35,18,0,,,,53,"Ich bin aber überzeugt, dass militärische Gewalt nicht geeignet ist, um dieses Ziel zu erreichen, nicht nur weil dadurch das Leben der Mädchen gefährdet würde, sondern auch weil ich die massive Kampagne, die die nigerianische Armee gegen Boko Haram führt, keineswegs für die richtige Antwort halte.",data/txt/18035.txt,speech,
-2234717,35,18,0,,,,54,Beifall der Abg. Heike Hänsel [DIE LINKE],data/txt/18035.txt,poi,
-2234718,35,18,0,,,,55,"Das Vorgehen der Armee hat bereits Tausende Opfer, darunter viele unbeteiligte Zivilisten, gefordert. Und vor allem ändert es nichts an den Ursachen, aufgrund derer sich viele junge Menschen Boko Haram angeschlossen haben.
+2815065,35,18,0,,,,52,"Beifall bei der LINKEN, der CDU/CSU und der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN",data/txt/18035.txt,poi,
+2815066,35,18,0,,,,53,"Ich bin aber überzeugt, dass militärische Gewalt nicht geeignet ist, um dieses Ziel zu erreichen, nicht nur weil dadurch das Leben der Mädchen gefährdet würde, sondern auch weil ich die massive Kampagne, die die nigerianische Armee gegen Boko Haram führt, keineswegs für die richtige Antwort halte.",data/txt/18035.txt,speech,
+2815067,35,18,0,,,,54,Beifall der Abg. Heike Hänsel [DIE LINKE],data/txt/18035.txt,poi,
+2815068,35,18,0,,,,55,"Das Vorgehen der Armee hat bereits Tausende Opfer, darunter viele unbeteiligte Zivilisten, gefordert. Und vor allem ändert es nichts an den Ursachen, aufgrund derer sich viele junge Menschen Boko Haram angeschlossen haben.
 
 Nigeria ist einer der bevölkerungsreichsten Staaten und der größte Ölproduzent Afrikas. Dennoch herrschen große Armut, Korruption und ein brutaler Polizeiapparat in diesem Land. Im Norden Nigerias, wo Boko Haram besonders stark ist, leben etwa 70 Prozent der Bevölkerung von weniger als 1 US-Dollar pro Tag. Die Reichen leben in Saus und Braus.
 
@@ -1607,22 +1607,22 @@ Vor zwei Wochen ist im britischen Guardian ein Artikel erschienen, der die Zusam
 Das vom US-Kongress finanzierte Institute for Peace geht genau wie das nigerianische Militär davon aus, dass zwischen Klimawandel und Gewalt in Nigeria ein kausaler Zusammenhang besteht. Sehr viele Soldaten der Boko Haram sind Menschen, die vor Dürre und Nahrungsmittelknappheit auch aus den Nachbarländern Nigerias geflohen sind.
 
 Die Ausbreitung von Boko Haram, al-Qaida und ähnlichen fanatischen Gruppen in Nigeria, Mali und anderswo wäre ohne Unterstützung zum Beispiel durch den algerischen Geheimdienst nicht möglich gewesen. Auch einige Golfstaaten wie zum Beispiel Katar und Saudi-Arabien unterstützen diese Gruppen. All dies geschieht auch mit dem Wissen westlicher Geheimdienste. Kürzlich hat die Bundesregierung wieder einmal Waffenexporte in Höhe von 29 Millionen Euro nach Algerien und mehr als 31 Millionen Euro nach Saudi-Arabien genehmigt. Das ist einfach skandalös.",data/txt/18035.txt,speech,
-2234719,35,18,0,,,,56,Beifall bei der LINKEN,data/txt/18035.txt,poi,
-2234720,35,18,0,,,,57,"Darüber hinaus haben die Kriegseinsätze der westlichen Staaten zum Beispiel in Libyen und im Irak dazu geführt, dass riesige Mengen von Waffen in die Region hineingepumpt wurden und heute von diesen fanatischen Gruppen eingesetzt werden. Dort gibt es mehr Waffen als Brot. Das ist doch wirklich wahnsinnig.
+2815069,35,18,0,,,,56,Beifall bei der LINKEN,data/txt/18035.txt,poi,
+2815070,35,18,0,,,,57,"Darüber hinaus haben die Kriegseinsätze der westlichen Staaten zum Beispiel in Libyen und im Irak dazu geführt, dass riesige Mengen von Waffen in die Region hineingepumpt wurden und heute von diesen fanatischen Gruppen eingesetzt werden. Dort gibt es mehr Waffen als Brot. Das ist doch wirklich wahnsinnig.
 
 Die völkerrechtswidrige Kriegslogik des Westens hat ein Klima geschaffen, das die Wut auf den Westen als ideologischen Nährboden für diese Gruppen mit ihren perversen Zielen angeheizt hat. Auch deswegen fordern wir Linke seit vielen Jahren, die militärischen Abenteuer in dieser Region endlich zu beenden und eine zivile Außenpolitik einzuleiten. Statt Waffen brauchen die Menschen echte Entwicklungsperspektiven.",data/txt/18035.txt,speech,
-2234721,35,18,0,,,,58,Beifall bei der LINKEN,data/txt/18035.txt,poi,
-2234722,35,18,0,,,,59,"Die deutsche und die europäische Außenpolitik müssen endlich Verantwortung übernehmen. Diesen fanatischen Gruppen muss der finanzielle Nachschub entzogen werden. Gleichzeitig müssen ökonomische und soziale Grundlagen für eine nachhaltige Entwicklung der Staaten in der Region befördert werden.
+2815071,35,18,0,,,,58,Beifall bei der LINKEN,data/txt/18035.txt,poi,
+2815072,35,18,0,,,,59,"Die deutsche und die europäische Außenpolitik müssen endlich Verantwortung übernehmen. Diesen fanatischen Gruppen muss der finanzielle Nachschub entzogen werden. Gleichzeitig müssen ökonomische und soziale Grundlagen für eine nachhaltige Entwicklung der Staaten in der Region befördert werden.
 
 Liebe Kolleginnen und Kollegen, heute müssen wir alle mit den Mitteln der Diplomatie auf eine schnelle Freilassung der Mädchen hinwirken, und ich hoffe, dass es bald zu einer Freilassung kommt.
 
 Vielen Dank.",data/txt/18035.txt,speech,
-2234723,35,18,0,,,,60,Beifall bei der LINKEN,data/txt/18035.txt,poi,
-2234724,35,18,0,,,,61,"Vizepräsident Peter Hintze:
+2815073,35,18,0,,,,60,Beifall bei der LINKEN,data/txt/18035.txt,poi,
+2815074,35,18,0,,,,61,"Vizepräsident Peter Hintze:
 
 Als nächster Rednerin erteile ich Edelgard Bulmahn, SPD-Fraktion, das Wort.",data/txt/18035.txt,speech,
-2234725,35,18,0,,,,62,Beifall bei der SPD und der CDU/CSU,data/txt/18035.txt,poi,
-2234726,35,18,0,,,,63,"Edelgard Bulmahn (SPD):
+2815075,35,18,0,,,,62,Beifall bei der SPD und der CDU/CSU,data/txt/18035.txt,poi,
+2815076,35,18,0,,,,63,"Edelgard Bulmahn (SPD):
 
 Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen!
 
@@ -1631,20 +1631,20 @@ Drei Dinge sind uns aus dem Paradies geblieben: die Sterne der Nacht, die Blumen
 So der italienische Dichter und Philosoph Dante -Alighieri im 14. Jahrhundert. Das Kostbarste, was Eltern haben, sind ihre Kinder. Wer Menschen verachtet, wer sie zutiefst verletzen will, ihnen den größtmöglichen Schaden zufügen will, der nutzt genau dies aus.
 
 Unschuldige Kinder und Jugendliche zu Geiseln zu machen, zeugt von einer unvorstellbar rohen und brutalen Rücksichtslosigkeit und Unmenschlichkeit.",data/txt/18035.txt,speech,
-2234727,35,18,0,,,,64,"Beifall bei der SPD, der CDU/CSU und dem BÜNDNIS 90/DIE GRÜNEN",data/txt/18035.txt,poi,
-2234728,35,18,0,,,,65,"Wer so handelt, gibt seine eigene Menschlichkeit auf und verabschiedet sich bewusst von grundlegenden Werten, die allen Kulturen und Religionen der Welt gemeinsam sind.
+2815077,35,18,0,,,,64,"Beifall bei der SPD, der CDU/CSU und dem BÜNDNIS 90/DIE GRÜNEN",data/txt/18035.txt,poi,
+2815078,35,18,0,,,,65,"Wer so handelt, gibt seine eigene Menschlichkeit auf und verabschiedet sich bewusst von grundlegenden Werten, die allen Kulturen und Religionen der Welt gemeinsam sind.
 
 Die Entführung von über 270 Mädchen aus einer Schule in Chibok im Norden Nigerias ist aber auch eine Tat, die ein gezieltes Statement gegen die Bildung und damit auch gegen bessere Lebenschancen von Mädchen und jungen Frauen sein soll. Wer den Islam als Rechtfertigung hierfür heranzieht, wie es der Anführer der Terrorgruppe Boko Haram tut, verhöhnt den Islam.",data/txt/18035.txt,speech,
-2234729,35,18,0,,,,66,"Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU, der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN",data/txt/18035.txt,poi,
-2234730,35,18,0,,,,67,"Anschläge wie die Entführung der Schülerinnen in Nigeria sind leider kein Einzelfall: Seit Jahren - meine Vorredner haben darauf hingewiesen - begeht Boko Haram immer wieder Verbrechen gegen die Menschlichkeit. Erst gestern wurden bei einem Anschlag in Jos mindestens 120 Menschen getötet.
+2815079,35,18,0,,,,66,"Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU, der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN",data/txt/18035.txt,poi,
+2815080,35,18,0,,,,67,"Anschläge wie die Entführung der Schülerinnen in Nigeria sind leider kein Einzelfall: Seit Jahren - meine Vorredner haben darauf hingewiesen - begeht Boko Haram immer wieder Verbrechen gegen die Menschlichkeit. Erst gestern wurden bei einem Anschlag in Jos mindestens 120 Menschen getötet.
 
 Nigeria - das dürfen wir in dieser Debatte nicht vergessen - war ein von Toleranz geprägter Vielvölkerstaat. Das macht die Dramatik und das Problem dieser Entwicklung so deutlich. Die Führer der katholischen und der muslimischen Religionsgruppe betonen immer wieder, es gebe keinen Krieg der Religionen; Opfer seien Christen und Muslime. Die religiösen Führer - das ist ein Stück Hoffnung - setzen sich immer wieder für Ausgleich und Toleranz ein.
 
 Eine grundlegende Ursache des Konfliktes liegt in der sozioökonomischen Ungleichheit zwischen dem Norden und dem Süden. Nährboden für Boko Haram sind wirtschaftliche und soziale Benachteiligungen der Menschen im Norden des Landes, hohe Jugendarbeitslosigkeit, Perspektivlosigkeit, Korruption und Verlust des Vertrauens in staatliche Institutionen. Vom beachtlichen Wirtschaftswachstum der letzten Jahre und von den wertvollen Ressourcen, die es in diesem Land gibt, profitieren die meisten Menschen im Norden, aber auch im Süden nicht.
 
 Die Regierung steht deshalb vor einer doppelten Herausforderung: Erstens muss sie den Terror bekämpfen. Aber sie darf dabei nicht stehen bleiben. Sie muss zweitens Armut bekämpfen und Menschen wieder eine Perspektive geben, und zwar unabhängig davon, wo sie -leben. Teilhabe am wirtschaftlichen Erfolg, an der wirtschaftlichen Entwicklung, Respekt vor Menschenrechten, Wiederherstellung von Rechtsstaatlichkeit und natürlich auch die Zusammenarbeit mit den Religionen sind wichtige Voraussetzungen dafür, damit dem Terrorismus in diesem Land und einer solchen Gruppe wie Boko Haram der Nährboden entzogen wird.",data/txt/18035.txt,speech,
-2234731,35,18,0,,,,68,"Beifall bei der SPD, der CDU/CSU und dem BÜNDNIS 90/DIE GRÜNEN",data/txt/18035.txt,poi,
-2234732,35,18,0,,,,69,"Welche Schlussfolgerungen lassen sich daraus ziehen? Ja, ich bin sehr froh, dass es die Konferenz in Paris gegeben hat. Sie hat deutlich gemacht, dass eine derart massive menschenverachtende Verletzung von grundlegenden Menschenrechten von der internationalen Staatengemeinschaft nicht akzeptiert werden kann und darf. Das ist ein wichtiges Signal, im Übrigen auch deshalb, weil damit nicht nur Nigeria, sondern auch seine Nachbarstaaten sowie Europa und die USA deutlich gemacht haben, dass wir alle die Verantwortung dafür tragen, dass den Menschen wieder eine gerechtere Teilhabe an wirtschaftlicher Entwicklung ermöglicht wird. Nur so kann der Nährboden für Terrorismus ausgetrocknet werden.
+2815081,35,18,0,,,,68,"Beifall bei der SPD, der CDU/CSU und dem BÜNDNIS 90/DIE GRÜNEN",data/txt/18035.txt,poi,
+2815082,35,18,0,,,,69,"Welche Schlussfolgerungen lassen sich daraus ziehen? Ja, ich bin sehr froh, dass es die Konferenz in Paris gegeben hat. Sie hat deutlich gemacht, dass eine derart massive menschenverachtende Verletzung von grundlegenden Menschenrechten von der internationalen Staatengemeinschaft nicht akzeptiert werden kann und darf. Das ist ein wichtiges Signal, im Übrigen auch deshalb, weil damit nicht nur Nigeria, sondern auch seine Nachbarstaaten sowie Europa und die USA deutlich gemacht haben, dass wir alle die Verantwortung dafür tragen, dass den Menschen wieder eine gerechtere Teilhabe an wirtschaftlicher Entwicklung ermöglicht wird. Nur so kann der Nährboden für Terrorismus ausgetrocknet werden.
 
 Ich sage ausdrücklich auch: Es darf keine rein militärische Antwort geben, sondern eine Antwort muss im echten Sinne des Wortes umfassend sein. Deshalb müssen wir über Entwicklungshilfe und über unsere wirtschaftlichen Hilfen unseren Teil zum Aufbau und zur Stärkung rechtsstaatlicher und demokratischer Institutionen und Strukturen in diesem Land beitragen. Wir müssen dafür sorgen, dass Korruption bekämpft wird und dass sich gute Regierungsführung wieder stärker etabliert. Damit können die Voraussetzungen für eine bessere ökonomische Entwicklung in allen Teilen des Landes geschaffen werden.
 
@@ -1653,8 +1653,8 @@ Ich habe bereits erwähnt, dass auch die Bekämpfung von Armut, Hunger und Not n
 Meine sehr geehrten Herren und Damen, die deutsche Politik trägt hier eine Verantwortung. Wir müssen unseren Beitrag leisten, auf einen positiven Wandel hinzuwirken. Dazu ist es wichtig, dass wir uns auch auf Regierungsebene an einem institutionalisierten Dialog beteiligen, dass wir diesen Dialog nutzen und dass wir ihn tatsächlich führen.
 
 Herzlichen Dank für Ihre Aufmerksamkeit.",data/txt/18035.txt,speech,
-2234733,35,18,0,,,,70,"Beifall bei der SPD, der CDU/CSU und dem BÜNDNIS 90/DIE GRÜNEN sowie des Abg. Jörn Wunderlich [DIE LINKE]",data/txt/18035.txt,poi,
-2234734,35,18,0,,,,71,"Vizepräsident Peter Hintze:
+2815083,35,18,0,,,,70,"Beifall bei der SPD, der CDU/CSU und dem BÜNDNIS 90/DIE GRÜNEN sowie des Abg. Jörn Wunderlich [DIE LINKE]",data/txt/18035.txt,poi,
+2815084,35,18,0,,,,71,"Vizepräsident Peter Hintze:
 
 Als nächstem Redner erteile ich das Wort Kollegen Uwe Kekeritz, Bündnis 90/Die Grünen.
 
@@ -1663,34 +1663,34 @@ Uwe Kekeritz (BÜNDNIS 90/DIE GRÜNEN):
 Herr Präsident! Werte Kolleginnen und Kollegen! Boko Haram ist ein Synonym für schlimmste Menschenrechtsverletzungen. Das zeigt nicht nur die Entführung der Schülerinnen und die Drohung, die Mädchen auf dem Markt zu verkaufen oder zu versklaven.
 
 Insgesamt wurden bisher weit über 4 000 Menschen ermordet, die Verletzten, die Vertriebenen, die Traumatisierten wurden nie gezählt, konnten vielleicht auch nicht gezählt werden, und das Morden geht bekanntlich weiter, wie die gestrigen Nachrichten bestätigten. Deshalb ist es verdammt traurig, dass erst die Entführung der Mädchen die globale Betroffenheit ausgelöst hat.",data/txt/18035.txt,speech,
-2234735,35,18,0,,,,72,"Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der CDU/CSU und der SPD sowie der Abg. Heike Hänsel [DIE LINKE]",data/txt/18035.txt,poi,
-2234736,35,18,0,,,,73,"Herr Kauder, was Sie zu diesem Thema gesagt haben, war völlig richtig. Aber ich denke, wir sollten hier sehr aufpassen: Es ist unsere Aufgabe, klarzustellen, dass das Problem Boko Haram kein religiöses Problem ist. Mit Religion lassen sich diese Hassverbrechen nicht begründen und, wie Frau Bulmahn richtig sagte, schon gar nicht mit dem Islam oder dem islamischen Glauben.",data/txt/18035.txt,speech,
-2234737,35,18,0,,,,74,Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD und der LINKEN,data/txt/18035.txt,poi,
-2234738,35,18,0,,,,75,"Das reiche Land Nigeria hat sich nicht unverschuldet in diese Situation manövriert, aus der es heute alleine nicht mehr herauskommt. Präsident Goodluck hat die Situation lange völlig falsch eingeschätzt und falsch reagiert. Führende Politiker und hohe Militärs haben sogar lange Zeit versucht, die Terrorakte für ihre politischen Zwecke zu instrumentalisieren. Viele Menschen, im Prinzip die ganze Nation, zahlen dafür einen extrem hohen Preis.
+2815085,35,18,0,,,,72,"Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der CDU/CSU und der SPD sowie der Abg. Heike Hänsel [DIE LINKE]",data/txt/18035.txt,poi,
+2815086,35,18,0,,,,73,"Herr Kauder, was Sie zu diesem Thema gesagt haben, war völlig richtig. Aber ich denke, wir sollten hier sehr aufpassen: Es ist unsere Aufgabe, klarzustellen, dass das Problem Boko Haram kein religiöses Problem ist. Mit Religion lassen sich diese Hassverbrechen nicht begründen und, wie Frau Bulmahn richtig sagte, schon gar nicht mit dem Islam oder dem islamischen Glauben.",data/txt/18035.txt,speech,
+2815087,35,18,0,,,,74,Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD und der LINKEN,data/txt/18035.txt,poi,
+2815088,35,18,0,,,,75,"Das reiche Land Nigeria hat sich nicht unverschuldet in diese Situation manövriert, aus der es heute alleine nicht mehr herauskommt. Präsident Goodluck hat die Situation lange völlig falsch eingeschätzt und falsch reagiert. Führende Politiker und hohe Militärs haben sogar lange Zeit versucht, die Terrorakte für ihre politischen Zwecke zu instrumentalisieren. Viele Menschen, im Prinzip die ganze Nation, zahlen dafür einen extrem hohen Preis.
 
 Jetzt stellt sich die Frage nach internationaler Solidarität, die auch dem Schutz der Nachbarstaaten Kamerun, Benin, Tschad, Niger gilt. Diese Länder leiden ebenfalls verstärkt unter dem Terror Boko Harams. Ich denke, es ist unser aller Aufgabe, hier einzuschreiten. Boko Haram sucht neue Rückzugsgebiete und neue Ziele. Eine Destabilisierung der ganzen Region, die bestimmt zwölfmal so groß ist wie die Bundesrepublik Deutschland, ist nicht ausgeschlossen. Auch deshalb haben sich jetzt die USA, Großbritannien und Frankreich mit den genannten Ländern zusammengetan. Sie versuchen, eine Lösung zu finden. Sie versuchen vor allen Dingen, die Mädchen zu finden und zu befreien. Die Mädchen müssen zurück zu ihren Familien, und sie müssen zurück in die Schulen.
 
 Wir müssen uns viele Fragen stellen: Wer steckt hinter Boko Haram? Wie ist die Entstehungsgeschichte? Woher bekommt Boko Haram die Waffen? Welche Rolle spielt die nigerianische Regierung? Welche Rolle spielen unsere Waffenexporte? Und wir müssen auch die Frage stellen: Welche Rolle spielt die endemische Korruption in diesem Land? Der Fairness halber muss ich sagen, dass man diese Frage so nicht formulieren darf. Man müsste sie anders formulieren, nämlich: Wie lange haben westliche Staaten und Konzerne mit den unterschiedlichen korrupten Regierungen Nigerias hervorragend zusammengearbeitet und die Korruption dadurch befördert und gefördert? Shell ist doch nur das bekannte Beispiel. Sie erinnern sich: Der Ölkonzern hat mit den unterschiedlichen Regierungen jahrzehntelang bestens zusammengearbeitet. Sie haben letztlich gemeinsam das Volk der Ogoni bekämpft. Das Volk hat fürchterlich gelitten. Zusammen haben sie, Shell und die Regierung, letztlich auch den Bürgerrechtler und Schriftsteller Ken Saro-Wiwa über ein Gerichtsurteil ermorden lassen. Da frage ich schon: Tragen wir nicht auch Mitverantwortung?",data/txt/18035.txt,speech,
-2234739,35,18,0,,,,76,"Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der LINKEN sowie bei Abgeordneten der CDU/CSU",data/txt/18035.txt,poi,
-2234740,35,18,0,,,,77,"Nigeria ist aus rein ökonomischer Sicht sehr erfolgreich - Frau Bulmahn hat es angesprochen -, aber es gilt eine einfache Regel: Wachstum braucht Regeln; denn sonst wird es zerstörerisch. Es bedeutet sehr oft Ausgrenzung jener, die eben nicht direkt vom Wachstum profitieren. Damit trägt ein unkontrolliertes, nicht reguliertes Wachstum oftmals den Kern der staatlichen Zerstörung in sich. Das ist nicht nur in Nigeria der Fall; das ist in vielen Ländern der Fall.
+2815089,35,18,0,,,,76,"Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der LINKEN sowie bei Abgeordneten der CDU/CSU",data/txt/18035.txt,poi,
+2815090,35,18,0,,,,77,"Nigeria ist aus rein ökonomischer Sicht sehr erfolgreich - Frau Bulmahn hat es angesprochen -, aber es gilt eine einfache Regel: Wachstum braucht Regeln; denn sonst wird es zerstörerisch. Es bedeutet sehr oft Ausgrenzung jener, die eben nicht direkt vom Wachstum profitieren. Damit trägt ein unkontrolliertes, nicht reguliertes Wachstum oftmals den Kern der staatlichen Zerstörung in sich. Das ist nicht nur in Nigeria der Fall; das ist in vielen Ländern der Fall.
 
 Hier kommt auch unsere Verantwortung ins Spiel. Es gibt viele Punkte, an denen unsere Verantwortung ansetzt. Ich greife hier nur einen Bereich heraus: Es ist unsere Aufgabe, diejenigen Unternehmen, die in Nigeria und in anderen armen Ländern investieren, zu ermutigen, auch weiterhin zu investieren. Wir müssen aber von diesen Unternehmen zwingend verlangen, dass sie dafür sorgen, dass Menschenrechte, ökologische und soziale Standards eingehalten werden. Die Konzerne sind für -ihren Wirkungskreis verantwortlich. Aber auch wir Politiker im Bundestag und auf europäischer Ebene sind letztlich für europäische und deutsche Konzerne mitverantwortlich, und ich sehe, dass wir diese Verantwortung noch nicht wahrnehmen.",data/txt/18035.txt,speech,
-2234741,35,18,0,,,,78,Beifall bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der LINKEN und des Abg. Frank Schwabe [SPD],data/txt/18035.txt,poi,
-2234742,35,18,0,,,,79,"Ohne soziale und ökologische Gerechtigkeit wird Nigeria keine Lösungen finden. Einer heutigen Befreiung der Mädchen, die wir alle verlangen und wünschen, würden zukünftig noch mehr Tote durch weitere Terrorakte folgen. Wir müssen in vielen Bereichen Verantwortung übernehmen: im Rüstungsbereich, im Finanzbereich, im Bereich der Kontrolle der internationalen Unternehmen, im Klimabereich. Nehmen wir unsere Verantwortung doch endlich ernst! Die Mädchen haben das verdient.
+2815091,35,18,0,,,,78,Beifall bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der LINKEN und des Abg. Frank Schwabe [SPD],data/txt/18035.txt,poi,
+2815092,35,18,0,,,,79,"Ohne soziale und ökologische Gerechtigkeit wird Nigeria keine Lösungen finden. Einer heutigen Befreiung der Mädchen, die wir alle verlangen und wünschen, würden zukünftig noch mehr Tote durch weitere Terrorakte folgen. Wir müssen in vielen Bereichen Verantwortung übernehmen: im Rüstungsbereich, im Finanzbereich, im Bereich der Kontrolle der internationalen Unternehmen, im Klimabereich. Nehmen wir unsere Verantwortung doch endlich ernst! Die Mädchen haben das verdient.
 
 Danke schön.",data/txt/18035.txt,speech,
-2234743,35,18,0,,,,80,"Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der LINKEN sowie bei Abgeordneten der CDU/CSU",data/txt/18035.txt,poi,
-2234744,35,18,0,,,,81,"Vizepräsident Peter Hintze:
+2815093,35,18,0,,,,80,"Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der LINKEN sowie bei Abgeordneten der CDU/CSU",data/txt/18035.txt,poi,
+2815094,35,18,0,,,,81,"Vizepräsident Peter Hintze:
 
 Als nächster Rednerin erteile ich das Wort Kollegin Sabine Weiss, CDU/CSU-Fraktion.",data/txt/18035.txt,speech,
-2234745,35,18,0,,,,82,Beifall bei der CDU/CSU sowie des Abg. Stefan Rebmann [SPD],data/txt/18035.txt,poi,
-2234746,35,18,0,,,,83,"Sabine Weiss (Wesel I) (CDU/CSU):
+2815095,35,18,0,,,,82,Beifall bei der CDU/CSU sowie des Abg. Stefan Rebmann [SPD],data/txt/18035.txt,poi,
+2815096,35,18,0,,,,83,"Sabine Weiss (Wesel I) (CDU/CSU):
 
 Verehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Meine Damen und Herren! Das Verbrechen der Entführung von mehr als 200 nigerianischen Mädchen ist so ungeheuerlich, dass es sprachlos macht, sprachlos vor der Menschenverachtung der Täter von Boko Haram, sprachlos vor der Grausamkeit, Kinder für ihre Ziele zu instrumentalisieren. Für eine solche Tat kann es keine Rechtfertigung und auch keine Relativierung geben.",data/txt/18035.txt,speech,
-2234747,35,18,0,,,,84,Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD und des BÜNDNISSES 90/DIE GRÜNEN,data/txt/18035.txt,poi,
-2234748,35,18,0,,,,85,"Von dieser Aktuellen Stunde heute muss das Signal ausgehen, dass der Deutsche Bundestag diese Menschenrechtsverbrechen geschlossen und uneingeschränkt verurteilt.",data/txt/18035.txt,speech,
-2234749,35,18,0,,,,86,Beifall im ganzen Hause,data/txt/18035.txt,poi,
-2234750,35,18,0,,,,87,"Und sie muss klarmachen, dass wir alle verhältnismäßigen Maßnahmen unterstützen, die zur Befreiung der Mädchen führen. Diese Zielsetzungen hat heute im Übrigen auch der Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung in einer schriftlichen Erklärung zum Ausdruck gebracht.
+2815097,35,18,0,,,,84,Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD und des BÜNDNISSES 90/DIE GRÜNEN,data/txt/18035.txt,poi,
+2815098,35,18,0,,,,85,"Von dieser Aktuellen Stunde heute muss das Signal ausgehen, dass der Deutsche Bundestag diese Menschenrechtsverbrechen geschlossen und uneingeschränkt verurteilt.",data/txt/18035.txt,speech,
+2815099,35,18,0,,,,86,Beifall im ganzen Hause,data/txt/18035.txt,poi,
+2815100,35,18,0,,,,87,"Und sie muss klarmachen, dass wir alle verhältnismäßigen Maßnahmen unterstützen, die zur Befreiung der Mädchen führen. Diese Zielsetzungen hat heute im Übrigen auch der Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung in einer schriftlichen Erklärung zum Ausdruck gebracht.
 
 Der amerikanische Kolumnist Nicholas Kristof hat letzte Woche gefragt: Warum habt ihr solche Angst vor klugen Mädchen? Seine Antwort, etwas zusammengefasst: Weil gebildete Mädchen den größten Albtraum für Gruppen wie Boko Haram darstellen. - Gebildete Mädchen verwandeln Gesellschaften zum Positiven, sie beleben das gesellschaftliche Leben und die Betriebe, sie tragen zum Wirtschaftswachstum und zur Verbesserung des Lebensstandards der Menschen bei.
 
@@ -1705,12 +1705,12 @@ Das Trauerspiel ist - auch das ist angeklungen -, dass Nigeria als Ölexporteur 
 Wir müssen also zügig und überlegt das angehen, was für die Zukunft zu tun ist. Aber Priorität muss jetzt haben, undogmatisch alles Vertretbare zu unterstützen, um diese Mädchen zu befreien und zurück in ihre Familien zu bringen und auch zurück in die Schule.
 
 Herzlichen Dank.",data/txt/18035.txt,speech,
-2234751,35,18,0,,,,88,Beifall bei der CDU/CSU und der SPD sowie bei Abgeordneten der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN,data/txt/18035.txt,poi,
-2234752,35,18,0,,,,89,"Vizepräsident Peter Hintze:
+2815101,35,18,0,,,,88,Beifall bei der CDU/CSU und der SPD sowie bei Abgeordneten der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN,data/txt/18035.txt,poi,
+2815102,35,18,0,,,,89,"Vizepräsident Peter Hintze:
 
 Als Nächster erteile ich das Wort Kollegin Kathrin Vogler, Fraktion Die Linke.",data/txt/18035.txt,speech,
-2234753,35,18,0,,,,90,Beifall bei der LINKEN,data/txt/18035.txt,poi,
-2234754,35,18,0,,,,91,"Kathrin Vogler (DIE LINKE):
+2815103,35,18,0,,,,90,Beifall bei der LINKEN,data/txt/18035.txt,poi,
+2815104,35,18,0,,,,91,"Kathrin Vogler (DIE LINKE):
 
 Vielen Dank. - Herr Präsident! Liebe Kolleginnen und Kollegen! Ich möchte meine Rede in der heutigen Aktuellen Stunde gerne meiner Tochter und ihren Freundinnen widmen. Rosa, Larissa, Chiara, Kira, Diana, Angela und Alice besuchen die 9. Klasse des Gymna-siums in Emsdetten. Sie sind ganz normale Teenager und schon deshalb keine besonders begeisterten Schülerinnen. Aber sie wissen, dass Bildung, gute Bildung eine Voraussetzung für einen interessanten Beruf und ein selbstständiges Leben ist. Sie wollen Lehrerin oder Lektorin, Steuerberaterin oder Grafikerin werden. Ich wünsche ihnen von Herzen, dass sie sich diese Wünsche erfüllen können.
 
@@ -1723,8 +1723,8 @@ Auch ich möchte den Kolumnisten Nicholas Kristof von der New York Times zitiere
 Es gibt keine machtvollere Kraft, um eine Gesellschaft umzugestalten. Die größte Bedrohung für den Fanatismus sind nicht Raketen, die von Drohnen abgefeuert werden, sondern Mädchen, die Bücher lesen.
 
 Er bedauert deshalb, dass der Westen viel, viel mehr in Drohnen und Raketen investiert als in Bildung. Da, finde ich, hat er recht.",data/txt/18035.txt,speech,
-2234755,35,18,0,,,,92,Beifall bei der LINKEN sowie bei Abgeordneten der SPD und des BÜNDNISSES 90/DIE GRÜNEN,data/txt/18035.txt,poi,
-2234756,35,18,0,,,,93,"Ich möchte auch die nigerianische Schriftstellerin Chimamanda Ngozi Adichie zitieren, die sich mehr Komplexität in der Debatte wünscht, auch in den westlichen Medien. In der FAZ vom Wochenende forderte sie von uns:
+2815105,35,18,0,,,,92,Beifall bei der LINKEN sowie bei Abgeordneten der SPD und des BÜNDNISSES 90/DIE GRÜNEN,data/txt/18035.txt,poi,
+2815106,35,18,0,,,,93,"Ich möchte auch die nigerianische Schriftstellerin Chimamanda Ngozi Adichie zitieren, die sich mehr Komplexität in der Debatte wünscht, auch in den westlichen Medien. In der FAZ vom Wochenende forderte sie von uns:
 
 Hört auf, es euch so leicht zu machen! Es ist nicht wie mit den Taliban. Nicht alles in der Welt muss in eure vorgefertigten kleinen Schubladen passen.
 
@@ -1733,24 +1733,24 @@ Auch sie sieht ein militärisches Eingreifen von außen skeptisch und fragt sich
 Wenn ich die Präsidentin von Nigeria wäre, würde ich unsere Soldaten nach Amerika schicken, um dessen innenpolitische Probleme zu lösen?
 
 Ich glaube, wir müssen bei aller Betroffenheit und Empörung gerade auf solche nachdenklichen Stimmen hören. Wir können die innenpolitischen Konflikte in Nigeria nicht stellvertretend lösen. Nicht wir werden diejenigen sein, welche die Mädchen zurückbringen. Aber wir können diejenigen ermutigen, die Wege aus Hass und Gewalt suchen.",data/txt/18035.txt,speech,
-2234757,35,18,0,,,,94,Beifall bei der LINKEN,data/txt/18035.txt,poi,
-2234758,35,18,0,,,,95,"Als Beispiele nenne ich den Priester James Wuye und den Imam Muhammad Ashafa. Beide waren militante Glaubenskämpfer, der eine in einer christlichen Miliz und der andere in einer muslimischen - reiner Zufall, dass nicht der eine den anderen tötete. Irgendwann aber begegneten sie sich und stellten, jeder für sich, fest: Es geht hier gar nicht um Religion, sondern es geht um Macht, Geld und knappe Ressourcen. - Dann gründeten sie das Interreligiöse Zentrum für Mediation, mit dem sie seit fast 20 Jahren unter ihren Landsleuten die Gedanken von Versöhnung und Feindesliebe verbreiten. Beiden gemeinsam wurde im letzten Jahr sowohl der Deutsche Afrika-Preis als auch der Hessische Friedenspreis verliehen.
+2815107,35,18,0,,,,94,Beifall bei der LINKEN,data/txt/18035.txt,poi,
+2815108,35,18,0,,,,95,"Als Beispiele nenne ich den Priester James Wuye und den Imam Muhammad Ashafa. Beide waren militante Glaubenskämpfer, der eine in einer christlichen Miliz und der andere in einer muslimischen - reiner Zufall, dass nicht der eine den anderen tötete. Irgendwann aber begegneten sie sich und stellten, jeder für sich, fest: Es geht hier gar nicht um Religion, sondern es geht um Macht, Geld und knappe Ressourcen. - Dann gründeten sie das Interreligiöse Zentrum für Mediation, mit dem sie seit fast 20 Jahren unter ihren Landsleuten die Gedanken von Versöhnung und Feindesliebe verbreiten. Beiden gemeinsam wurde im letzten Jahr sowohl der Deutsche Afrika-Preis als auch der Hessische Friedenspreis verliehen.
 
 Dass ihr Engagement überhaupt in Deutschland wahrgenommen wurde, ist einem Projekt des Zivilen Friedensdienstes zu verdanken. Leider aber gibt es im -Moment keine solchen Friedensdienstprojekte mit Unterstützung der Bundesregierung mehr in Nigeria. Projekte in derart schwierigen und umkämpften Regionen sind aufwendig und teuer. Die Bundesregierung hat die Mittel für den Zivilen Friedensdienst eingefroren. Diese Entscheidung, liebe Kolleginnen und Kollegen, ist einfach falsch.",data/txt/18035.txt,speech,
-2234759,35,18,0,,,,96,Beifall bei der LINKEN,data/txt/18035.txt,poi,
-2234760,35,18,0,,,,97,"Investieren wir doch in die Zukunft! Unterstützen wir Friedenskräfte und Versöhnungsarbeit, nicht nur, aber eben auch in Nigeria! Denn auch dieser Konflikt wird nicht mit Waffengewalt gelöst werden können, sondern nur - dazu haben ja schon einige vor mir Kluges gesagt - mit sozialer Gerechtigkeit und ziviler Konfliktbearbeitung. So könnten wir Verantwortung übernehmen: für den Frieden und für die Freilassung dieser Mädchen und aller anderen Entführten.",data/txt/18035.txt,speech,
-2234761,35,18,0,,,,98,Beifall bei der LINKEN,data/txt/18035.txt,poi,
-2234762,35,18,0,,,,99,"Vizepräsident Peter Hintze:
+2815109,35,18,0,,,,96,Beifall bei der LINKEN,data/txt/18035.txt,poi,
+2815110,35,18,0,,,,97,"Investieren wir doch in die Zukunft! Unterstützen wir Friedenskräfte und Versöhnungsarbeit, nicht nur, aber eben auch in Nigeria! Denn auch dieser Konflikt wird nicht mit Waffengewalt gelöst werden können, sondern nur - dazu haben ja schon einige vor mir Kluges gesagt - mit sozialer Gerechtigkeit und ziviler Konfliktbearbeitung. So könnten wir Verantwortung übernehmen: für den Frieden und für die Freilassung dieser Mädchen und aller anderen Entführten.",data/txt/18035.txt,speech,
+2815111,35,18,0,,,,98,Beifall bei der LINKEN,data/txt/18035.txt,poi,
+2815112,35,18,0,,,,99,"Vizepräsident Peter Hintze:
 
 Als nächster Rednerin erteile ich das Wort Kollegin Michaela Engelmeier-Heite von der SPD-Fraktion.",data/txt/18035.txt,speech,
-2234763,35,18,0,,,,100,Beifall bei Abgeordneten der SPD und der CDU/CSU,data/txt/18035.txt,poi,
-2234764,35,18,0,,,,101,"Michaela Engelmeier-Heite (SPD):
+2815113,35,18,0,,,,100,Beifall bei Abgeordneten der SPD und der CDU/CSU,data/txt/18035.txt,poi,
+2815114,35,18,0,,,,101,"Michaela Engelmeier-Heite (SPD):
 
 Sehr geehrter Herr Präsident! Liebe Kolleginnen! Liebe Kollegen! Meine sehr verehrten Damen und Herren! Mehr als 200 junge Mädchen verschwinden in Nigeria, entführt von Terroristen und an einen unbekannten Ort verschleppt. Terroristen - ja, natürlich -, anders kann man die Entführer, die islamistische Gruppe Boko Haram, nicht nennen. Ich glaube, dass kein Mensch überhaupt ermessen kann, was diese Mädchen erleiden: hilflos Terroristen und ihrer Willkür ausgeliefert, herausgerissen aus einem Leben, das vielleicht nicht rundum sorglos war, einem Leben, das ohne Zweifel auch durch Armut geprägt war, aber einem Leben im Kreise ihrer Familie und in ihrer gewohnten Umgebung.
 
 Seit einem Monat - seit einem Monat! - nur noch Angst und Verunsicherung: Angst vor einer ungewissen Zukunft, Angst vor möglicher Vergewaltigung, Angst vor einem möglichen Verkauf für wenige Naira, Versklavung und Zwangsehe. Immer drängender wird der Ruf: Befreit unsere Töchter! Bring back our girls! - Wer eigene Kinder hat, wird verstehen, welchen Schmerz, welche Angst die Eltern und Angehörigen der mehr als 200 entführten Mädchen in Nigeria seit Wochen durchleiden. Wo sind die Mädchen? Was ist mit ihnen passiert? Fragen, auf die es keine Antwort gibt, noch nicht, auch nicht auf die Frage: Wird mir mein Kind wiedergebracht? - Und darum muss es gehen, das ist erst einmal das Wichtigste: Die Mädchen müssen gefunden und befreit werden.",data/txt/18035.txt,speech,
-2234765,35,18,0,,,,102,Beifall bei Abgeordneten im ganzen Hause,data/txt/18035.txt,poi,
-2234766,35,18,0,,,,103,"Und sie müssen so schnell wie möglich zu ihren Familien zurückgebracht werden.
+2815115,35,18,0,,,,102,Beifall bei Abgeordneten im ganzen Hause,data/txt/18035.txt,poi,
+2815116,35,18,0,,,,103,"Und sie müssen so schnell wie möglich zu ihren Familien zurückgebracht werden.
 
 Viel zu lange wurde die von der Terrorgruppe Boko Haram ausgehende Gefahr unterschätzt und ignoriert. Seit Jahren überzieht sie das Land mit Anarchie und Terror, verübt feige Mordanschläge und zwingt Menschen zur Flucht aus ihrer Heimat im Norden Nigerias. Mehr als 3 000 Tote gehen auf das Konto von Boko Haram. Gestern wurden bei feigen Anschlägen erneut unschuldige Menschen Opfer, 118 Menschen; und es ist zu befürchten, dass die Zahl der Opfer weiter steigt. Es gibt noch keinen Bekennerbrief von Boko Haram; aber es ist zu befürchten, dass auch für diese Anschläge Boko -Haram verantwortlich ist. Deswegen sage ich: Boko -Haram muss gestoppt werden!
 
@@ -1759,30 +1759,30 @@ Viel zu lange blieb der Weltöffentlichkeit verborgen, was in Nigeria geschah, a
 Seit der Entführung dieser mehr als 200 Mädchen im vergangenen Monat steht Boko Haram jetzt jedoch nicht mehr nur die nigerianische Regierung entgegen. In diesem Zusammenhang begrüßt die SPD-Fraktion die Einberufung eines Krisengipfels durch den französischen Präsidenten François Hollande am vergangenen Wochenende in Paris. Der dort von Nigeria und seinen vier Nachbarn - Benin, Kamerun, Niger und Tschad - gemeinsam mit Frankreich verabschiedete Aktionsplan dokumentiert den festen Willen, an der Seite Nigerias gegen Boko -Haram vorzugehen.
 
 Auch wir dürfen unsere Augen nicht mehr vor dem menschenverachtenden Vorgehen von Boko Haram verschließen. Unser Platz ist an der Seite derjenigen, die dem terroristischen Wirken von Boko Haram Einhalt gebieten wollen. Wir alle verurteilen die Terroranschläge und die Entführung der nigerianischen Mädchen auf das Schärfste. Zu groß ist die weltweite Anteilnahme am Schicksal der Mädchen, als dass wir tatenlos bleiben könnten. Es muss daher alles getan werden, um die Mädchen sehr schnell aus den Fängen der Terroristen zu befreien.",data/txt/18035.txt,speech,
-2234767,35,18,0,,,,104,Beifall bei Abgeordneten im ganzen Hause,data/txt/18035.txt,poi,
-2234768,35,18,0,,,,105,"Es muss ferner alles getan werden, um zu einer Lösung des Konflikts und seiner Ursachen in Nigeria beizutragen. Wir dürfen die Ursachen von Konflikten, die Ursachen, die dazu führen, dass terroristische Gruppen wie Boko Haram - aber auch andere militante Gruppen - junge Frauen, Männer und Kinder für ihre kranken Aktivitäten und Ziele rekrutieren können, nie aus den Augen lassen. Vielmehr müssen wir alles dafür tun, um mögliche und tatsächliche Ursachen von Konflikten anzugehen. Gerade die Armut im Norden Nigerias zu bekämpfen, einem Land mit einem enormen Wirtschaftspotenzial, und das Gefälle zwischen dem reichen Süden und dem armen Norden abzubauen, würde dazu beitragen, solchen Terrorgruppen im übertragenen Sinne das Wasser abzugraben. Hier ist die internationale Entwicklungspolitik -gefordert, hier ist die deutsche Entwicklungspolitik gefordert. Hierfür stehen uns äußerst wirksame Maßnahmen und Instrumente zur Verfügung, um unserem Partnerland Nigeria bei der Gestaltung einer friedlichen und sozial, ökologisch und ökonomisch nachhaltigen Entwicklung zur Seite zu stehen.
+2815117,35,18,0,,,,104,Beifall bei Abgeordneten im ganzen Hause,data/txt/18035.txt,poi,
+2815118,35,18,0,,,,105,"Es muss ferner alles getan werden, um zu einer Lösung des Konflikts und seiner Ursachen in Nigeria beizutragen. Wir dürfen die Ursachen von Konflikten, die Ursachen, die dazu führen, dass terroristische Gruppen wie Boko Haram - aber auch andere militante Gruppen - junge Frauen, Männer und Kinder für ihre kranken Aktivitäten und Ziele rekrutieren können, nie aus den Augen lassen. Vielmehr müssen wir alles dafür tun, um mögliche und tatsächliche Ursachen von Konflikten anzugehen. Gerade die Armut im Norden Nigerias zu bekämpfen, einem Land mit einem enormen Wirtschaftspotenzial, und das Gefälle zwischen dem reichen Süden und dem armen Norden abzubauen, würde dazu beitragen, solchen Terrorgruppen im übertragenen Sinne das Wasser abzugraben. Hier ist die internationale Entwicklungspolitik -gefordert, hier ist die deutsche Entwicklungspolitik gefordert. Hierfür stehen uns äußerst wirksame Maßnahmen und Instrumente zur Verfügung, um unserem Partnerland Nigeria bei der Gestaltung einer friedlichen und sozial, ökologisch und ökonomisch nachhaltigen Entwicklung zur Seite zu stehen.
 
 Heute - und solange die Mädchen nicht befreit wurden - geht es aber vorrangig darum, alle Möglichkeiten zu eruieren und zu ergreifen, die nötig sind, um sie sicher zu ihren Familien zurückzubringen.",data/txt/18035.txt,speech,
-2234769,35,18,0,,,,106,Beifall bei der SPD und der CDU/CSU sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der Abg. Kathrin Vogler [DIE LINKE],data/txt/18035.txt,poi,
-2234770,35,18,0,,,,107,"Vizepräsident Peter Hintze:
+2815119,35,18,0,,,,106,Beifall bei der SPD und der CDU/CSU sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der Abg. Kathrin Vogler [DIE LINKE],data/txt/18035.txt,poi,
+2815120,35,18,0,,,,107,"Vizepräsident Peter Hintze:
 
 Als nächstem Redner erteile ich dem Kollegen Cem Özdemir, Bündnis 90/Die Grünen, das Wort.
 
 Cem Özdemir (BÜNDNIS 90/DIE GRÜNEN):
 
 Herr Präsident! Liebe Kolleginnen und Kollegen! Ich glaube, keiner von uns kann sich das Leid der Mädchen und der Familien vorstellen. Chibok ist eine kleine Stadt im Nordosten von Nigeria. Jeder dort kennt mindestens ein Mädchen, das entführt wurde. Als Vater zweier Kinder - darunter eine Tochter - sage ich aber auch: Dies ist eben keine innere Angelegenheit Nigerias. Wir alle sind gefragt, alles dafür zu tun, dass einerseits die Mädchen freikommen und andererseits der Terrororganisation Boko Haram endlich das Handwerk gelegt wird.",data/txt/18035.txt,speech,
-2234771,35,18,0,,,,108,"Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der CDU/CSU und der SPD",data/txt/18035.txt,poi,
-2234772,35,18,0,,,,109,"Die Weltgemeinschaft hat reagiert. Die Kampagne #BringBackOurGirls hat weltweit das Mitgefühl zum Ausdruck gebracht. Sie war ein Weckruf - übrigens auch für die Regierung in Nigeria, die ja erst noch verstehen musste, dass die Bewohner des Nordens ebenfalls ihre Bürger sind. Aber Bilder in sozialen Medien alleine - auch das gehört zur Wahrheit - bringen die Mädchen nicht zurück.
+2815121,35,18,0,,,,108,"Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der CDU/CSU und der SPD",data/txt/18035.txt,poi,
+2815122,35,18,0,,,,109,"Die Weltgemeinschaft hat reagiert. Die Kampagne #BringBackOurGirls hat weltweit das Mitgefühl zum Ausdruck gebracht. Sie war ein Weckruf - übrigens auch für die Regierung in Nigeria, die ja erst noch verstehen musste, dass die Bewohner des Nordens ebenfalls ihre Bürger sind. Aber Bilder in sozialen Medien alleine - auch das gehört zur Wahrheit - bringen die Mädchen nicht zurück.
 
 Boko Haram bedroht Hunderttausende Menschen in Nigeria und über die Grenzen des Landes hinaus. Sie sind verantwortlich für Vertreibung, für Mord, für Bombenanschläge, für Menschenhandel und Erpressung. Ihre Taten sind perfide, und ihre Ideologie ist - um das sehr klar zu sagen - eine Pervertierung des islamischen Glaubens.
 
 Bekämpfen können und müssen wir diese grausamen Menschenfeinde zusammen - egal ob wir Christen, ob wir Juden, ob wir Muslime, ob wir Atheisten sind. Aber die theologischen Grundlagen für die verbrecherischen Taten können ihnen allein nur die Muslime entziehen. Deshalb muss überall dort, wo Religion für niedere Zwecke missbraucht wird, klar und deutlich gesagt werden: Wer sich Boko Haram oder anderen Terrororganisationen anschließt, der beleidigt den Islam, weil er ein Feind aller Muslime in der Welt ist - egal welchen individuellen Grad an Religiosität man hat.",data/txt/18035.txt,speech,
-2234773,35,18,0,,,,110,Beifall im ganzen Hause,data/txt/18035.txt,poi,
-2234774,35,18,0,,,,111,"Ja, es stimmt - alle Vorredner und Vorrednerinnen haben darauf hingewiesen -: Nigeria leidet unter Armut, unter Korruption, einem Ressourcenfluch, wie man fast schon sagen muss, und den schrecklichen Folgen des Klimawandels. Wir wissen: Dort, wo Armut und die Folgen des Klimawandels am stärksten zu spüren sind, findet die Terrorgruppe Boko Haram ihre Kämpfer. Darum müssen wir alle alles dafür tun, um ihnen diese Grundlage zu entziehen.
+2815123,35,18,0,,,,110,Beifall im ganzen Hause,data/txt/18035.txt,poi,
+2815124,35,18,0,,,,111,"Ja, es stimmt - alle Vorredner und Vorrednerinnen haben darauf hingewiesen -: Nigeria leidet unter Armut, unter Korruption, einem Ressourcenfluch, wie man fast schon sagen muss, und den schrecklichen Folgen des Klimawandels. Wir wissen: Dort, wo Armut und die Folgen des Klimawandels am stärksten zu spüren sind, findet die Terrorgruppe Boko Haram ihre Kämpfer. Darum müssen wir alle alles dafür tun, um ihnen diese Grundlage zu entziehen.
 
 Trotzdem sage ich: Es kann und darf keine Rechtfertigung für Terrorismus geben - zumal gegen die Zivilbevölkerung und besonders, wie in diesem Fall, gegen Kinder. Wenn die mehrheitlich muslimischen Länder in der Welt den ihnen zustehenden Platz in der menschlichen Zivilisation einnehmen wollen, dann werden sie das nur schaffen, wenn die Ketten der Frauen gesprengt werden und die Frauen 50 Prozent der Macht in diesen Ländern erhalten. Nur dann werden sie den Platz einnehmen können, der ihnen auf unserem Planeten zusteht.",data/txt/18035.txt,speech,
-2234775,35,18,0,,,,112,"Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der CDU/CSU und der SPD",data/txt/18035.txt,poi,
-2234776,35,18,0,,,,113,"Der Islam kann schon gar nicht als Rechtfertigung dienen. Mohammed, der Prophet aller Muslime, hat in zahlreichen Überlieferungen auf das Streben nach Wissen hingewiesen:
+2815125,35,18,0,,,,112,"Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der CDU/CSU und der SPD",data/txt/18035.txt,poi,
+2815126,35,18,0,,,,113,"Der Islam kann schon gar nicht als Rechtfertigung dienen. Mohammed, der Prophet aller Muslime, hat in zahlreichen Überlieferungen auf das Streben nach Wissen hingewiesen:
 
 Sucht das Wissen, selbst wenn es in China wäre.  Das Streben nach Wissen ist eine heilige Pflicht für jeden Muslim, Mann oder Frau.
 
@@ -1795,12 +1795,12 @@ Er hat also nicht gesagt: Wer sein Heim verlässt und sich Boko Haram anschließ
 Lesen, Schreiben und Lernen überhaupt: Das ist das Recht jedes Kindes. Und es ist die Pflicht aller Eltern und von uns Erwachsenen, die Grundlagen dafür zu schaffen. Bildung ist eben nicht haram; Morde, Entführungen und Terror sind haram, und zwar in jeder Religion und in jeder Weltanschauung.
 
 Die Bundesregierung muss sich mit der Europäischen Union aktiv für die bedingungslose Freilassung der Mädchen einsetzen. Wir alle müssen der Bevölkerung Nigerias eine Zukunftsperspektive bieten: ohne Terror, ohne Korruption und ohne Armut. Das geht uns alle etwas an. Auch wir alle stehen da in der Verantwortung.",data/txt/18035.txt,speech,
-2234777,35,18,0,,,,114,"Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der CDU/CSU und der SPD",data/txt/18035.txt,poi,
-2234778,35,18,0,,,,115,"Vizepräsident Peter Hintze:
+2815127,35,18,0,,,,114,"Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der CDU/CSU und der SPD",data/txt/18035.txt,poi,
+2815128,35,18,0,,,,115,"Vizepräsident Peter Hintze:
 
 Als nächster Rednerin erteile ich das Wort Dagmar Wöhrl, CDU/CSU-Fraktion.",data/txt/18035.txt,speech,
-2234779,35,18,0,,,,116,Beifall bei der CDU/CSU,data/txt/18035.txt,poi,
-2234780,35,18,0,,,,117,"Dagmar G. Wöhrl (CDU/CSU):
+2815129,35,18,0,,,,116,Beifall bei der CDU/CSU,data/txt/18035.txt,poi,
+2815130,35,18,0,,,,117,"Dagmar G. Wöhrl (CDU/CSU):
 
 Herr Präsident! Liebe Kolleginnen und Kollegen! Ich möchte erst einmal meinen Dank dafür sagen, dass heute diese Aktuelle Stunde zu diesem Thema möglich gemacht wurde. Es ist wichtig für uns, wichtig für die internationale Gemeinschaft, wichtig für unser Parlament, zu zeigen, dass wir bei Verletzungen von Menschenrechten nicht wegschauen, dass wir nicht wegschauen, wenn Terror und Gewalt ganze Regionen, Gebiete und Länder destabilisieren.
 
@@ -1811,8 +1811,8 @@ Wir sind über den weltweiten Aufschrei über diese Tat froh. Wir sind entrüste
 Es ist von den Kolleginnen und Kollegen schon erwähnt worden: Die Entführung hat im Norden Nigerias stattgefunden, einer der ärmsten Gegenden der Welt in einem der reichsten Länder Afrikas. Wie geht das zusammen? Auf der einen Seite ist der Norden Nigerias die ärmste Region und hat inzwischen Somalia als gewalttätigste Region abgelöst. Auf der anderen Seite gibt es im Land Ölvorkommen, Jachten, Klubs, also Reichtum par excellence, hohe Einnahmen aus Ölgeschäften, die sich jedoch die Eliten des Landes in die eigene Tasche stecken, während sie den Norden des Landes, den anderen Teil der Bevölkerung, vergessen.
 
 Durch diese Diskrepanz zwischen dem Zerfall eines Staates und dem vermeintlichen Aufschwung wurde der Nährboden für die islamistische Terroristengruppe Boko Haram geschaffen. Unsere Aufgabe und die Aufgabe der internationalen Gemeinschaft ist es, die entstandene Kluft wieder mit überwinden zu helfen.",data/txt/18035.txt,speech,
-2234781,35,18,0,,,,118,"Beifall bei Abgeordneten der CDU/CSU, der SPD, der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN",data/txt/18035.txt,poi,
-2234782,35,18,0,,,,119,"Boko Haram wird auch als Taliban Nigerias bezeichnet. Diese Gruppe möchte einen neuen Staat, ein mittelalterliches islamistisches Kalifat in Nigeria errichten. Leider wird Boko Haram immer mächtiger, weil der Nährboden für diese Gruppe nun einmal da ist.
+2815131,35,18,0,,,,118,"Beifall bei Abgeordneten der CDU/CSU, der SPD, der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN",data/txt/18035.txt,poi,
+2815132,35,18,0,,,,119,"Boko Haram wird auch als Taliban Nigerias bezeichnet. Diese Gruppe möchte einen neuen Staat, ein mittelalterliches islamistisches Kalifat in Nigeria errichten. Leider wird Boko Haram immer mächtiger, weil der Nährboden für diese Gruppe nun einmal da ist.
 
 Über 2 000 Menschen wurden allein dieses Jahr durch Boko Haram getötet. 250 000 Nigerianer sind im Land auf der Flucht, über 60 000 Menschen haben das Land verlassen. Das Töten und Morden nimmt kein Ende. Erst gestern haben wir gehört, dass 118 Menschen in Jos durch eine Autobombe ums Leben gekommen sind, wieder überwiegend Frauen.
 
@@ -1823,22 +1823,22 @@ Wir sind dankbar, dass es durch die Social-Media-Kampagne möglich geworden ist,
 Wir hoffen, dass der Sicherheitsrat am Donnerstag Boko Haram offiziell als Terrororganisation einstuft und auf die Sanktionsliste gegen das Terrornetzwerk setzt. Wichtig ist aber, dass wir im Rahmen unserer Entwicklungszusammenarbeit mithelfen, die Perspektivlosigkeit des Nordens zu beseitigen. Für Bildung und Jobs zu sorgen, das sind die Aufgaben, die sich stellen. Gerade Mädchen und Frauen sind in Afrika diejenigen, mit denen wir die Hoffnung auf eine nachhaltige Entwicklung verbinden.
 
 Das Verbrechen der Terroristen ist ein doppelter Anschlag: sowohl gegen die Menschenrechte als auch gegen die Frauen Afrikas. Das Wichtigste ist, die Kinder zurück zu ihren Familien zu bringen.",data/txt/18035.txt,speech,
-2234783,35,18,0,,,,120,Beifall bei der CDU/CSU und der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN,data/txt/18035.txt,poi,
-2234784,35,18,0,,,,121,"Wir sind mit unserem Herzen, aber auch mit unseren Hoffnungen bei den Familien, die abends mit dem Gedanken schlafen gehen: Bitte bringt uns unsere Kinder zurück! - Ich glaube, jeder von uns kann das nachvollziehen.
+2815133,35,18,0,,,,120,Beifall bei der CDU/CSU und der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN,data/txt/18035.txt,poi,
+2815134,35,18,0,,,,121,"Wir sind mit unserem Herzen, aber auch mit unseren Hoffnungen bei den Familien, die abends mit dem Gedanken schlafen gehen: Bitte bringt uns unsere Kinder zurück! - Ich glaube, jeder von uns kann das nachvollziehen.
 
 Wir können nur an die Entführer appellieren: Geben Sie die Mädchen frei! Aber vor allem müssen wir an die verantwortlichen Akteure appellieren, wirklich alles zu tun, was in unserer Macht steht, damit die Mädchen wieder in Freiheit kommen. Wir appellieren auch an uns alle: Lassen Sie uns nicht unsere Politik von der Hand der Terroristen diktieren! Ich glaube, das ist ganz wichtig.
 
 Wir können nur mit Nachdruck den Appell der -Social-Media-Kampagne wiederholen: Bringt diese Mädchen unversehrt und unbeschadet zu den Familien zurück! Bring back our girls!",data/txt/18035.txt,speech,
-2234785,35,18,0,,,,122,Beifall bei Abgeordneten der CDU/CSU und der SPD,data/txt/18035.txt,poi,
-2234786,35,18,0,,,,123,"Liebe Kollegen, ich appelliere auch an Sie: Bitte machen Sie mit! Lassen Sie Ihre Website mit der Kampagne verlinken. Ich glaube, es hilft, auch wenn es nur wenig ist.
+2815135,35,18,0,,,,122,Beifall bei Abgeordneten der CDU/CSU und der SPD,data/txt/18035.txt,poi,
+2815136,35,18,0,,,,123,"Liebe Kollegen, ich appelliere auch an Sie: Bitte machen Sie mit! Lassen Sie Ihre Website mit der Kampagne verlinken. Ich glaube, es hilft, auch wenn es nur wenig ist.
 
 Vielen Dank.",data/txt/18035.txt,speech,
-2234787,35,18,0,,,,124,"Beifall bei der CDU/CSU, der SPD und der LINKEN sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN",data/txt/18035.txt,poi,
-2234788,35,18,0,,,,125,"Vizepräsident Peter Hintze:
+2815137,35,18,0,,,,124,"Beifall bei der CDU/CSU, der SPD und der LINKEN sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN",data/txt/18035.txt,poi,
+2815138,35,18,0,,,,125,"Vizepräsident Peter Hintze:
 
 Als nächstem Redner erteile ich Kollegen Frank Schwabe, SPD-Fraktion, das Wort.",data/txt/18035.txt,speech,
-2234789,35,18,0,,,,126,Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU,data/txt/18035.txt,poi,
-2234790,35,18,0,,,,127,"Frank Schwabe (SPD):
+2815139,35,18,0,,,,126,Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU,data/txt/18035.txt,poi,
+2815140,35,18,0,,,,127,"Frank Schwabe (SPD):
 
 Herr Präsident! Verehrte Kolleginnen und Kollegen! Verehrte Damen und Herren! Es ist zwar schon oft gesagt worden; aber ich will es dennoch wiederholen: Unser ganzes Beileid gehört den Angehörigen der Opfer der terroristischen Anschläge von gestern und der letzten Monate und Jahre. Betroffen sind im Übrigen Angehörige vieler Religionsgruppen, Muslime und Christen. Unser Mitgefühl gilt auch den Angehörigen und Freunden der entführten Mädchen. Die sogenannte Terrorgruppe Boko Haram hat nicht nur die Mädchen, sondern im Prinzip ein ganzes Land in Geiselhaft genommen. Alle Anstrengungen der nigerianischen Regierung ebenso wie die internationale Unterstützung durch die afrikanischen Staaten - ich finde, auch das muss man immer wieder betonen -, aber auch durch die USA, Frankreich und andere sind richtig und begrüßenswert.
 
@@ -1847,24 +1847,24 @@ Die Debatte heute ist richtig und muss sein. Ihr wohnt zwar wieder ein Fehler in
 Nigeria selbst ist das ökonomisch stärkste Land Afrikas, ein Land mit einem enormen Bevölkerungswachstum, enormen Rohstoffreserven und stark zunehmender Bedeutung weltweit. Es ist das zentrale Land auf dem afrikanischen Kontinent. Nigeria ist aber auch geschüttelt von Militärdiktaturen, ein Land mit äußerst großen Herausforderungen durch die Vielfalt der Bevölkerung - es gibt allein mehr als 500 Sprachen - und geprägt durch Rohstoffkonflikte, die schon angesprochen worden sind.
 
 Genau das ist sicherlich der Hintergrund oder zumindest die Hintergrundmelodie des Konfliktes rund um Boko Haram. Es sind Vertreter der katholischen Kirche und muslimische Führer - Kollegin Bulmahn hat eingangs darauf hingewiesen -, die betonen, dass es im Kern eben nicht um einen Religionskonflikt geht, was schon dadurch deutlich wird, dass es mindestens genauso viele muslimische wie christliche Opfer gibt. Es gibt aber die Gefahr, dass aus diesem Konflikt ein Religionskonflikt wird. Deshalb - das will ich zweimal unterstreichen - sollten die internationale Gemeinschaft und insbesondere wir es unterlassen, diesen Konflikt entsprechend darzustellen. Ich finde, wir sollten uns da an die christlichen und muslimischen Führer halten und es entsprechend darstellen.",data/txt/18035.txt,speech,
-2234791,35,18,0,,,,128,Beifall bei der SPD und der LINKEN sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN,data/txt/18035.txt,poi,
-2234792,35,18,0,,,,129,"Auf die Bildung ist schon umfassend eingegangen worden. Deswegen kann ich nur betonen: Die Bildung ist eine zentrale Frage auch für die Entwicklungszusammenarbeit. Leider haben heutzutage in Nigeria nicht alle Mädchen eine Schulausbildung. Es darf aber in der Tat niemandem zum Verhängnis werden, dass er sein Anrecht auf Bildung wahrnimmt. Wie bereits gesagt, sind insbesondere Schulen Angriffen von Terrorgruppen ausgesetzt. Nigeria ist dabei leider kein Einzelfall. In mindestens 30 Ländern weltweit werden Schulen zum bewussten Ziel von Terroristen und bewaffneten Gruppen. Bildung ist eine Bedrohung für ihre Absichten. Deshalb muss es ein zentrales, internationales Anliegen sein, dass Schulen einen besonderen Schutz bekommen und dass das von allen Ländern, im Übrigen auch von Deutschland, respektiert und international vereinbart wird.",data/txt/18035.txt,speech,
-2234793,35,18,0,,,,130,Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU,data/txt/18035.txt,poi,
-2234794,35,18,0,,,,131,"Viele Konflikte in Nigeria basieren auf der Ausbeutung von Rohstoffen, wie das Schicksal von Ken Saro-Wiwa zeigt, das wir sicherlich alle noch in Erinnerung haben. Deswegen sind Fortschritte bei der Verabredung internationaler, sozialer, kultureller und ökonomischer Standards von zentraler Bedeutung. Das ist die zentrale Aufgabe, die wir hier im Deutschen Bundestag haben.",data/txt/18035.txt,speech,
-2234795,35,18,0,,,,132,Beifall der Abg. Dr. Bärbel Kofler [SPD],data/txt/18035.txt,poi,
-2234796,35,18,0,,,,133,"Der Kampf gegen Terrorismus muss auch immer ein Kampf um den Erhalt von Menschenrechten und Rechtsstaatlichkeit sein. Daher ist es von zentraler Bedeutung, dass Regierungen, die gegen Terrorismus kämpfen, nicht selbst gegen die Prinzipien von Menschenrechten und Rechtsstaatlichkeit verstoßen, die sie eigentlich aufrechterhalten wollen.",data/txt/18035.txt,speech,
-2234797,35,18,0,,,,134,Beifall der Abg. Kathrin Vogler [DIE LINKE],data/txt/18035.txt,poi,
-2234798,35,18,0,,,,135,"Deswegen muss es uns Sorge bereiten, dass die Regierung in Nigeria oft gegen Menschenrechte verstößt, auch im Kampf gegen Boko Haram. Am Ende wird Terrorismus mit den stärksten polizeilichen und militärischen Mitteln nicht besiegt werden können, wenn ihm nicht der gesellschaftliche Boden entzogen wird. Doch der gesellschaftliche und ökonomische Fortschritt kommt leider - das wurde hier bereits mehrfach betont - bei vielen Menschen im Land nicht an. Korruption ist ein riesengroßes Problem. Präsident Jonathan Goodluck hat dazu richtigerweise gesagt: Ich kann nicht feiern, solange nicht alle Nigerianer die positiven Auswirkungen unseres Wachstums spüren. Der im März 2014 vorgestellte Nigerias Soft Approach to Counter Terrorism, der auf die sozioökonomischen Ursachen des Konflikts mit Boko Haram abzielt, ist dazu ein richtiger Ansatz. Aber wir müssen die Regierung auch auffordern, ihn Realität werden zu lassen.",data/txt/18035.txt,speech,
-2234799,35,18,0,,,,136,Beifall bei der SPD und der CDU/CSU sowie bei Abgeordneten der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN,data/txt/18035.txt,poi,
-2234800,35,18,0,,,,137,"Nigeria muss also Fortschritte beim Einsatz für die soziale Teilhabe und bei der Durchsetzung menschenrechtlicher Standards machen. Dazu gehört auch die -Abschaffung der Todesstrafe. Der Kampf gegen den Terrorismus muss rechtsstaatlichen Prinzipien gerecht werden. Wenn die Regierung Nigerias diesen Weg geht, dann hat sie unsere volle Unterstützung verdient.
+2815141,35,18,0,,,,128,Beifall bei der SPD und der LINKEN sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN,data/txt/18035.txt,poi,
+2815142,35,18,0,,,,129,"Auf die Bildung ist schon umfassend eingegangen worden. Deswegen kann ich nur betonen: Die Bildung ist eine zentrale Frage auch für die Entwicklungszusammenarbeit. Leider haben heutzutage in Nigeria nicht alle Mädchen eine Schulausbildung. Es darf aber in der Tat niemandem zum Verhängnis werden, dass er sein Anrecht auf Bildung wahrnimmt. Wie bereits gesagt, sind insbesondere Schulen Angriffen von Terrorgruppen ausgesetzt. Nigeria ist dabei leider kein Einzelfall. In mindestens 30 Ländern weltweit werden Schulen zum bewussten Ziel von Terroristen und bewaffneten Gruppen. Bildung ist eine Bedrohung für ihre Absichten. Deshalb muss es ein zentrales, internationales Anliegen sein, dass Schulen einen besonderen Schutz bekommen und dass das von allen Ländern, im Übrigen auch von Deutschland, respektiert und international vereinbart wird.",data/txt/18035.txt,speech,
+2815143,35,18,0,,,,130,Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU,data/txt/18035.txt,poi,
+2815144,35,18,0,,,,131,"Viele Konflikte in Nigeria basieren auf der Ausbeutung von Rohstoffen, wie das Schicksal von Ken Saro-Wiwa zeigt, das wir sicherlich alle noch in Erinnerung haben. Deswegen sind Fortschritte bei der Verabredung internationaler, sozialer, kultureller und ökonomischer Standards von zentraler Bedeutung. Das ist die zentrale Aufgabe, die wir hier im Deutschen Bundestag haben.",data/txt/18035.txt,speech,
+2815145,35,18,0,,,,132,Beifall der Abg. Dr. Bärbel Kofler [SPD],data/txt/18035.txt,poi,
+2815146,35,18,0,,,,133,"Der Kampf gegen Terrorismus muss auch immer ein Kampf um den Erhalt von Menschenrechten und Rechtsstaatlichkeit sein. Daher ist es von zentraler Bedeutung, dass Regierungen, die gegen Terrorismus kämpfen, nicht selbst gegen die Prinzipien von Menschenrechten und Rechtsstaatlichkeit verstoßen, die sie eigentlich aufrechterhalten wollen.",data/txt/18035.txt,speech,
+2815147,35,18,0,,,,134,Beifall der Abg. Kathrin Vogler [DIE LINKE],data/txt/18035.txt,poi,
+2815148,35,18,0,,,,135,"Deswegen muss es uns Sorge bereiten, dass die Regierung in Nigeria oft gegen Menschenrechte verstößt, auch im Kampf gegen Boko Haram. Am Ende wird Terrorismus mit den stärksten polizeilichen und militärischen Mitteln nicht besiegt werden können, wenn ihm nicht der gesellschaftliche Boden entzogen wird. Doch der gesellschaftliche und ökonomische Fortschritt kommt leider - das wurde hier bereits mehrfach betont - bei vielen Menschen im Land nicht an. Korruption ist ein riesengroßes Problem. Präsident Jonathan Goodluck hat dazu richtigerweise gesagt: Ich kann nicht feiern, solange nicht alle Nigerianer die positiven Auswirkungen unseres Wachstums spüren. Der im März 2014 vorgestellte Nigerias Soft Approach to Counter Terrorism, der auf die sozioökonomischen Ursachen des Konflikts mit Boko Haram abzielt, ist dazu ein richtiger Ansatz. Aber wir müssen die Regierung auch auffordern, ihn Realität werden zu lassen.",data/txt/18035.txt,speech,
+2815149,35,18,0,,,,136,Beifall bei der SPD und der CDU/CSU sowie bei Abgeordneten der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN,data/txt/18035.txt,poi,
+2815150,35,18,0,,,,137,"Nigeria muss also Fortschritte beim Einsatz für die soziale Teilhabe und bei der Durchsetzung menschenrechtlicher Standards machen. Dazu gehört auch die -Abschaffung der Todesstrafe. Der Kampf gegen den Terrorismus muss rechtsstaatlichen Prinzipien gerecht werden. Wenn die Regierung Nigerias diesen Weg geht, dann hat sie unsere volle Unterstützung verdient.
 
 Ich will betonen: Wir alle hoffen, dass die entführten Mädchen schnellstmöglich freikommen.",data/txt/18035.txt,speech,
-2234801,35,18,0,,,,138,Beifall bei der SPD und der CDU/CSU sowie bei Abgeordneten der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN,data/txt/18035.txt,poi,
-2234802,35,18,0,,,,139,"Vizepräsident Peter Hintze:
+2815151,35,18,0,,,,138,Beifall bei der SPD und der CDU/CSU sowie bei Abgeordneten der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN,data/txt/18035.txt,poi,
+2815152,35,18,0,,,,139,"Vizepräsident Peter Hintze:
 
 Als nächstem Redner erteile ich das Wort Charles M. Huber, CDU/CSU-Fraktion.",data/txt/18035.txt,speech,
-2234803,35,18,0,,,,140,Beifall bei der CDU/CSU,data/txt/18035.txt,poi,
-2234804,35,18,0,,,,141,"Charles M. Huber (CDU/CSU):
+2815153,35,18,0,,,,140,Beifall bei der CDU/CSU,data/txt/18035.txt,poi,
+2815154,35,18,0,,,,141,"Charles M. Huber (CDU/CSU):
 
 Sehr geehrter Herr Präsident! Sehr geehrte Damen und Herren! Das Thema Boko Haram hat natürlich aufgrund der Schrecklichkeit des Sachverhalts und der Vorgänge Einfluss auf das Gesamtbild von Afrika. Ich nutze die Gelegenheit hier, Afrika auch in anderer Form darzustellen, und zwar in Bezug auf das Land, aus dem ich stamme bzw. mein Vater stammt. Mein Vater stammt aus dem Senegal und war als Diplomat für dieses Land tätig. Der Senegal ist zu 94 Prozent von Moslems und zu 6 Prozent von Christen bewohnt. Mein Vater war also Diplomat in einer islamischen Gesellschaft. Sein Onkel war Staatspräsident Senghor, ein katholisches Staatsoberhaupt bei 94 Prozent Moslems. Wenn ich meine Verwandten im Senegal besuche, dann sehe ich, dass zu Weihnachten ein Christbaum aufgestellt wird. Wenn ich den Senegal in Zeiten des Ramadan besuche, dann sehe ich, dass die Christen zusammen mit den Moslems das Ende des Fastenmonats feiern.
 
@@ -1881,8 +1881,8 @@ Afrika ist dennoch ein Chancenkontinent, und Nigeria ist, wie viele andere Länd
 Da ich sehe, dass ich meine Redezeit schon überschritten habe, möchte ich zum Ende kommen. Afrikas Bevölkerung braucht Vertrauen, vor allen Dingen Vertrauen in den Staat. Dazu möchte ich sagen: Wir leben mit dem Staat, und für uns ist der Staat selbstverständlich. Wir haben eine Rentenversicherung, wir haben eine Krankenversicherung, wir haben Arbeitslosengeld I und Arbeitslosengeld II. Jemand, der das für sich in Anspruch nehmen kann, glaubt an den Staat. Wir müssen helfen, in Afrika Strukturen aufzubauen, damit die Menschen an den Staat glauben und solche Phänomene keine Chance mehr in der Zukunft haben.
 
 Vielen Dank, und entschuldigen Sie, dass ich die Redezeit überschritten habe.",data/txt/18035.txt,speech,
-2234805,35,18,0,,,,142,Beifall bei der CDU/CSU und der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN,data/txt/18035.txt,poi,
-2234806,35,18,0,,,,143,"Vizepräsident Peter Hintze:
+2815155,35,18,0,,,,142,Beifall bei der CDU/CSU und der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN,data/txt/18035.txt,poi,
+2815156,35,18,0,,,,143,"Vizepräsident Peter Hintze:
 
 Als letztem Redner erteile ich in dieser Debatte dem Kollegen Frank Heinrich, CDU/CSU-Fraktion, das Wort.
 
@@ -1913,8 +1913,8 @@ Im konkreten Fall der entführten Mädchen geht es, in Abstimmung mit den USA un
 Ich fasse zusammen: Zum Ersten müssen wir tun, was wir hier heute gesagt haben. Zum Zweiten müssen wir weiterhin den Grundwasserspiegel - ich sage das im übertragenen Sinne - von Wohlstand, von Menschenrechtsbedingungen zu heben helfen, sowohl im Norden Nigerias als auch in der Region allgemein. Zum Dritten: Bring back our girls! Wir verurteilen die Entführung aufs Allerschärfste und fordern von Boko Haram die sofortige Freilassung der Mädchen. Set them free!
 
 Ich danke Ihnen für die Aufmerksamkeit.",data/txt/18035.txt,speech,
-2234807,35,18,0,,,,144,"Beifall bei der CDU/CSU, der SPD und der LINKEN sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN",data/txt/18035.txt,poi,
-2234808,35,18,0,,,,145,"Vizepräsident Peter Hintze:
+2815157,35,18,0,,,,144,"Beifall bei der CDU/CSU, der SPD und der LINKEN sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN",data/txt/18035.txt,poi,
+2815158,35,18,0,,,,145,"Vizepräsident Peter Hintze:
 
 Das war der letzte Beitrag in einer, wie ich denke, sehr ernsten und sehr wichtigen Debatte. Alle Fraktionen haben gezeigt, dass der Deutsche Bundestag sich als Stimme der Menschenrechte in der Welt versteht. Wir sind zwar am Schluss der Tagesordnung, aber bei diesem Thema sicherlich nicht am Ende. Wir werden es aufmerksam und mit öffentlicher Wirksamkeit weiter begleiten.",data/txt/18035.txt,speech,
-2234809,35,18,0,,,,146,Beifall im ganzen Hause,data/txt/18035.txt,poi,
+2815159,35,18,0,,,,146,Beifall im ganzen Hause,data/txt/18035.txt,poi,

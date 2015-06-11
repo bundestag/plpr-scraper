@@ -1,5 +1,5 @@
 id,sitzung,wahlperiode,in_writing,speaker,speaker_cleaned,speaker_fp,sequence,text,filename,type,speaker_party
-2267888,62,18,0,,,,0,"Vizepräsident Peter Hintze:
+2853107,62,18,0,,,,0,"Vizepräsident Peter Hintze:
 
 Die Sitzung ist eröffnet.
 
@@ -44,8 +44,8 @@ Ich gebe jetzt Frau Dr. Wilms, Bündnis 90/Die Grünen, das Wort.
 Dr. Valerie Wilms (BÜNDNIS 90/DIE GRÜNEN):
 
 Vielen Dank, Herr Präsident. - Herr Minister Dobrindt, Sie haben eben gesagt, Sie wollen im Rahmen der Verbreiterung und Vertiefung der Lkw-Maut auf 7,5 Tonnen heruntergehen. Hier klafft aber noch eine Lücke zu Ihrem Referenten-entwurf, der letzte Woche auf der Pressekonfe-renz zum Thema „Pkw-Maut“ bekannt geworden ist; da hat man dies vernehmen können. Es gibt jetzt die schöne Lücke zwischen 3,5 Tonnen und 7,5 Tonnen. Aus welchem Grund nehmen Sie ei-gentlich diese Fahrzeuge - mit Ausnahme der Wohnmobile - aus? Was steckt dahinter? Ich kann das irgendwie nicht nachvollziehen. Auch solche Fahrzeuge nutzen doch die Straßen und nutzen sie in irgendeiner Weise ab.",data/txt/18062.txt,speech,
-2267889,62,18,0,Zurufe vom BÜNDNIS 90/DIE GRÜNEN,e vom BÜNDNIS 90/DIE GRÜNEN,e-vom-bundnis-90-die-grunen,1,Herr Minister!,data/txt/18062.txt,poi,gruene
-2267890,62,18,0,,,,2,"Vizepräsident Peter Hintze:
+2853108,62,18,0,Zurufe vom BÜNDNIS 90/DIE GRÜNEN,e vom BÜNDNIS 90/DIE GRÜNEN,e-vom-bundnis-90-die-grunen,1,Herr Minister!,data/txt/18062.txt,poi,gruene
+2853109,62,18,0,,,,2,"Vizepräsident Peter Hintze:
 
 Herr Minister.
 
@@ -72,20 +72,20 @@ Herr Minister.
 Alexander Dobrindt, Bundesminister für Ver-kehr und digitale Infrastruktur:
 
 Lieber Kollege Gastel, wir haben die Regelun-gen zum Datenschutz, die wir aus dem Bereich der Lkw-Maut kennen - es sind die schärfsten Da-tenschutzregelungen, die bisher in einem Gesetz zu finden sind -, gerade was die ausschließliche Verwendung dieser Daten für das Mautsystem und den Ausschluss der Verwendung der Daten für andere Zwecke - sprich: auch durch andere Behörden - anbelangt, in unseren Gesetzentwurf zur Infrastrukturabgabe, der sogenannten Pkw-Maut, übernommen. Das heißt - ich habe auch dies schon öffentlich formuliert -, dass wir aus-drücklich widersprechen, dass die Daten einer an-deren Nutzung zugeführt werden.",data/txt/18062.txt,speech,
-2267891,62,18,0,Dr. Valerie Wilms [BÜNDNIS 90/DIE GRÜNEN],Dr. Valerie Wilms [BÜNDNIS 90/DIE GRÜNEN],valerie-wilms-bundnis-90-die-grunen,3,Aber 13 Monate!,data/txt/18062.txt,poi,gruene
-2267892,62,18,0,,,,4,"Dass dies passiert, ist sogar explizit ausge-schlossen.
+2853110,62,18,0,Dr. Valerie Wilms [BÜNDNIS 90/DIE GRÜNEN],Dr. Valerie Wilms,valerie-wilms,3,Aber 13 Monate!,data/txt/18062.txt,poi,gruene
+2853111,62,18,0,,,,4,"Dass dies passiert, ist sogar explizit ausge-schlossen.
 
 Die Kontrolldaten, die wir erheben, werden grundsätzlich unverzüglich gelöscht. Das ist im Gesetz so vorgesehen. Bei der erstmaligen Kon-trolle innerhalb des Gültigkeitszeitraumes einer Jahresvignette werden das Kennzeichen und der Tag der Kontrolle festgehalten, wobei die Aufbe-wahrungszeit je nach Zeitpunkt der Kontrolle in-nerhalb des Zeitraums der Gültigkeit einer Jah-resvignette 1 Monat bis maximal 13 Monate be-tragen kann.  Es geht dabei darum, dass wir uns für Härtefälle eine -Erstattung auf Antrag vorstellen können, wenn nachgewiesen wird, dass ein Kraftfahrzeug im gesamten Entrichtungszeit-raum nicht genutzt worden ist. Um jedoch unge-rechtfertigten Erstattungen vorzubeugen, ist vor-gesehen, dass einmalig innerhalb der Gültigkeit der Jahresvignette das Kennzeichen und der Tag der Kontrolle des Kfz mit einer Jahresvignette ge-speichert werden können.
 
 Es geht dabei um die einmalige Feststellung der Nutzung des Netzes innerhalb des Gültig-keitszeitraums einer Jahresvignette. Die Feststel-lung findet ausschließlich über das Kennzeichen und den Tag der Nutzung statt. Eine Verwendung dieser Daten ist ausschließlich für den Zweck der Erstattung vorgesehen. Eine Übermittlung oder Beschlagnahme dieser Daten für andere Zwecke ist nicht zulässig.",data/txt/18062.txt,speech,
-2267893,62,18,0,Herbert Behrens [DIE LINKE],Herbert Behrens [DIE LINKE],herbert-behrens-die-linke,5,Für zwei Fragen fünf Antwortzeiträume ver-braucht!,data/txt/18062.txt,poi,linke
-2267894,62,18,0,,,,6,"Von daher sehen Sie, worum es an dieser Stelle geht, nämlich darum, einmalig festzuhalten, ob ein Befahren des Netzes stattgefunden hat. Grund da-für ist, Erstattungen oder Erstattungsanfragen möglich zu machen bzw. unberechtigte Anfragen entsprechend zu beantworten.
+2853112,62,18,0,Herbert Behrens [DIE LINKE],Herbert Behrens,herbert-behrens,5,Für zwei Fragen fünf Antwortzeiträume ver-braucht!,data/txt/18062.txt,poi,linke
+2853113,62,18,0,,,,6,"Von daher sehen Sie, worum es an dieser Stelle geht, nämlich darum, einmalig festzuhalten, ob ein Befahren des Netzes stattgefunden hat. Grund da-für ist, Erstattungen oder Erstattungsanfragen möglich zu machen bzw. unberechtigte Anfragen entsprechend zu beantworten.
 
 Vizepräsident Peter Hintze:
 
 Schönen Dank. - Ich bin von der Fraktion Die Linke darauf hingewiesen worden, dass die Abge-ordneten und die Regierungsmitglieder bitte die Redezeitampel beachten. Die Frage war allerdings so komplex, dass eine ausführliche Antwort aus meiner Sicht für das Haus wichtig war.",data/txt/18062.txt,speech,
-2267895,62,18,0,Zuruf von der CDU/CSU,von der CDU/CSU,von-der-cdu-csu,7,Sehr richtig!,data/txt/18062.txt,poi,cducsu
-2267896,62,18,0,,,,8,"Herr Kollege Behrens von der Fraktion Die Lin-ke stellt die nächste Frage.
+2853114,62,18,0,Zuruf von der CDU/CSU,von der CDU/CSU,von-der-cdu-csu,7,Sehr richtig!,data/txt/18062.txt,poi,cducsu
+2853115,62,18,0,,,,8,"Herr Kollege Behrens von der Fraktion Die Lin-ke stellt die nächste Frage.
 
 Herbert Behrens (DIE LINKE):
 
@@ -102,10 +102,10 @@ Das waren jetzt schon drei Fragen und damit eigentlich zwei mehr, als die Gesch�
 Alexander Dobrindt, Bundesminister für Ver-kehr und digitale Infrastruktur:
 
 Wenn ich Sie richtig verstanden habe, Herr Behrens, bemängeln Sie zwar, dass die Entschei-dung zur Bemautung der vierspurigen Bundes-straßen zu spät getroffen worden sei, aber Sie begrüßen, dass sie kommt.",data/txt/18062.txt,speech,
-2267897,62,18,0,Herbert Behrens [DIE LINKE],Herbert Behrens [DIE LINKE],herbert-behrens-die-linke,9,Jeder Schritt ist nötig!,data/txt/18062.txt,poi,linke
-2267898,62,18,0,,,,10,- Bitte? Der Schritt ist gut?,data/txt/18062.txt,speech,
-2267899,62,18,0,Herbert Behrens [DIE LINKE],Herbert Behrens [DIE LINKE],herbert-behrens-die-linke,11,Jeder Schritt ist nötig!,data/txt/18062.txt,poi,linke
-2267900,62,18,0,,,,12,"Die von Ihnen angesprochenen 1 000 Kilometer sind tatsächlich 1 100 Kilometer. Das heißt, dass alle vierspurigen Bundesstraßen, die an Autobah-nen angebunden sind, in das Mautsystem aufge-nommen werden. Das ist dann letztlich ein flä-chendeckendes Netz von Autobahnen und vier-spurigen Bundesstraßen.
+2853116,62,18,0,Herbert Behrens [DIE LINKE],Herbert Behrens,herbert-behrens,9,Jeder Schritt ist nötig!,data/txt/18062.txt,poi,linke
+2853117,62,18,0,,,,10,- Bitte? Der Schritt ist gut?,data/txt/18062.txt,speech,
+2853118,62,18,0,Herbert Behrens [DIE LINKE],Herbert Behrens,herbert-behrens,11,Jeder Schritt ist nötig!,data/txt/18062.txt,poi,linke
+2853119,62,18,0,,,,12,"Die von Ihnen angesprochenen 1 000 Kilometer sind tatsächlich 1 100 Kilometer. Das heißt, dass alle vierspurigen Bundesstraßen, die an Autobah-nen angebunden sind, in das Mautsystem aufge-nommen werden. Das ist dann letztlich ein flä-chendeckendes Netz von Autobahnen und vier-spurigen Bundesstraßen.
 
 In der Tat gab es in vergangenen Zeiten offen-sichtlich technische Fragen, die aber auf dem Weg bis hierhin geklärt werden konnten, sodass dies jetzt möglich ist.
 
@@ -142,14 +142,14 @@ Alexander Dobrindt, Bundesminister für Ver-kehr und digitale Infrastruktur:
 Liebe Frau Haßelmann, wenn ich die Diskussi-onen der letzten Tage auch in den Medien richtig verfolgt habe, würde ich mich an Ihrer Stelle an noch mehr Punkten fragen; ich denke da an Äuße-rungen, die von maßgeblichen Personen aus Ihrer Partei zu diesem ganzen Thema zu lesen waren.
 
 Wir haben aufgenommen, dass viele Beteiligte eine Unterfinanzierung im Investitionsbereich be-klagt haben, und wir haben einen Lösungsansatz erarbeitet. Dabei handelt es sich um eine Paketlö-sung, mit der wir - das habe ich gerade schon in meiner Antwort auf die Frage des Kollegen Bilger gesagt - die von der Daehre/Bodewig-Kommission formulierte Lücke füllen können.",data/txt/18062.txt,speech,
-2267901,62,18,0,Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN],Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN],britta-haßelmann-bundnis-90-die-grunen,13,Aber nicht durch Einbezie-hung von 1 100 Kilometern!,data/txt/18062.txt,poi,gruene
-2267902,62,18,0,,,,14,Ein Teil dieser Paketlösung befindet sich in dem vorgelegten Gesetzentwurf: 380 Millionen Euro Mehreinnahmen pro Jahr. Dass Sie 380 Millionen Euro Mehreinnahmen pro Jahr als irrelevant bezeichnet haben - -,data/txt/18062.txt,speech,
-2267903,62,18,0,Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN],Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN],britta-haßelmann-bundnis-90-die-grunen,15,"„Fliegenschiss“ habe ich ge-sagt, weil Sie „Investitionshochlauf“ ge-sagt haben!",data/txt/18062.txt,poi,gruene
-2267904,62,18,0,Gustav Herzog [SPD],Gustav Herzog [SPD],gustav-herzog-spd,16,„Fliegenschiss“ hat sie gesagt! Völlig un-parlamentarisch!,data/txt/18062.txt,poi,spd
-2267905,62,18,0,,,,17,"- Ich habe „irrelevant“ verstanden. - Dass Sie das als irrelevant bezeichnet haben, kann ich nicht nachvollziehen. Für die meisten Menschen in die-sem Land sind 380 Millionen Euro immer noch re-lativ viel Geld. Für mich auch, und für das Bun-desverkehrsministerium auch.",data/txt/18062.txt,speech,
-2267906,62,18,0,,,,18,Beifall bei der CDU/CSU sowie bei Ab-geordneten der SPD,data/txt/18062.txt,poi,
-2267907,62,18,0,Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN],Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN],britta-haßelmann-bundnis-90-die-grunen,19,"Es geht um 7,2 Milliarden!",data/txt/18062.txt,poi,gruene
-2267908,62,18,0,,,,20,"Vizepräsident Peter Hintze:
+2853120,62,18,0,Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN],Britta Haßelmann,britta-haßelmann,13,Aber nicht durch Einbezie-hung von 1 100 Kilometern!,data/txt/18062.txt,poi,gruene
+2853121,62,18,0,,,,14,Ein Teil dieser Paketlösung befindet sich in dem vorgelegten Gesetzentwurf: 380 Millionen Euro Mehreinnahmen pro Jahr. Dass Sie 380 Millionen Euro Mehreinnahmen pro Jahr als irrelevant bezeichnet haben - -,data/txt/18062.txt,speech,
+2853122,62,18,0,Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN],Britta Haßelmann,britta-haßelmann,15,"„Fliegenschiss“ habe ich ge-sagt, weil Sie „Investitionshochlauf“ ge-sagt haben!",data/txt/18062.txt,poi,gruene
+2853123,62,18,0,Gustav Herzog [SPD],Gustav Herzog,gustav-herzog,16,„Fliegenschiss“ hat sie gesagt! Völlig un-parlamentarisch!,data/txt/18062.txt,poi,spd
+2853124,62,18,0,,,,17,"- Ich habe „irrelevant“ verstanden. - Dass Sie das als irrelevant bezeichnet haben, kann ich nicht nachvollziehen. Für die meisten Menschen in die-sem Land sind 380 Millionen Euro immer noch re-lativ viel Geld. Für mich auch, und für das Bun-desverkehrsministerium auch.",data/txt/18062.txt,speech,
+2853125,62,18,0,,,,18,Beifall bei der CDU/CSU sowie bei Ab-geordneten der SPD,data/txt/18062.txt,poi,
+2853126,62,18,0,Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN],Britta Haßelmann,britta-haßelmann,19,"Es geht um 7,2 Milliarden!",data/txt/18062.txt,poi,gruene
+2853127,62,18,0,,,,20,"Vizepräsident Peter Hintze:
 
 Nächster Fragesteller ist der Abgeordnete Kühn, Bündnis 90/Die Grünen.
 
@@ -160,11 +160,11 @@ Herr Präsident! Herr Minister, Sie haben kund-getan, dass Sie die Mauterhebungs
 Alexander Dobrindt, Bundesminister für Ver-kehr und digitale Infrastruktur:
 
 Sehr geehrter Herr Kühn, nein, diese Frage kann man nicht beantworten, und zwar aus dem einfachen Grund, dass es keine Vorschrift gibt, wie die Klasse von 3,5 bis 7,5 Tonnen zu bemau-ten ist.",data/txt/18062.txt,speech,
-2267909,62,18,0,Sylvia Kotting-Uhl [BÜNDNIS 90/DIE GRÜNEN],Sylvia Kotting-Uhl [BÜNDNIS 90/DIE GRÜNEN],sylvia-kotting-uhl-bundnis-90-die-grunen,21,Die machen doch Sie!,data/txt/18062.txt,poi,gruene
-2267910,62,18,0,Oli-ver Krischer [BÜNDNIS 90/DIE GRÜ-NEN],Oli-ver Krischer [BÜNDNIS 90/DIE GRÜ-NEN],oli-ver-krischer-bundnis-90-die-gru-nen,22,Wohnmobile beziehen Sie doch ein!,data/txt/18062.txt,poi,gruene
-2267911,62,18,0,,,,23,"Wenn Sie eine Antwort auf diese Frage haben wollen, müssen Sie erst einmal festlegen, in wel-chem System und mit welchen Bedingungen Sie die Maut für diese Klasse ausgestalten wollen. Wenn Sie das formuliert haben, dann können Sie am Ende einen Betrag errechnen. Ohne eine klare Formulierung, mit welchem Mautsystem man die-se Klasse bemauten will, ist kein Euro-Betrag zu ermitteln.",data/txt/18062.txt,speech,
-2267912,62,18,0,Stephan Kühn [Dresden] [BÜND-NIS 90/DIE GRÜNEN],Stephan Kühn [Dresden] [BÜND-NIS 90/DIE GRÜNEN],stephan-kuhn-dresden-bund-nis-90-die-grunen,24,Ah ja!,data/txt/18062.txt,poi,gruene
-2267913,62,18,0,,,,25,"Vizepräsident Peter Hintze:
+2853128,62,18,0,Sylvia Kotting-Uhl [BÜNDNIS 90/DIE GRÜNEN],Sylvia Kotting-Uhl,sylvia-kotting-uhl,21,Die machen doch Sie!,data/txt/18062.txt,poi,gruene
+2853129,62,18,0,Oli-ver Krischer [BÜNDNIS 90/DIE GRÜ-NEN],Oli-ver Krischer,oli-ver-krischer,22,Wohnmobile beziehen Sie doch ein!,data/txt/18062.txt,poi,gruene
+2853130,62,18,0,,,,23,"Wenn Sie eine Antwort auf diese Frage haben wollen, müssen Sie erst einmal festlegen, in wel-chem System und mit welchen Bedingungen Sie die Maut für diese Klasse ausgestalten wollen. Wenn Sie das formuliert haben, dann können Sie am Ende einen Betrag errechnen. Ohne eine klare Formulierung, mit welchem Mautsystem man die-se Klasse bemauten will, ist kein Euro-Betrag zu ermitteln.",data/txt/18062.txt,speech,
+2853131,62,18,0,Stephan Kühn [Dresden] [BÜND-NIS 90/DIE GRÜNEN],Stephan Kühn,stephan-kuhn,24,Ah ja!,data/txt/18062.txt,poi,gruene
+2853132,62,18,0,,,,25,"Vizepräsident Peter Hintze:
 
 Nächster Fragesteller ist der Abgeordnete Kri-scher, Bündnis 90/Die Grünen.
 
@@ -185,8 +185,8 @@ Alexander Dobrindt, Bundesminister für Ver-kehr und digitale Infrastruktur:
 In den letzten Tagen gab es gerade auch von Ihnen Meldungen, dass Sie eine Verstetigung, Verbreiterung, Vertiefung, Ausweitung der Lkw-Maut befürworten. Das sei das richtige Konzept. Die Bundesregierung hat heute beschlossen, die Lkw-Maut auszuweiten - nicht unbedingt in Erfül-lung Ihrer Aufforderung, vielmehr aus eigenem Antrieb, weil wir es für notwendig erachten, die Nutzerfinanzierung konsequenter umzusetzen.
 
 Deswegen habe ich heute auch sehr deutlich formuliert, dass wir alle Vorbereitungen dazu treffen, die Lkw-Maut im Jahr 2018 auf alle Bundesstraßen anzuwenden. Diesen Schritt for-dern, glaube ich, auch Sie. Auch diesen Schritt gehen wir, und zwar nicht, um Ihrer Forderung nachzukommen, sondern weil wir es für dringend geboten halten, die Nutzerfinanzierung hier zu stärken.",data/txt/18062.txt,speech,
-2267914,62,18,0,Oliver Krischer [BÜNDNIS 90/DIE GRÜNEN],Oliver Krischer [BÜNDNIS 90/DIE GRÜNEN],oliver-krischer-bundnis-90-die-grunen,26,In der nächsten Wahlpe-riode!,data/txt/18062.txt,poi,gruene
-2267915,62,18,0,,,,27,"- Nein. Es ist in der Tat einige Zeit Vorbereitung notwendig, damit es auf 40 000 Kilometern Straße funktionieren kann.
+2853133,62,18,0,Oliver Krischer [BÜNDNIS 90/DIE GRÜNEN],Oliver Krischer,oliver-krischer,26,In der nächsten Wahlpe-riode!,data/txt/18062.txt,poi,gruene
+2853134,62,18,0,,,,27,"- Nein. Es ist in der Tat einige Zeit Vorbereitung notwendig, damit es auf 40 000 Kilometern Straße funktionieren kann.
 
 Wir erheben bisher Lkw-Maut auf 13 000 Kilo-metern Autobahnen. Jetzt kommen 1 100 Kilome-ter vierspurige Bundesstraßen dazu; 1 200 Kilo-meter vierspurige Bundesstraßen sind bereits im System enthalten. Wir wollen dann auf 40 000 Ki-lometern Mautgebühr erheben, so wie wir es heute für die genannten Straßen umgesetzt haben. Es ist bekannt, dass entsprechende Vorbereitungen notwendig sind. Sie werden innerhalb dieses Zeit-raums möglich sein. Dadurch wird dann nutzerfi-nanziert ein erheblicher Mehrbeitrag für Investitio-nen zur Verfügung stehen. Dies ist auch richtig, weil die Lkws in der Tat zu einem erheblichen Teil die Belastung der Straße ausmachen.
 
@@ -197,8 +197,8 @@ Nächste Fragestellerin ist die Abgeordnete Frau Leidig, Fraktion Die Linke.
 Sabine Leidig (DIE LINKE):
 
 Ich möchte gerne zwei kurze Fragen stellen. Die erste Frage bezieht sich auf die Antwort, die Sie Herrn Behrens gegeben haben. Ich möchte fragen, ob ich es richtig verstanden habe - auch in der jetzigen Antwort -, dass Sie im Grunde per-spektivisch das Ziel verfolgen, alle Straßen für Lkws zu bemauten.",data/txt/18062.txt,speech,
-2267916,62,18,0,Gustav Herzog [SPD],Gustav Herzog [SPD],gustav-herzog-spd,28,Nein!,data/txt/18062.txt,poi,spd
-2267917,62,18,0,,,,29,"Außerdem möchte ich fragen, ob dieser Plan der-zeit daran scheitert, dass das Erfassungssystem, sprich Toll Collect, dafür nicht geeignet ist.
+2853135,62,18,0,Gustav Herzog [SPD],Gustav Herzog,gustav-herzog,28,Nein!,data/txt/18062.txt,poi,spd
+2853136,62,18,0,,,,29,"Außerdem möchte ich fragen, ob dieser Plan der-zeit daran scheitert, dass das Erfassungssystem, sprich Toll Collect, dafür nicht geeignet ist.
 
 Vizepräsident Peter Hintze:
 
@@ -207,9 +207,9 @@ Herr Minister.
 Alexander Dobrindt, Bundesminister für Ver-kehr und digitale Infrastruktur:
 
 Liebe Kollegin Leidig, Sie haben beides falsch verstanden.",data/txt/18062.txt,speech,
-2267918,62,18,0,Sabine Leidig [DIE LINKE],Sabine Leidig [DIE LINKE],sabine-leidig-die-linke,30,Sehr schön!,data/txt/18062.txt,poi,linke
-2267919,62,18,0,Gustav Herzog [SPD],Gustav Herzog [SPD],gustav-herzog-spd,31,Absichtlich falsch verstanden!,data/txt/18062.txt,poi,spd
-2267920,62,18,0,,,,32,"Ich will die Lkw-Maut nicht auf allen Straßen in Deutschland einführen, sondern auf den Bundes-straßen in Deutschland im Jahr 2018. Die Tatsa-che, dass jetzt keine Ausweitung über das System von Toll Collect möglich ist, liegt nicht daran, dass das System das nicht kann, sondern es liegt daran, dass es sich um eine Größenordnung han-delt, bei der die Vergabe nach europäischen Vor-schriften organisiert werden muss. Deswegen kann dies von uns nicht einfach direkt zur Bemau-tung an ein existierendes Unternehmen gegeben werden, das dann die Mauteinnahmen generieren würde. Das Generieren der Mauteinnahmen in ei-nem großen System von 40 000 Kilometern ist un-ter europäischen Vergaberechtsbedingungen aus-zuschreiben.
+2853137,62,18,0,Sabine Leidig [DIE LINKE],Sabine Leidig,sabine-leidig,30,Sehr schön!,data/txt/18062.txt,poi,linke
+2853138,62,18,0,Gustav Herzog [SPD],Gustav Herzog,gustav-herzog,31,Absichtlich falsch verstanden!,data/txt/18062.txt,poi,spd
+2853139,62,18,0,,,,32,"Ich will die Lkw-Maut nicht auf allen Straßen in Deutschland einführen, sondern auf den Bundes-straßen in Deutschland im Jahr 2018. Die Tatsa-che, dass jetzt keine Ausweitung über das System von Toll Collect möglich ist, liegt nicht daran, dass das System das nicht kann, sondern es liegt daran, dass es sich um eine Größenordnung han-delt, bei der die Vergabe nach europäischen Vor-schriften organisiert werden muss. Deswegen kann dies von uns nicht einfach direkt zur Bemau-tung an ein existierendes Unternehmen gegeben werden, das dann die Mauteinnahmen generieren würde. Das Generieren der Mauteinnahmen in ei-nem großen System von 40 000 Kilometern ist un-ter europäischen Vergaberechtsbedingungen aus-zuschreiben.
 
 Vizepräsident Peter Hintze:
 
@@ -226,22 +226,22 @@ Herr Minister.
 Alexander Dobrindt, Bundesminister für Ver-kehr und digitale Infrastruktur:
 
 Liebe Frau Kotting-Uhl, offensichtlich tun Sie sich schwer, ein Paket zu beschreiben, das aus vielerlei Maßnahmen besteht und in der Gesamt-summe zu einem erheblichen Mehr an Investitio-nen führt.",data/txt/18062.txt,speech,
-2267921,62,18,0,Sylvia Kotting-Uhl [BÜNDNIS 90/DIE GRÜNEN],Sylvia Kotting-Uhl [BÜNDNIS 90/DIE GRÜNEN],sylvia-kotting-uhl-bundnis-90-die-grunen,33,Das sind Ihre Zahlen!,data/txt/18062.txt,poi,gruene
-2267922,62,18,0,,,,34,"Ich habe ja Verständnis dafür, dass Sie sich aus ideologischen Gründen etwas dagegen wehren, dass wir mehr Geld in die Straße investieren wol-len.",data/txt/18062.txt,speech,
-2267923,62,18,0,Oliver Krischer [BÜNDNIS 90/DIE GRÜNEN],Oliver Krischer [BÜNDNIS 90/DIE GRÜNEN],oliver-krischer-bundnis-90-die-grunen,35,Der einzige Ideologe sind Sie!,data/txt/18062.txt,poi,gruene
-2267924,62,18,0,,,,36,"Aber es ist trotzdem unsere Aufgabe, dafür zu sorgen, dass der Güter- und Personenverkehr auch auf der Straße weiterhin stattfinden kann.
+2853140,62,18,0,Sylvia Kotting-Uhl [BÜNDNIS 90/DIE GRÜNEN],Sylvia Kotting-Uhl,sylvia-kotting-uhl,33,Das sind Ihre Zahlen!,data/txt/18062.txt,poi,gruene
+2853141,62,18,0,,,,34,"Ich habe ja Verständnis dafür, dass Sie sich aus ideologischen Gründen etwas dagegen wehren, dass wir mehr Geld in die Straße investieren wol-len.",data/txt/18062.txt,speech,
+2853142,62,18,0,Oliver Krischer [BÜNDNIS 90/DIE GRÜNEN],Oliver Krischer,oliver-krischer,35,Der einzige Ideologe sind Sie!,data/txt/18062.txt,poi,gruene
+2853143,62,18,0,,,,36,"Aber es ist trotzdem unsere Aufgabe, dafür zu sorgen, dass der Güter- und Personenverkehr auch auf der Straße weiterhin stattfinden kann.
 
 Wenn man die Zahlen nimmt, die Sie gerade beschrieben haben -",data/txt/18062.txt,speech,
-2267925,62,18,0,Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN],Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN],britta-haßelmann-bundnis-90-die-grunen,37,Einfach mal erklären!,data/txt/18062.txt,poi,gruene
-2267926,62,18,0,Ge-genruf der Abg. Daniela Ludwig [CDU/CSU],Ge-genruf der Abg. Daniela Ludwig [CDU/CSU],ge-genruf-der-abg-daniela-ludwig-cdu-csu,38,Da gibt es nichts zu erklä-ren! Wir rechnen einfach!,data/txt/18062.txt,poi,cducsu
-2267927,62,18,0,,,,39,"die heutige Summe und das, was wir durch Ver-breiterung und Vertiefung schaffen -, dann heißt das, dass man im Bereich der Lkw-Maut nahezu 10 Prozent mehr zur Verfügung hat. Ein Anwach-sen um 10 Prozent ist für mich ein relevantes An-wachsen.",data/txt/18062.txt,speech,
-2267928,62,18,0,Dr. Valerie Wilms [BÜNDNIS 90/DIE GRÜNEN],Dr. Valerie Wilms [BÜNDNIS 90/DIE GRÜNEN],valerie-wilms-bundnis-90-die-grunen,40,Letzte Woche war es um 10 Prozent gesenkt!,data/txt/18062.txt,poi,gruene
-2267929,62,18,0,Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN],Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN],britta-haßelmann-bundnis-90-die-grunen,41,Quatsch!,data/txt/18062.txt,poi,gruene
-2267930,62,18,0,,,,42,"Vizepräsident Peter Hintze:
+2853144,62,18,0,Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN],Britta Haßelmann,britta-haßelmann,37,Einfach mal erklären!,data/txt/18062.txt,poi,gruene
+2853145,62,18,0,Ge-genruf der Abg. Daniela Ludwig [CDU/CSU],Ge-genruf der Abg. Daniela Ludwig,ge-genruf-der-abg-daniela-ludwig,38,Da gibt es nichts zu erklä-ren! Wir rechnen einfach!,data/txt/18062.txt,poi,cducsu
+2853146,62,18,0,,,,39,"die heutige Summe und das, was wir durch Ver-breiterung und Vertiefung schaffen -, dann heißt das, dass man im Bereich der Lkw-Maut nahezu 10 Prozent mehr zur Verfügung hat. Ein Anwach-sen um 10 Prozent ist für mich ein relevantes An-wachsen.",data/txt/18062.txt,speech,
+2853147,62,18,0,Dr. Valerie Wilms [BÜNDNIS 90/DIE GRÜNEN],Dr. Valerie Wilms,valerie-wilms,40,Letzte Woche war es um 10 Prozent gesenkt!,data/txt/18062.txt,poi,gruene
+2853148,62,18,0,Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN],Britta Haßelmann,britta-haßelmann,41,Quatsch!,data/txt/18062.txt,poi,gruene
+2853149,62,18,0,,,,42,"Vizepräsident Peter Hintze:
 
 Nächster Fragesteller ist der Abgeordnete Herr Beck, Bündnis 90/Die Grünen.",data/txt/18062.txt,speech,
-2267931,62,18,0,Gustav Herzog [SPD],Gustav Herzog [SPD],gustav-herzog-spd,43,Hat der auch Ah-nung davon?,data/txt/18062.txt,poi,spd
-2267932,62,18,0,,,,44,"Volker Beck (Köln) (BÜNDNIS 90/DIE GRÜ-NEN):
+2853150,62,18,0,Gustav Herzog [SPD],Gustav Herzog,gustav-herzog,43,Hat der auch Ah-nung davon?,data/txt/18062.txt,poi,spd
+2853151,62,18,0,,,,44,"Volker Beck (Köln) (BÜNDNIS 90/DIE GRÜ-NEN):
 
 Herr Minister, Sie sind vorhin schon auf die Frage des Kollegen Gastel eingegangen. In der Presse haben Sie sich noch viel eindeutiger ge-äußert. Sie haben den Bürgern nämlich verspro-chen:
 
@@ -252,42 +252,42 @@ Die Mautdaten werden ausschließlich für die Mautentrichtung aufgenommen und un
 anderen Zwecken zur Verfügung gestellt, auch nicht dem Bundeskriminalamt oder an-deren Sicherheitsbehörden.
 
 Aus dem Bundeskriminalamt kam prompt die For-derung, genau dies solle erfolgen.",data/txt/18062.txt,speech,
-2267933,62,18,0,Oliver Krischer [BÜNDNIS 90/DIE GRÜNEN],Oliver Krischer [BÜNDNIS 90/DIE GRÜNEN],oliver-krischer-bundnis-90-die-grunen,45,Fast zeitgleich!,data/txt/18062.txt,poi,gruene
-2267934,62,18,0,,,,46,"Wenn das unter keinen Umständen geschehen soll, wie Sie sagen, wie wollen Sie dann gesetz-lich verhindern, dass ein künftiger Gesetzgeber durch einen neuen Gesetzesbeschluss",data/txt/18062.txt,speech,
-2267935,62,18,0,Daniela Ludwig [CDU/CSU],Daniela Ludwig [CDU/CSU],daniela-ludwig-cdu-csu,47,Oh nein! Das gibt es doch nicht! Muss das sein?,data/txt/18062.txt,poi,cducsu
-2267936,62,18,0,,,,48,Weitere Zurufe von der CDU/CSU,data/txt/18062.txt,poi,
-2267937,62,18,0,,,,49,"nach einer schlimmen Kriminaltat beschließt, dass die Daten den Sicherheitsbehörden unter be-stimmten Voraussetzungen zur Bekämpfung schwerster Kriminalität zugänglich gemacht wer-den?",data/txt/18062.txt,speech,
-2267938,62,18,0,Gustav Herzog [SPD],Gustav Herzog [SPD],gustav-herzog-spd,50,So ein Stuss!,data/txt/18062.txt,poi,spd
-2267939,62,18,0,,,,51,"Ich meine, eine Technologie, die nicht von An-fang an auf Datenarmut zielt, ist kein guter Daten-schutz. Deshalb frage ich Sie: Mit welchen ge-setzgeberischen Kniffen wollen Sie in der Verfas-sung verhindern - wollen Sie es zum Beispiel mit Zweidrittelmehrheit von Bundestag und Bundesrat im Gesetz absichern? -,",data/txt/18062.txt,speech,
-2267940,62,18,0,Daniela Ludwig [CDU/CSU],Daniela Ludwig [CDU/CSU],daniela-ludwig-cdu-csu,52,"Ach, bitte! Muss das denn sein?",data/txt/18062.txt,poi,cducsu
-2267941,62,18,0,,,,53,"dass mit einfacher Mehrheit eine neue Mehrheit hier in diesem Hohen Hause genau das Gegenteil von dem beschließt, was Sie allen Bürgerinnen und Bürgern hier so vollmundig garantieren wol-len?",data/txt/18062.txt,speech,
-2267942,62,18,0,Daniela Ludwig [CDU/CSU],Daniela Ludwig [CDU/CSU],daniela-ludwig-cdu-csu,54,"Wenn wir an der Regierung bleiben, bleibt alles gut! Keine Sorge!",data/txt/18062.txt,poi,cducsu
-2267943,62,18,0,"Uwe Beckmeyer, Parl. Staatssekretär","Uwe Beckmeyer, Parl. Staatssekretär",uwe-beckmeyer-parl-staatssekretar,55,Das war doch nur eine rhetorische Frage!,data/txt/18062.txt,poi,
-2267944,62,18,0,,,,56,"Vizepräsident Peter Hintze:
+2853152,62,18,0,Oliver Krischer [BÜNDNIS 90/DIE GRÜNEN],Oliver Krischer,oliver-krischer,45,Fast zeitgleich!,data/txt/18062.txt,poi,gruene
+2853153,62,18,0,,,,46,"Wenn das unter keinen Umständen geschehen soll, wie Sie sagen, wie wollen Sie dann gesetz-lich verhindern, dass ein künftiger Gesetzgeber durch einen neuen Gesetzesbeschluss",data/txt/18062.txt,speech,
+2853154,62,18,0,Daniela Ludwig [CDU/CSU],Daniela Ludwig,daniela-ludwig,47,Oh nein! Das gibt es doch nicht! Muss das sein?,data/txt/18062.txt,poi,cducsu
+2853155,62,18,0,,,,48,Weitere Zurufe von der CDU/CSU,data/txt/18062.txt,poi,
+2853156,62,18,0,,,,49,"nach einer schlimmen Kriminaltat beschließt, dass die Daten den Sicherheitsbehörden unter be-stimmten Voraussetzungen zur Bekämpfung schwerster Kriminalität zugänglich gemacht wer-den?",data/txt/18062.txt,speech,
+2853157,62,18,0,Gustav Herzog [SPD],Gustav Herzog,gustav-herzog,50,So ein Stuss!,data/txt/18062.txt,poi,spd
+2853158,62,18,0,,,,51,"Ich meine, eine Technologie, die nicht von An-fang an auf Datenarmut zielt, ist kein guter Daten-schutz. Deshalb frage ich Sie: Mit welchen ge-setzgeberischen Kniffen wollen Sie in der Verfas-sung verhindern - wollen Sie es zum Beispiel mit Zweidrittelmehrheit von Bundestag und Bundesrat im Gesetz absichern? -,",data/txt/18062.txt,speech,
+2853159,62,18,0,Daniela Ludwig [CDU/CSU],Daniela Ludwig,daniela-ludwig,52,"Ach, bitte! Muss das denn sein?",data/txt/18062.txt,poi,cducsu
+2853160,62,18,0,,,,53,"dass mit einfacher Mehrheit eine neue Mehrheit hier in diesem Hohen Hause genau das Gegenteil von dem beschließt, was Sie allen Bürgerinnen und Bürgern hier so vollmundig garantieren wol-len?",data/txt/18062.txt,speech,
+2853161,62,18,0,Daniela Ludwig [CDU/CSU],Daniela Ludwig,daniela-ludwig,54,"Wenn wir an der Regierung bleiben, bleibt alles gut! Keine Sorge!",data/txt/18062.txt,poi,cducsu
+2853162,62,18,0,"Uwe Beckmeyer, Parl. Staatssekretär",Uwe Beckmeyer,uwe-beckmeyer,55,Das war doch nur eine rhetorische Frage!,data/txt/18062.txt,poi,
+2853163,62,18,0,,,,56,"Vizepräsident Peter Hintze:
 
 Herr Minister.
 
 Alexander Dobrindt, Bundesminister für Ver-kehr und digitale Infrastruktur:
 
 Erstens. Das Zitat ist richtig und bleibt richtig.",data/txt/18062.txt,speech,
-2267945,62,18,0,Volker Beck [Köln] [BÜNDNIS 90/DIE GRÜNEN],Volker Beck [Köln] [BÜNDNIS 90/DIE GRÜNEN],volker-beck-koln-bundnis-90-die-grunen,57,Ich weiß! Ich zitiere ja auch richtig!,data/txt/18062.txt,poi,gruene
-2267946,62,18,0,,,,58,"Zweitens. Das ist schon ein erhöhtes Maß an Heuchelei vor dem Hintergrund,",data/txt/18062.txt,speech,
-2267947,62,18,0,Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN],Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN],britta-haßelmann-bundnis-90-die-grunen,59,"Na, na!",data/txt/18062.txt,poi,gruene
-2267948,62,18,0,,,,60,"dass Ihre Fraktion und Ihre Partei jetzt Woche für Woche nach einer intelligenten Maut schreien,",data/txt/18062.txt,speech,
-2267949,62,18,0,Max Straubinger [CDU/CSU],Max Straubinger [CDU/CSU],max-straubinger-cdu-csu,61,Ja!,data/txt/18062.txt,poi,cducsu
-2267950,62,18,0,,,,62,die verkehrslenkend wirken,data/txt/18062.txt,speech,
-2267951,62,18,0,Matthias Gastel [BÜNDNIS 90/DIE GRÜNEN],Matthias Gastel [BÜNDNIS 90/DIE GRÜNEN],matthias-gastel-bundnis-90-die-grunen,63,Die Maut ist weder intelligent noch verkehrslenkend!,data/txt/18062.txt,poi,gruene
-2267952,62,18,0,,,,64,und deswegen nach Tagen und Tageszeiten un-terscheiden und in einzelnen Regionen unter-schiedlich bemauten soll.,data/txt/18062.txt,speech,
-2267953,62,18,0,Volker Beck [Köln] [BÜNDNIS 90/DIE GRÜNEN],Volker Beck [Köln] [BÜNDNIS 90/DIE GRÜNEN],volker-beck-koln-bundnis-90-die-grunen,65,Sie sollen meine Frage be-antworten und nicht Parteipolitik machen!,data/txt/18062.txt,poi,gruene
-2267954,62,18,0,Gegenruf der Abg. Daniela Ludwig [CDU/CSU],Daniela Ludwig [CDU/CSU],daniela-ludwig-cdu-csu,66,Zuhören!,data/txt/18062.txt,poi,cducsu
-2267955,62,18,0,,,,67,"- Sie haben verkündet, dass Sie die Autofahrer - je nachdem, wo der einzelne Autofahrer sich zu welcher Tageszeit gerade befindet - unterschied-lich bemauten wollen.",data/txt/18062.txt,speech,
-2267956,62,18,0,Max Straubinger [CDU/CSU],Max Straubinger [CDU/CSU],max-straubinger-cdu-csu,68,Allerdings! Ein Volltreffer der Grünen!,data/txt/18062.txt,poi,cducsu
-2267957,62,18,0,,,,69,Das sichert das absolute Profil eines Autofahrers.,data/txt/18062.txt,speech,
-2267958,62,18,0,Daniela Ludwig [CDU/CSU],Daniela Ludwig [CDU/CSU],daniela-ludwig-cdu-csu,70,Genau!,data/txt/18062.txt,poi,cducsu
-2267959,62,18,0,Herbert Behrens [DIE LINKE],Herbert Behrens [DIE LINKE],herbert-behrens-die-linke,71,Die Daten dürfen weder gespeichert noch weiterge-geben werden!,data/txt/18062.txt,poi,linke
-2267960,62,18,0,,,,72,"Derjenige, der das fordert, fragt jetzt bei mir nach: Wie können Sie das für die nächsten 100 Jahre sicherstellen? - Ich stelle das im Gesetz sicher, und Gesetze gelten, Herr Beck.",data/txt/18062.txt,speech,
-2267961,62,18,0,,,,73,Beifall bei der CDU/CSU sowie bei Ab-geordneten der SPD,data/txt/18062.txt,poi,
-2267962,62,18,0,,,,74,"Vizepräsident Peter Hintze:
+2853164,62,18,0,Volker Beck [Köln] [BÜNDNIS 90/DIE GRÜNEN],Volker Beck,volker-beck,57,Ich weiß! Ich zitiere ja auch richtig!,data/txt/18062.txt,poi,gruene
+2853165,62,18,0,,,,58,"Zweitens. Das ist schon ein erhöhtes Maß an Heuchelei vor dem Hintergrund,",data/txt/18062.txt,speech,
+2853166,62,18,0,Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN],Britta Haßelmann,britta-haßelmann,59,"Na, na!",data/txt/18062.txt,poi,gruene
+2853167,62,18,0,,,,60,"dass Ihre Fraktion und Ihre Partei jetzt Woche für Woche nach einer intelligenten Maut schreien,",data/txt/18062.txt,speech,
+2853168,62,18,0,Max Straubinger [CDU/CSU],Max Straubinger,max-straubinger,61,Ja!,data/txt/18062.txt,poi,cducsu
+2853169,62,18,0,,,,62,die verkehrslenkend wirken,data/txt/18062.txt,speech,
+2853170,62,18,0,Matthias Gastel [BÜNDNIS 90/DIE GRÜNEN],Matthias Gastel,matthias-gastel,63,Die Maut ist weder intelligent noch verkehrslenkend!,data/txt/18062.txt,poi,gruene
+2853171,62,18,0,,,,64,und deswegen nach Tagen und Tageszeiten un-terscheiden und in einzelnen Regionen unter-schiedlich bemauten soll.,data/txt/18062.txt,speech,
+2853172,62,18,0,Volker Beck [Köln] [BÜNDNIS 90/DIE GRÜNEN],Volker Beck,volker-beck,65,Sie sollen meine Frage be-antworten und nicht Parteipolitik machen!,data/txt/18062.txt,poi,gruene
+2853173,62,18,0,Gegenruf der Abg. Daniela Ludwig [CDU/CSU],Daniela Ludwig,daniela-ludwig,66,Zuhören!,data/txt/18062.txt,poi,cducsu
+2853174,62,18,0,,,,67,"- Sie haben verkündet, dass Sie die Autofahrer - je nachdem, wo der einzelne Autofahrer sich zu welcher Tageszeit gerade befindet - unterschied-lich bemauten wollen.",data/txt/18062.txt,speech,
+2853175,62,18,0,Max Straubinger [CDU/CSU],Max Straubinger,max-straubinger,68,Allerdings! Ein Volltreffer der Grünen!,data/txt/18062.txt,poi,cducsu
+2853176,62,18,0,,,,69,Das sichert das absolute Profil eines Autofahrers.,data/txt/18062.txt,speech,
+2853177,62,18,0,Daniela Ludwig [CDU/CSU],Daniela Ludwig,daniela-ludwig,70,Genau!,data/txt/18062.txt,poi,cducsu
+2853178,62,18,0,Herbert Behrens [DIE LINKE],Herbert Behrens,herbert-behrens,71,Die Daten dürfen weder gespeichert noch weiterge-geben werden!,data/txt/18062.txt,poi,linke
+2853179,62,18,0,,,,72,"Derjenige, der das fordert, fragt jetzt bei mir nach: Wie können Sie das für die nächsten 100 Jahre sicherstellen? - Ich stelle das im Gesetz sicher, und Gesetze gelten, Herr Beck.",data/txt/18062.txt,speech,
+2853180,62,18,0,,,,73,Beifall bei der CDU/CSU sowie bei Ab-geordneten der SPD,data/txt/18062.txt,poi,
+2853181,62,18,0,,,,74,"Vizepräsident Peter Hintze:
 
 Nächster Fragesteller ist der Abgeordnete Hartmann, SPD-Fraktion.
 
@@ -336,8 +336,8 @@ Liebe Frau Wilms, die bisherigen Aussagen heute waren korrekt. Weitere Entscheid
 Der Betrieb eines Mautsystems auf 40 000 Kilo-metern Bundesstraßen wäre auszuschreiben.
 
 Ihr Plädoyer für eine Call-Option nehme ich gerne zur Kenntnis. Entscheidungen werden aber getroffen und dann entsprechend mitgeteilt.",data/txt/18062.txt,speech,
-2267963,62,18,0,Oliver Krischer [BÜNDNIS 90/DIE GRÜNEN],Oliver Krischer [BÜNDNIS 90/DIE GRÜNEN],oliver-krischer-bundnis-90-die-grunen,75,Was ist das denn für eine Ansage?,data/txt/18062.txt,poi,gruene
-2267964,62,18,0,,,,76,"Vizepräsident Peter Hintze:
+2853182,62,18,0,Oliver Krischer [BÜNDNIS 90/DIE GRÜNEN],Oliver Krischer,oliver-krischer,75,Was ist das denn für eine Ansage?,data/txt/18062.txt,poi,gruene
+2853183,62,18,0,,,,76,"Vizepräsident Peter Hintze:
 
 Nächste Frage: Abgeordneter Behrens, Frakti-on Die Linke.
 
@@ -390,8 +390,8 @@ Herr Minister.
 Alexander Dobrindt, Bundesminister für Ver-kehr und digitale Infrastruktur:
 
 Ich verfolge aus persönlicher Sympathie alle Ih-re Aussagen dezidiert",data/txt/18062.txt,speech,
-2267965,62,18,0,Zurufe vom BÜNDNIS 90/DIE GRÜNEN,e vom BÜNDNIS 90/DIE GRÜNEN,e-vom-bundnis-90-die-grunen,77,Oh!,data/txt/18062.txt,poi,gruene
-2267966,62,18,0,,,,78,"und stelle fest, dass es sich in dieser Wahlperiode - und wahrscheinlich wird es sich auch in der letz-ten Wahl-periode so verhalten haben - um ein Versagen der Opposition handelt. Deswegen muss ich Ihnen noch einmal mitteilen: Es geht um ein Gesamtpaket, um die Infrastrukturinvestitionen zu stärken. Dieses Gesamtpaket hat mehrere Elemente. Ein Element davon ist die Infrastruktur-abgabe, die sogenannte Pkw-Maut.
+2853184,62,18,0,Zurufe vom BÜNDNIS 90/DIE GRÜNEN,e vom BÜNDNIS 90/DIE GRÜNEN,e-vom-bundnis-90-die-grunen,77,Oh!,data/txt/18062.txt,poi,gruene
+2853185,62,18,0,,,,78,"und stelle fest, dass es sich in dieser Wahlperiode - und wahrscheinlich wird es sich auch in der letz-ten Wahl-periode so verhalten haben - um ein Versagen der Opposition handelt. Deswegen muss ich Ihnen noch einmal mitteilen: Es geht um ein Gesamtpaket, um die Infrastrukturinvestitionen zu stärken. Dieses Gesamtpaket hat mehrere Elemente. Ein Element davon ist die Infrastruktur-abgabe, die sogenannte Pkw-Maut.
 
 Vizepräsident Peter Hintze:
 
@@ -562,14 +562,14 @@ Herr Staatssekretär.
 Uwe Beckmeyer, Parl. Staatssekretär beim Bundesminister für Wirtschaft und Energie:
 
 Wir sind dabei, bei typischen Bergschäden die Beweislastumkehr letztendlich anzudenken, und dies deshalb, weil Senkungen, Pressungen und Zerrungen der Erdoberfläche typische Bergschä-den aufgrund von untertägigen Bergbautätigkeiten sind, die dem Einblick der Betroffenen naturge-mäß entzogen sind. Das ist eigentlich der Grund für eine Beweislastumkehr.",data/txt/18062.txt,speech,
-2267967,62,18,0,Oliver Krischer [BÜNDNIS 90/DIE GRÜNEN],Oliver Krischer [BÜNDNIS 90/DIE GRÜNEN],oliver-krischer-bundnis-90-die-grunen,79,Ich habe gesagt: obertä-gig!,data/txt/18062.txt,poi,gruene
-2267968,62,18,0,,,,80,"Eine Beweislastumkehr im Bergrecht, was den Umgang mit Chemikalien angeht, ist zurzeit nicht vorgesehen.",data/txt/18062.txt,speech,
-2267969,62,18,0,Oliver Krischer [BÜNDNIS 90/DIE GRÜNEN],Oliver Krischer [BÜNDNIS 90/DIE GRÜNEN],oliver-krischer-bundnis-90-die-grunen,81,Ich habe nach dem obertägi-gen Bergbau gefragt!,data/txt/18062.txt,poi,gruene
-2267970,62,18,0,,,,82,- Und ich habe von dem unterirdischen Bergbau gesprochen.,data/txt/18062.txt,speech,
-2267971,62,18,0,Oliver Krischer [BÜNDNIS 90/DIE GRÜNEN],Oliver Krischer [BÜNDNIS 90/DIE GRÜNEN],oliver-krischer-bundnis-90-die-grunen,83,Sie reden über etwas ganz anderes!,data/txt/18062.txt,poi,gruene
-2267972,62,18,0,,,,84,"Daraus können Sie den Schluss ziehen, dass es für den anderen Bereich nicht vorgesehen ist.",data/txt/18062.txt,speech,
-2267973,62,18,0,Oliver Krischer [BÜNDNIS 90/DIE GRÜNEN],Oliver Krischer [BÜNDNIS 90/DIE GRÜNEN],oliver-krischer-bundnis-90-die-grunen,85,"Aha, gut!",data/txt/18062.txt,poi,gruene
-2267974,62,18,0,,,,86,"Vizepräsident Peter Hintze:
+2853186,62,18,0,Oliver Krischer [BÜNDNIS 90/DIE GRÜNEN],Oliver Krischer,oliver-krischer,79,Ich habe gesagt: obertä-gig!,data/txt/18062.txt,poi,gruene
+2853187,62,18,0,,,,80,"Eine Beweislastumkehr im Bergrecht, was den Umgang mit Chemikalien angeht, ist zurzeit nicht vorgesehen.",data/txt/18062.txt,speech,
+2853188,62,18,0,Oliver Krischer [BÜNDNIS 90/DIE GRÜNEN],Oliver Krischer,oliver-krischer,81,Ich habe nach dem obertägi-gen Bergbau gefragt!,data/txt/18062.txt,poi,gruene
+2853189,62,18,0,,,,82,- Und ich habe von dem unterirdischen Bergbau gesprochen.,data/txt/18062.txt,speech,
+2853190,62,18,0,Oliver Krischer [BÜNDNIS 90/DIE GRÜNEN],Oliver Krischer,oliver-krischer,83,Sie reden über etwas ganz anderes!,data/txt/18062.txt,poi,gruene
+2853191,62,18,0,,,,84,"Daraus können Sie den Schluss ziehen, dass es für den anderen Bereich nicht vorgesehen ist.",data/txt/18062.txt,speech,
+2853192,62,18,0,Oliver Krischer [BÜNDNIS 90/DIE GRÜNEN],Oliver Krischer,oliver-krischer,85,"Aha, gut!",data/txt/18062.txt,poi,gruene
+2853193,62,18,0,,,,86,"Vizepräsident Peter Hintze:
 
 Die nächste Zusatzfrage stellt der Abgeordnete Behrens, Fraktion Die Linke.
 
@@ -728,8 +728,8 @@ Michael Roth, Staatsminister im Auswärtigen Amt:
 Frau Kollegin Hänsel, ich will für alle hier im Plenarsaal sitzenden Abgeordneten noch einmal klarstellen, dass die Bundeswehr, also der Be-reich, auf den wir unmittelbar einwirken können und Einfluss haben, keinerlei Munition mit abge-reichertem Uran besitzt. Wir haben auch nie sol-che Munition besessen.
 
 Wir haben uns auch noch einmal mit dem Inter-nationalen Komitee vom Roten Kreuz in Verbin-dung gesetzt. Dieses Komitee, das Ihnen hinrei-chend bekannt ist, hat angesichts der Faktenlage bislang keinen Anlass gesehen, ein Moratorium für diese Munition zu fordern.",data/txt/18062.txt,speech,
-2267975,62,18,0,Heike Hänsel [DIE LINKE],Heike Hänsel [DIE LINKE],heike-hansel-die-linke,87,Ich habe nach Thorium gefragt!,data/txt/18062.txt,poi,linke
-2267976,62,18,0,,,,88,"Vizepräsident Peter Hintze:
+2853194,62,18,0,Heike Hänsel [DIE LINKE],Heike Hänsel,heike-hansel,87,Ich habe nach Thorium gefragt!,data/txt/18062.txt,poi,linke
+2853195,62,18,0,,,,88,"Vizepräsident Peter Hintze:
 
 Kollege Zdebel möchte jetzt auch noch eine Nachfrage stellen; im letzten Moment erkannt. Bit-te.
 
@@ -850,8 +850,8 @@ Die Kriterien, die Sie eben genannt haben, sind durchaus nachvollziehbar. Wir ha
 Michael Roth, Staatsminister im Auswärtigen Amt:
 
 Die genaue Zahl kann ich Ihnen nicht sagen. Ich könnte Ihnen nur die nennen, wie viele Todes-fälle wir zu beklagen haben. Über die Finanzmittel habe ich Sie schon im Einzelnen informiert.",data/txt/18062.txt,speech,
-2267977,62,18,0,Petra Pau [DIE LINKE],Petra Pau [DIE LINKE],petra-pau-die-linke,89,"Vielleicht ist es möglich, das einfach nachzureichen? Das ist das Einfachste!",data/txt/18062.txt,poi,linke
-2267978,62,18,0,,,,90,"- Ja, natürlich. Ich reiche das nach.
+2853196,62,18,0,Petra Pau [DIE LINKE],Petra Pau,petra-pau,89,"Vielleicht ist es möglich, das einfach nachzureichen? Das ist das Einfachste!",data/txt/18062.txt,poi,linke
+2853197,62,18,0,,,,90,"- Ja, natürlich. Ich reiche das nach.
 
 Vizepräsident Peter Hintze:
 
@@ -926,8 +926,8 @@ Michael Roth, Staatsminister im Auswärtigen Amt:
 Ich habe Ihnen die Begründung dargelegt, die die Bundesregierung dazu veranlasst hat, gegen dieses Embargo zu stimmen. Das ist keine neue Entscheidung.
 
 Ich persönlich freue mich natürlich sehr dar-über, von - das darf ich jetzt mal so sagen - dir ein Lob zu empfangen. Das ist, glaube ich, das erste Mal, seitdem ich im Amt bin.",data/txt/18062.txt,speech,
-2267979,62,18,0,,,,91,"Heiterkeit bei der SPD, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN",data/txt/18062.txt,poi,
-2267980,62,18,0,,,,92,"Das empfinde ich als eine große Genugtuung.
+2853198,62,18,0,,,,91,"Heiterkeit bei der SPD, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN",data/txt/18062.txt,poi,
+2853199,62,18,0,,,,92,"Das empfinde ich als eine große Genugtuung.
 
 Vizepräsident Peter Hintze:
 
@@ -976,8 +976,8 @@ Zusatzfrage, Herr Abgeordneter Gehrcke? - Bitte schön.
 Wolfgang Gehrcke (DIE LINKE):
 
 Herr Staatsminister, Sie merken, wie ich mich heute bewege: Ich glaube, es ist das erste Mal, dass ich in einer Frage oder in einer politischen Erklärung dafür votiere, die Deutsche Bank in Schutz zu nehmen. Sonst habe ich immer gegen-teilige Äußerungen von mir gegeben.",data/txt/18062.txt,speech,
-2267981,62,18,0,Robert Hochbaum [CDU/CSU],Robert Hochbaum [CDU/CSU],robert-hochbaum-cdu-csu,93,Das stimmt allerdings!,data/txt/18062.txt,poi,cducsu
-2267982,62,18,0,,,,94,"Kann ich Ihre Antwort so interpretieren, dass Sie deutschen Unternehmen, die von den USA auf Grundlage der Embargomaßnahmen gelistet wer-den - benutzen wir einmal diesen Ausdruck -, Rechtssicherheit und Rechtsvertretung verspre-chen, wenn sich diese Unternehmen an Sie wen-den? Das wäre ein beachtlicher Fortschritt.
+2853200,62,18,0,Robert Hochbaum [CDU/CSU],Robert Hochbaum,robert-hochbaum,93,Das stimmt allerdings!,data/txt/18062.txt,poi,cducsu
+2853201,62,18,0,,,,94,"Kann ich Ihre Antwort so interpretieren, dass Sie deutschen Unternehmen, die von den USA auf Grundlage der Embargomaßnahmen gelistet wer-den - benutzen wir einmal diesen Ausdruck -, Rechtssicherheit und Rechtsvertretung verspre-chen, wenn sich diese Unternehmen an Sie wen-den? Das wäre ein beachtlicher Fortschritt.
 
 Michael Roth, Staatsminister im Auswärtigen Amt:
 
@@ -1024,9 +1024,9 @@ Abgeordneter Ströbele, Zusatzfrage? - Bitte schön.
 Hans-Christian Ströbele (BÜNDNIS 90/DIE GRÜNEN):
 
 Herr Staatsminister, ich weiß nicht, ob ich mich für diese Antwort bedanken soll. Ich lasse es mal",data/txt/18062.txt,speech,
-2267983,62,18,0,Robert Hochbaum [CDU/CSU],Robert Hochbaum [CDU/CSU],robert-hochbaum-cdu-csu,95,Machen Sie es ruhig!,data/txt/18062.txt,poi,cducsu
-2267984,62,18,0,Manfred Grund [CDU/CSU],Manfred Grund [CDU/CSU],manfred-grund-cdu-csu,96,Die war sehr umfassend!,data/txt/18062.txt,poi,cducsu
-2267985,62,18,0,,,,97,"und stelle eine Zusatzfrage: Herr Staatsminister, können Sie verstehen, dass ein Mensch, der in Deutschland verhaftet wird - das ist vor ein paar Monaten geschehen - und in Untersuchungshaft genommen wird unter der Beschuldigung, dass er Spenden für die PKK in Deutschland gesammelt und damit eine terroristische Vereinigung unter-stützt hat, mit der Politik der Bundesregierung schwer klarkommt, da er gleichzeitig über das Fernsehen und die Zeitung zur Kenntnis nehmen muss, dass diese PKK, die er angeblich - wir wissen es ja nicht genau - durch eine Geldsamm-lung hier unterstützt hat, von der Bundesregie-rung, den USA und anderen Staaten im Nord-irak massiv unterstützt wird, sogar durch Gewalthand-lungen, durch Bombenangriffe und Ähnliches? Können Sie das verstehen und nachvollziehen? Was sagen Sie einem solchen Menschen?
+2853202,62,18,0,Robert Hochbaum [CDU/CSU],Robert Hochbaum,robert-hochbaum,95,Machen Sie es ruhig!,data/txt/18062.txt,poi,cducsu
+2853203,62,18,0,Manfred Grund [CDU/CSU],Manfred Grund,manfred-grund,96,Die war sehr umfassend!,data/txt/18062.txt,poi,cducsu
+2853204,62,18,0,,,,97,"und stelle eine Zusatzfrage: Herr Staatsminister, können Sie verstehen, dass ein Mensch, der in Deutschland verhaftet wird - das ist vor ein paar Monaten geschehen - und in Untersuchungshaft genommen wird unter der Beschuldigung, dass er Spenden für die PKK in Deutschland gesammelt und damit eine terroristische Vereinigung unter-stützt hat, mit der Politik der Bundesregierung schwer klarkommt, da er gleichzeitig über das Fernsehen und die Zeitung zur Kenntnis nehmen muss, dass diese PKK, die er angeblich - wir wissen es ja nicht genau - durch eine Geldsamm-lung hier unterstützt hat, von der Bundesregie-rung, den USA und anderen Staaten im Nord-irak massiv unterstützt wird, sogar durch Gewalthand-lungen, durch Bombenangriffe und Ähnliches? Können Sie das verstehen und nachvollziehen? Was sagen Sie einem solchen Menschen?
 
 Michael Roth, Staatsminister im Auswärtigen Amt:
 
@@ -1061,10 +1061,10 @@ Danke. - Ich möchte da noch einmal nachha-ken, Herr Staatsminister. Konkret mö
 Michael Roth, Staatsminister im Auswärtigen Amt:
 
 Die Frage müssten Sie dem Abgeordneten Kauder selber stellen.",data/txt/18062.txt,speech,
-2267986,62,18,0,Heike Hänsel [DIE LINKE],Heike Hänsel [DIE LINKE],heike-hansel-die-linke,98,Ich frage Sie!,data/txt/18062.txt,poi,linke
-2267987,62,18,0,,,,99,"Ich bin Regierungsmitglied, und ich werde hier nicht über Aussagen eines einzelnen Abgeordne-ten spekulieren.",data/txt/18062.txt,speech,
-2267988,62,18,0,Sylvia Kotting-Uhl [BÜNDNIS 90/DIE GRÜNEN],Sylvia Kotting-Uhl [BÜNDNIS 90/DIE GRÜNEN],sylvia-kotting-uhl-bundnis-90-die-grunen,100,"Analysieren war die Anforde-rung, nicht Spekulieren!",data/txt/18062.txt,poi,gruene
-2267989,62,18,0,,,,101,"Das steht mir als Mitglied der Bundesregierung und Staatsminister auch überhaupt nicht zu.
+2853205,62,18,0,Heike Hänsel [DIE LINKE],Heike Hänsel,heike-hansel,98,Ich frage Sie!,data/txt/18062.txt,poi,linke
+2853206,62,18,0,,,,99,"Ich bin Regierungsmitglied, und ich werde hier nicht über Aussagen eines einzelnen Abgeordne-ten spekulieren.",data/txt/18062.txt,speech,
+2853207,62,18,0,Sylvia Kotting-Uhl [BÜNDNIS 90/DIE GRÜNEN],Sylvia Kotting-Uhl,sylvia-kotting-uhl,100,"Analysieren war die Anforde-rung, nicht Spekulieren!",data/txt/18062.txt,poi,gruene
+2853208,62,18,0,,,,101,"Das steht mir als Mitglied der Bundesregierung und Staatsminister auch überhaupt nicht zu.
 
 Im Übrigen habe ich schon deutlich gemacht, dass die Bundesregierung derzeit keinen Anlass dazu sieht, die Einstufung der PKK als Terroror-ganisation zu verändern. Sollten wir das tun, wird das nur in einer engen Abstimmung mit den Part-nern innerhalb der EU geschehen. Derzeit sehe ich diese Situation noch nicht.
 
@@ -1197,8 +1197,8 @@ Herr Staatsminister.
 Michael Roth, Staatsminister im Auswärtigen Amt:
 
 Herr Abgeordneter Ströbele, wir nehmen alle Vorwürfe sehr ernst. Deshalb befinden wir uns auch mit allen Verantwortlichen im engen Aus-tausch. Damit hier kein falscher Eindruck ent-steht: Ich bin stolz darauf, für ein Auswärtiges Amt arbeiten zu dürfen, das sich nicht nur als Mi-nisterium für internationale Beziehungen versteht, sondern vor allem als Menschenrechtsministeri-um. Das ist ein wesentliches Element unserer po-litischen Bemühungen auf der internationalen Ebene. Ich darf Ihnen versichern, dass sich alle Kolleginnen und Kollegen, die in meinem Haus in Verantwortung stehen, der Stärkung der Men-schenrechte und ihrer Universalität verpflichtet fühlen. Dabei ist uns völlig egal, um welches Land es geht. Wir setzen uns überall für die Einhaltung der Menschenrechte ein. Ich freue mich, dass Sie dabei an unserer Seite stehen, Herr Abgeordneter Ströbele.",data/txt/18062.txt,speech,
-2267990,62,18,0,Markus Kurth [BÜNDNIS 90/DIE GRÜ-NEN],Markus Kurth [BÜNDNIS 90/DIE GRÜ-NEN],markus-kurth-bundnis-90-die-gru-nen,102,Die Frage ist damit aber nicht be-antwortet!,data/txt/18062.txt,poi,gruene
-2267991,62,18,0,,,,103,"- Ich beantworte die Fragen so, wie ich meine, sie beantworten zu müssen.
+2853209,62,18,0,Markus Kurth [BÜNDNIS 90/DIE GRÜ-NEN],Markus Kurth,markus-kurth,102,Die Frage ist damit aber nicht be-antwortet!,data/txt/18062.txt,poi,gruene
+2853210,62,18,0,,,,103,"- Ich beantworte die Fragen so, wie ich meine, sie beantworten zu müssen.
 
 Vizepräsident Johannes Singhammer:
 
@@ -1261,16 +1261,16 @@ Herr Staatsminister.
 Michael Roth, Staatsminister im Auswärtigen Amt:
 
 Danke, Herr Präsident. - Frau Abgeordnete Hänsel, darauf habe ich nun nur noch gewartet, dass jetzt die Vereinigten Staaten von Amerika kommen und dann gleichzeitig insinuiert wird, dass die auch noch Faschisten in der Ukraine un-terstützten. Dass dies genau auf Ihrer propagan-distischen Linie lieg, das mag ja so sein. Aber ich habe darauf hingewiesen, dass diese Bundesre-gierung dem Kampf gegen Rechtsextremismus verpflichtet ist und dass wir alles in unseren Mög-lichkeiten Stehende tun, um diesen auch zu ahn-den.",data/txt/18062.txt,speech,
-2267992,62,18,0,,,,104,Beifall bei der SPD und der CDU/CSU,data/txt/18062.txt,poi,
-2267993,62,18,0,,,,105,"Ich kann mich doch nur auf Wahlergebnisse und die Erkenntnisse der OSZE-Wahlbeobachtermission beziehen, die eine kriti-sche und eine sehr aufmerksame Bewertung des Wahlergebnisses vorgenommen hat, und darauf vertrauen. Wenn uns gesagt wird, es sei alles mit rechten Dingen zugegangen, die Zahl der gewähl-ten Rechtsextremisten, Nationalisten und Populis-ten sei deutlich nach unten gegangen, dann kann ich mich doch nicht hier hinstellen und ein Gefah-rengemälde an die Wand zeichnen, das sich mit der Realität nicht deckt. Gleichzeitig bin ich für je-den Hinweis dankbar, und wir werden diesen Hin-weisen auch nachgehen.
+2853211,62,18,0,,,,104,Beifall bei der SPD und der CDU/CSU,data/txt/18062.txt,poi,
+2853212,62,18,0,,,,105,"Ich kann mich doch nur auf Wahlergebnisse und die Erkenntnisse der OSZE-Wahlbeobachtermission beziehen, die eine kriti-sche und eine sehr aufmerksame Bewertung des Wahlergebnisses vorgenommen hat, und darauf vertrauen. Wenn uns gesagt wird, es sei alles mit rechten Dingen zugegangen, die Zahl der gewähl-ten Rechtsextremisten, Nationalisten und Populis-ten sei deutlich nach unten gegangen, dann kann ich mich doch nicht hier hinstellen und ein Gefah-rengemälde an die Wand zeichnen, das sich mit der Realität nicht deckt. Gleichzeitig bin ich für je-den Hinweis dankbar, und wir werden diesen Hin-weisen auch nachgehen.
 
 Sie werden sich vielleicht daran erinnern, dass wir sehr frühzeitig beispielsweise die jüdischen Gemeinden in der Ukraine eingeladen haben. So-fort, nachdem der Vorwurf erhoben wurde, es ha-be Handlungen gegen Jüdinnen und Juden in der Ukraine gegeben, haben wir uns mit den jüdischen Gemeinden in Verbindung gesetzt. Ausschüsse des Deutschen Bundestages haben den Vorsit-zenden des Vereins der jüdischen Gemeinden eingeladen und das Gespräch gesucht.
 
 Wir sollten doch hier nicht den Eindruck erwe-cken, als sei uns das alles egal oder als seien wir auf dem rechten Auge blind. Aber die Ukraine ist ein Land auf dem ganz schwierigen und langen Weg in eine Demokratie, in eine Rechtsstaatlich-keit, und wir wissen doch alle, dass da vieles noch im Argen liegt. Aber wir haben ein Interesse daran, dass unsere Wertvorstellungen, die sich mit rechtsextremistischen Vorstellungen nicht vereinen lassen, auch in der Ukraine dauerhaft mehrheitsfähig bleiben.
 
 Deshalb bleibe ich dabei - dies ist die Auffas-sung der Bundesregierung -, dass wir erst einmal froh darüber sind, dass Parteien und Kräfte, die sich der europäischen Wertegemeinschaft ver-pflichtet fühlen, am 26. Oktober bei den Rada-Wahlen eine deutliche Mehrheit bekommen haben.",data/txt/18062.txt,speech,
-2267994,62,18,0,,,,106,Beifall bei der SPD und der CDU/CSU,data/txt/18062.txt,poi,
-2267995,62,18,0,,,,107,"Vizepräsident Johannes Singhammer:
+2853213,62,18,0,,,,106,Beifall bei der SPD und der CDU/CSU,data/txt/18062.txt,poi,
+2853214,62,18,0,,,,107,"Vizepräsident Johannes Singhammer:
 
 Für eine weitere Nachfrage hat das Wort der Kollege Manfred Grund.
 
@@ -1473,8 +1473,8 @@ Genau. - Sie lautet wie folgt: Zieht die Bundes-regierung in Betracht, im Zuge d
 Gabriele Lösekrug-Möller, Parl. Staatssekretä-rin bei der Bundesministerin für Arbeit und Sozia-les:
 
 Frau Kollegin Rüffer, vielen Dank für diese Fra-ge. - Sie werden wissen, wir haben im Koalitions-vertrag zu diesem Thema aus gutem Grund einen Prüfauftrag vereinbart. Wir sind in diese Prüfung eingestiegen. Sie ist noch nicht abgeschlossen. Wir haben noch kein Ergebnis. Deshalb kann ich Ihnen gar nicht sagen, worauf genau das hinaus-laufen wird. Wir befassen uns sehr ernsthaft mit dem Thema, aber es liegt noch kein Ergebnis vor.",data/txt/18062.txt,speech,
-2267996,62,18,0,Corinna Rüffer [BÜNDNIS 90/DIE GRÜ-NEN],Corinna Rüffer [BÜNDNIS 90/DIE GRÜ-NEN],corinna-ruffer-bundnis-90-die-gru-nen,108,Sie ziehen es in Betracht!,data/txt/18062.txt,poi,gruene
-2267997,62,18,0,,,,109,"Vizepräsident Johannes Singhammer:
+2853215,62,18,0,Corinna Rüffer [BÜNDNIS 90/DIE GRÜ-NEN],Corinna Rüffer,corinna-ruffer,108,Sie ziehen es in Betracht!,data/txt/18062.txt,poi,gruene
+2853216,62,18,0,,,,109,"Vizepräsident Johannes Singhammer:
 
 Vielen Dank, Frau Staatssekretärin. - Wir kommen damit zum Ende der Fragestunde. Die vereinbarte Redezeit ist vorüber, und Sie haben auch noch Ihre beiden Zusatzfragen stellen kön-nen. Ich danke der Frau Staats-sekretärin Lö-sekrug-Möller für das Bundeministerium für Arbeit und Soziales und beende damit die Fragestunde.
 
@@ -1487,8 +1487,8 @@ anlässlich des 3. Jahrestages der Aufde-ckung der NSU-Verbrechen am 4. Novem-be
 Nach einer interfraktionellen Vereinbarung sind für diese Aussprache 60 Minuten vorgesehen. - Ich höre keinen Widerspruch. Dann ist das so be-schlossen.
 
 Ich eröffne die Aussprache und erteile das Wort für die Bundesregierung Herrn Bundesminister Dr. Thomas de Maizière.",data/txt/18062.txt,speech,
-2267998,62,18,0,,,,110,Beifall bei der CDU/CSU sowie bei Ab-geordneten der SPD,data/txt/18062.txt,poi,
-2267999,62,18,0,,,,111,"Dr. Thomas de Maizière, Bundesminis-ter des Innern:
+2853217,62,18,0,,,,110,Beifall bei der CDU/CSU sowie bei Ab-geordneten der SPD,data/txt/18062.txt,poi,
+2853218,62,18,0,,,,111,"Dr. Thomas de Maizière, Bundesminis-ter des Innern:
 
 Herr Präsident! Meine Damen und Herren! Gut zwei Jahre ist es her, da hielt Semiya Simsek, die Tochter eines der ersten Mordopfer des NSU, bei der zentralen Gedenkveranstaltung im Konzert-haus eine sehr bewegende Rede. Viele von uns waren dabei, und viele werden sich ihr Leben lang daran erinnern. Ein Satz von ihr ist mir ganz be-sonders in Erinnerung geblieben. Sie sagte:
 
@@ -1497,8 +1497,8 @@ Elf Jahre durften wir nicht einmal reinen Ge-wissens Opfer sein.
 Dieser Satz fasst wie unter einem Brennglas das Versagen des deutschen Staates, vielleicht aber auch unserer Gesellschaft insgesamt, im Umgang mit dem NSU zusammen. Lange, viel zu lange hatten die Sicherheitsbehörden in die fal-sche Richtung ermittelt, die Lage falsch einge-schätzt. Sie haben damit den Opfern und ihren Familien - sicher unbeabsichtigt - im Ergebnis zusätz-liches Leid zugefügt. Es waren aber nicht lediglich einzelne Fehler, Ermittlungspannen, die dafür gesorgt haben, dass der NSU so lange un-entdeckt bleiben konnte. Nein, es waren auch die Strukturen und die Haltungen von Sicherheitsbe-hörden, von Verantwortlichen, die dazu führten, dass die Ermittlungen so lange auf das Umfeld der Opfer begrenzt blieben.
 
 Unser Staat - das ist mehrfach gesagt worden, auch bei dieser Veranstaltung, auch durch die Verantwortlichen der Sicherheitsbehörden selbst - hat mit diesem Versagen Schuld auf sich geladen. Diese Schuld und das, was wir den Opfern und ih-ren Familien damit angetan haben, können wir nicht ungeschehen machen. Es war, es ist und es bleibt deshalb unsere erste Pflicht, weiter aufzu-klären, wie es zu diesem fürchterlichen Versagen kommen konnte, aufzuklären, welche Strukturen und Haltungen dieses Versagen begünstigt haben. Zugleich kommt es darauf an, das für die Zukunft abzustellen.",data/txt/18062.txt,speech,
-2268000,62,18,0,,,,112,Beifall bei der CDU/CSU und der SPD sowie bei Abgeordneten der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN,data/txt/18062.txt,poi,
-2268001,62,18,0,,,,113,"Vieles ist getan worden, um Licht in das Dunkel zu bringen, um besser zu werden, vor allem auch durch die Parlamente. Seit drei Jahren wurden und werden die Versäumnisse von insgesamt sechs parlamentarischen Untersuchungsausschüssen aufgearbeitet. Über die Arbeit des Untersu-chungsausschusses dieses Parlaments haben wir viel geredet: 47 kluge, weitreichende und ein-stimmige Empfehlungen, die die Koalition komplett umsetzen möchte. Auf Länderseite haben die Un-tersuchungsausschüsse in Thüringen und Sach-sen ihre Arbeit beendet. Die Untersuchungsaus-schüsse in Hessen und Nordrhein-Westfalen nehmen ihre Arbeit auf. Heute hat Baden-Württemberg beschlossen, auch einen Untersu-chungsausschuss einzusetzen.
+2853219,62,18,0,,,,112,Beifall bei der CDU/CSU und der SPD sowie bei Abgeordneten der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN,data/txt/18062.txt,poi,
+2853220,62,18,0,,,,113,"Vieles ist getan worden, um Licht in das Dunkel zu bringen, um besser zu werden, vor allem auch durch die Parlamente. Seit drei Jahren wurden und werden die Versäumnisse von insgesamt sechs parlamentarischen Untersuchungsausschüssen aufgearbeitet. Über die Arbeit des Untersu-chungsausschusses dieses Parlaments haben wir viel geredet: 47 kluge, weitreichende und ein-stimmige Empfehlungen, die die Koalition komplett umsetzen möchte. Auf Länderseite haben die Un-tersuchungsausschüsse in Thüringen und Sach-sen ihre Arbeit beendet. Die Untersuchungsaus-schüsse in Hessen und Nordrhein-Westfalen nehmen ihre Arbeit auf. Heute hat Baden-Württemberg beschlossen, auch einen Untersu-chungsausschuss einzusetzen.
 
 Das Verfahren vor dem OLG München - am Anfang auch kritisch begleitet; es hieß: zu lang, zu aufwendig; gefragt wurde: „Wie ist es mit der Presseberichterstattung?“; wir erinnern uns daran - mit fünf Angeklagten, 90 Nebenklägern und 600 Zeugen zeigt in seinem bisherigen Verlauf ein-drucksvoll, mit welcher großen Ernsthaftigkeit und Sorgfalt Gericht und Bundesanwaltschaft an der Aufklärung dieser konkreten Taten arbeiten. Das ist langsam, aber, glaube ich, gerade wegen der Gründlichkeit auch im Interesse der Opfer.
 
@@ -1519,16 +1519,16 @@ Wir müssen unsere eigenen Mitarbeiter nach-haltig dazu ertüchtigen und ermutig
 Semiya Simsek sprach vor zwei Jahren von ih-rer Trauer um den ermordeten Vater und davon - das hat mich genauso bewegt -, dass Deutsch-land immer noch ihre Heimat sei und bleiben wer-de, auch wenn sie, die sie sich noch nie in ihrem Leben Gedanken über Integration gemacht habe, erkennen musste, dass es hier in unserem Land Menschen gibt, die zu Mördern werden, nur weil jemand aus einem anderen Land stamme.
 
 Gerade vor diesem Hintergrund - damit will ich schließen - ist es für mich unerträglich, dass vor gerade einmal zwei Wochen randalierende Rechtsextremisten gemeinsam mit anderen ge-waltbereiten Chaoten in Köln rechtsradikale Paro-len gebrüllt haben und die Menschen in der Kölner Innenstadt in Angst und Schrecken versetzt ha-ben, Polizisten verletzt haben, und all das mit Al-kohol und mit Ansage. Das können und werden wir nicht dulden.",data/txt/18062.txt,speech,
-2268002,62,18,0,,,,114,"Beifall bei der CDU/CSU, der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN",data/txt/18062.txt,poi,
-2268003,62,18,0,,,,115,"Wir können es erst recht nicht dulden, dass sich diese Rechtsextremisten unter dem Deckmantel des Kampfes gegen Islamisten in unseren Städten zusammenrotten. Hier muss unser Staat hart rea-gieren, um Grenzen aufzuzeigen. Wir sind und bleiben eine wehrhafte Demokratie, und wenn un-sere Polizei, wenn unser Staat und wenn unser Zusammenleben derart angegriffen werden, so müssen wir alle Kräfte bündeln, um gemeinsam unser friedliches Zusammenleben zu verteidigen. Das kann auch mal ein Verbot einer Demonstrati-on sein, vor allen Dingen, wenn sich absehen lässt, dass sie wahrscheinlich nicht friedlich ver-läuft. Ich möchte die Behörden in Hannover aus-drücklich ermuntern, diesen Weg so zu prüfen, dass ein solches Verbot möglichst auch vor Ge-richt Bestand hat.",data/txt/18062.txt,speech,
-2268004,62,18,0,,,,116,Beifall bei der CDU/CSU und der SPD,data/txt/18062.txt,poi,
-2268005,62,18,0,,,,117,"Aber ein Verbot einer Demonstration allein löst das Problem natürlich auch nicht. Wir brauchen eine gesellschaftliche Isolierung von Gewalt als Mittel innenpolitischer Meinungsbildung. Toleranz und Vielfalt, Freiheit und Menschenwürde bleiben prägend für unser Land. Toleranz endet dort, wo Vielfalt, Freiheit und Menschenwürde gewaltsam angegriffen werden. Dies gemeinsam anzugehen, auch das sind wir den Opfern des NSU schuldig.",data/txt/18062.txt,speech,
-2268006,62,18,0,,,,118,Beifall bei der CDU/CSU und der SPD sowie bei Abgeordneten des BÜNDNIS-SES 90/DIE GRÜNEN,data/txt/18062.txt,poi,
-2268007,62,18,0,,,,119,"Vizepräsident Johannes Singhammer:
+2853221,62,18,0,,,,114,"Beifall bei der CDU/CSU, der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN",data/txt/18062.txt,poi,
+2853222,62,18,0,,,,115,"Wir können es erst recht nicht dulden, dass sich diese Rechtsextremisten unter dem Deckmantel des Kampfes gegen Islamisten in unseren Städten zusammenrotten. Hier muss unser Staat hart rea-gieren, um Grenzen aufzuzeigen. Wir sind und bleiben eine wehrhafte Demokratie, und wenn un-sere Polizei, wenn unser Staat und wenn unser Zusammenleben derart angegriffen werden, so müssen wir alle Kräfte bündeln, um gemeinsam unser friedliches Zusammenleben zu verteidigen. Das kann auch mal ein Verbot einer Demonstrati-on sein, vor allen Dingen, wenn sich absehen lässt, dass sie wahrscheinlich nicht friedlich ver-läuft. Ich möchte die Behörden in Hannover aus-drücklich ermuntern, diesen Weg so zu prüfen, dass ein solches Verbot möglichst auch vor Ge-richt Bestand hat.",data/txt/18062.txt,speech,
+2853223,62,18,0,,,,116,Beifall bei der CDU/CSU und der SPD,data/txt/18062.txt,poi,
+2853224,62,18,0,,,,117,"Aber ein Verbot einer Demonstration allein löst das Problem natürlich auch nicht. Wir brauchen eine gesellschaftliche Isolierung von Gewalt als Mittel innenpolitischer Meinungsbildung. Toleranz und Vielfalt, Freiheit und Menschenwürde bleiben prägend für unser Land. Toleranz endet dort, wo Vielfalt, Freiheit und Menschenwürde gewaltsam angegriffen werden. Dies gemeinsam anzugehen, auch das sind wir den Opfern des NSU schuldig.",data/txt/18062.txt,speech,
+2853225,62,18,0,,,,118,Beifall bei der CDU/CSU und der SPD sowie bei Abgeordneten des BÜNDNIS-SES 90/DIE GRÜNEN,data/txt/18062.txt,poi,
+2853226,62,18,0,,,,119,"Vizepräsident Johannes Singhammer:
 
 Für die Linke spricht jetzt die Kollegin Petra Pau.",data/txt/18062.txt,speech,
-2268008,62,18,0,,,,120,Beifall bei der LINKEN,data/txt/18062.txt,poi,
-2268009,62,18,0,,,,121,"Petra Pau (DIE LINKE):
+2853227,62,18,0,,,,120,Beifall bei der LINKEN,data/txt/18062.txt,poi,
+2853228,62,18,0,,,,121,"Petra Pau (DIE LINKE):
 
 Herr Präsident! Sehr geehrte Kolleginnen und Kollegen! Vor 14 Monaten haben wir hier den Ab-schlussbericht des Untersuchungsausschusses zum NSU-Nazi-Mord-Desaster und zum Staats-versagen debattiert.
 
@@ -1547,24 +1547,24 @@ Bei fast allen Betroffenen des NSU-Desasters ist das Vertrauen in den deutschen 
 Sie schauen auch mit Sorge auf den NSU-Prozess in München. Als Innenpolitikerin merke ich an: Wir haben nur einen Rechtsstaat, nicht et-wa drei, also nicht etwa einen für Urdeutsche, ei-nen für Migranten und einen dritten für Asylsu-chende. Es gibt zwar für alle drei Gruppen unter-schiedliche Rechte, was schon bedenklich genug ist, aber spätestens wenn es um Leib und Leben geht, gilt der Rechtsstaat entweder für alle oder für keinen. Deshalb betreffen die Schilderungen in diesem Buch uns alle.
 
 Umso mehr bringt es mich in Rage, wenn Be-hörden oder auch Regierungen immer noch ver-suchen, Untersuchungen zum NSU-Komplex zu behindern oder gar zu verhindern. Beispiele dieser Art gibt es viele - viel zu viele. Das vorerst jüngs-te stammte aus Brandenburg, wo sich der Verfas-sungsschutz weigerte, einen ehemaligen V-Mann mit NSU-Bezug vor dem Münchener Gericht be-fragen zu lassen. Ich finde: Wer so agiert, hat keinerlei Respekt vor den NSU-Opfern und ihren Angehörigen.",data/txt/18062.txt,speech,
-2268010,62,18,0,,,,122,"Beifall bei der LINKEN, der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der CDU/CSU",data/txt/18062.txt,poi,
-2268011,62,18,0,,,,123,"Außerdem treiben diese Hintertreiber die Bun-deskanzlerin Angela Merkel damit zum Meineid, ohne dass sie etwas dagegen tun kann. Denn sie hat im Februar 2012 bedingungslose Aufklärung versprochen. Davon kann bislang keine Rede sein.
+2853229,62,18,0,,,,122,"Beifall bei der LINKEN, der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der CDU/CSU",data/txt/18062.txt,poi,
+2853230,62,18,0,,,,123,"Außerdem treiben diese Hintertreiber die Bun-deskanzlerin Angela Merkel damit zum Meineid, ohne dass sie etwas dagegen tun kann. Denn sie hat im Februar 2012 bedingungslose Aufklärung versprochen. Davon kann bislang keine Rede sein.
 
 Liebe Kolleginnen und Kollegen, es gibt im Bundestag aktuell keinen Untersuchungsaus-schuss zum NSU-Komplex. Gleichwohl ist dieser Komplex für mich nicht abgeschlossen. Ich weiß mich darin einig mit der Kol-legin Eva Högl von der SPD, dem Kollegen Clemens Binninger aus der CDU, der Kollegin Mihalic von Bündnis 90/Die Grünen und natürlich vielen anderen hier im Haus.
 
 Aber: Der Innenausschuss des Deutschen Bun-destages hat dieses Jahr das Gros seiner Zeit dem NSU-Komplex gewidmet.",data/txt/18062.txt,speech,
-2268012,62,18,0,Clemens Binninger [CDU/CSU],Clemens Binninger [CDU/CSU],clemens-binninger-cdu-csu,124,Müs-sen!,data/txt/18062.txt,poi,cducsu
-2268013,62,18,0,,,,125,"Das kann kein Dauerzustand sein; denn die innen-politische Palette ist viel breiter. Deshalb haben wir jetzt gemeinsam eine Lösung gefunden, die den Innenausschuss entlastet, ohne die offenen Fragen - auch nicht die neuen - aus dem Blick zu nehmen.
+2853231,62,18,0,Clemens Binninger [CDU/CSU],Clemens Binninger,clemens-binninger,124,Müs-sen!,data/txt/18062.txt,poi,cducsu
+2853232,62,18,0,,,,125,"Das kann kein Dauerzustand sein; denn die innen-politische Palette ist viel breiter. Deshalb haben wir jetzt gemeinsam eine Lösung gefunden, die den Innenausschuss entlastet, ohne die offenen Fragen - auch nicht die neuen - aus dem Blick zu nehmen.
 
 Lassen Sie mich zur Illustration zwei neue Fragen andeuten.
 
 Im Frühjahr starb plötzlich ein ehemaliger V Mann mit NSU-Bezug namens „Corelli“, ausge-rechnet im Zeugenschutzprogramm und just, als seine Aussagen gefragt waren. Die Umstände sind bis heute unklar und die Darstellungen des Bundeskriminalamtes und des Bundesamtes für Verfassungsschutz dazu wenig überzeugend; ich habe mich jetzt sehr bemüht, das diplomatisch zu formulieren.",data/txt/18062.txt,speech,
-2268014,62,18,0,Cem Özdemir [BÜNDNIS 90/DIE GRÜ-NEN],Cem Özdemir [BÜNDNIS 90/DIE GRÜ-NEN],cem-ozdemir-bundnis-90-die-gru-nen,126,Das stimmt!,data/txt/18062.txt,poi,gruene
-2268015,62,18,0,,,,127,"Im selben Zusammenhang wird bekannt, dass der Verfassungsschutz seit Jahren über CDs bzw. Datenträger aus der Naziszene - eben auch aus dem Hause „Corelli“ - verfügt, die Bezüge zum NSU hatten. Wurden diese lediglich leichtfertig missachtet, oder wussten die Behörden lange vor dem 4. November 2011, dem Auffliegen der NSU-Bande, mehr, als sie bislang einräumen?
+2853233,62,18,0,Cem Özdemir [BÜNDNIS 90/DIE GRÜ-NEN],Cem Özdemir,cem-ozdemir,126,Das stimmt!,data/txt/18062.txt,poi,gruene
+2853234,62,18,0,,,,127,"Im selben Zusammenhang wird bekannt, dass der Verfassungsschutz seit Jahren über CDs bzw. Datenträger aus der Naziszene - eben auch aus dem Hause „Corelli“ - verfügt, die Bezüge zum NSU hatten. Wurden diese lediglich leichtfertig missachtet, oder wussten die Behörden lange vor dem 4. November 2011, dem Auffliegen der NSU-Bande, mehr, als sie bislang einräumen?
 
 Die Brisanz dieser Fragen dürfte klar sein. Deshalb wiederhole ich auch hier für die Linke: Erstens. Der NSU-Komplex und das Staatsversa-gen sind für uns nicht abgeschlossen; wir bleiben dran. Zweitens. Die Ämter für Verfassungsschutz sind als Geheimdienste aufzulösen, und die un-sägliche V-Mann-Praxis ist sofort zu beenden.",data/txt/18062.txt,speech,
-2268016,62,18,0,,,,128,Beifall bei der LINKEN,data/txt/18062.txt,poi,
-2268017,62,18,0,,,,129,"Vor wenigen Wochen hatte die Fraktion Die Linke zu einer öffentlichen Fachtagung in den Bundestag zum Thema „NSU-Komplex: Bilanz und Ausblick“ eingeladen. Es ging um Rassismus in der Gesellschaft, um Entwicklungen in der Nazis-zene, um Probleme in Sicherheitsbehörden, um Initiativen gegen Rechtsextremismus, Rassismus und Antisemitismus und vieles mehr. Die Tagung hat zu zwei Erkenntnissen geführt, die ich hier wiederholen möchte, obwohl sie nicht neu sind:
+2853235,62,18,0,,,,128,Beifall bei der LINKEN,data/txt/18062.txt,poi,
+2853236,62,18,0,,,,129,"Vor wenigen Wochen hatte die Fraktion Die Linke zu einer öffentlichen Fachtagung in den Bundestag zum Thema „NSU-Komplex: Bilanz und Ausblick“ eingeladen. Es ging um Rassismus in der Gesellschaft, um Entwicklungen in der Nazis-zene, um Probleme in Sicherheitsbehörden, um Initiativen gegen Rechtsextremismus, Rassismus und Antisemitismus und vieles mehr. Die Tagung hat zu zwei Erkenntnissen geführt, die ich hier wiederholen möchte, obwohl sie nicht neu sind:
 
 Erstens. Die rechtsextremen Gefahren hierzu-lande werden offiziell noch immer unterschätzt und heruntergespielt. Herr Minister, Sie haben das Thema bereits angesprochen: Wer die aktuellen Ausschreitungen von Hooligans und Nazis gegen Salafisten lediglich als Orgien unter Gewalttätern brandmarkt, greift zu kurz. Es geht um militanten Nationalismus und Rassismus und um den Miss-brauch von Religionen.
 
@@ -1573,16 +1573,16 @@ Zweitens. Dagegen agieren Initiativen für De-mokratie und Toleranz, regional un
 Beides darf nicht so bleiben, weder die Unter-schätzung des Rechtsextremismus noch die mangelnde Unterstützung der Initiativen dagegen. Dafür sollten wir uns über alle Fraktionen hinweg einsetzen.
 
 Ich danke Ihnen.",data/txt/18062.txt,speech,
-2268018,62,18,0,,,,130,Beifall bei der LINKEN und dem BÜND-NIS 90/DIE GRÜNEN sowie bei Abge-ordneten der SPD und des Abg. Clemens Binninger,data/txt/18062.txt,poi,
-2268019,62,18,0,,,,131,"Vizepräsident Johannes Singhammer:
+2853237,62,18,0,,,,130,Beifall bei der LINKEN und dem BÜND-NIS 90/DIE GRÜNEN sowie bei Abge-ordneten der SPD und des Abg. Clemens Binninger,data/txt/18062.txt,poi,
+2853238,62,18,0,,,,131,"Vizepräsident Johannes Singhammer:
 
 Für die Bundesregierung spricht jetzt Bundes-minister Heiko Maas.",data/txt/18062.txt,speech,
-2268020,62,18,0,,,,132,Beifall bei der SPD und der CDU/CSU,data/txt/18062.txt,poi,
-2268021,62,18,0,,,,133,"Heiko Maas, Bundesminister der Justiz und für Verbraucherschutz:
+2853239,62,18,0,,,,132,Beifall bei der SPD und der CDU/CSU,data/txt/18062.txt,poi,
+2853240,62,18,0,,,,133,"Heiko Maas, Bundesminister der Justiz und für Verbraucherschutz:
 
 Sehr geehrter Herr Präsident! Meine sehr ver-ehrten Damen und Herren! Als die Verbrechen des NSU vor drei Jahren bekannt wurden, waren alle von uns vor allen Dingen eines, nämlich fas-sungslos: fassungslos angesichts der brutalen Taten, aber auch fassungslos, weil es uns nicht gelungen war, die Morde früher zu stoppen und unsere Mitbürger besser zu schützen, fassungs-los auch wegen des Versagens unseres Staates und seiner Behörden. Wir waren aber auch fas-sungslos, dass neben dem Leid des Verlustes ei-nes nahen Angehörigen anschließend noch das Leid durch Demütigung hinzukam, weil man viel-fach aus Opfern Täter gemacht hat, etwa als sie in den Ermittlungen in den Zusammenhang mit der organisierten Kriminalität gestellt worden sind. Man muss ganz klar sagen, sehr geehrte Frau Pau: Das Leid, das Terroristen angerichtet haben und das durch das Staatsversagen verstärkt wur-de, können wir nicht wiedergutmachen. Aber was wir tun müssen, ist, dafür zu sorgen, dass sich das nie wiederholt.",data/txt/18062.txt,speech,
-2268022,62,18,0,,,,134,Beifall im ganzen Hause,data/txt/18062.txt,poi,
-2268023,62,18,0,,,,135,"Damit sich solche Taten nicht wiederholen, sind alle gefordert, die Rechtsprechung, die Gesetzge-bung, die Exekutive, aber auch unsere Gesell-schaft, wir alle.
+2853241,62,18,0,,,,134,Beifall im ganzen Hause,data/txt/18062.txt,poi,
+2853242,62,18,0,,,,135,"Damit sich solche Taten nicht wiederholen, sind alle gefordert, die Rechtsprechung, die Gesetzge-bung, die Exekutive, aber auch unsere Gesell-schaft, wir alle.
 
 Die Rechtsprechung handelt zurzeit in Mün-chen. Dort findet vor dem Oberlandesgericht der NSU-Prozess statt. Das ist kein einfaches Verfah-ren. Wir befinden uns beim 155. Verhandlungstag. Die Beteiligten bei Gericht sind mit großer Sorg-falt dabei, die schrecklichen Verbrechen aufzuar-beiten. Dies ist nicht nur sinnvoll, sondern bitter notwendig; denn es trägt dazu bei, neben der Ab-urteilung von Straftaten auch die Wahrheit ans Licht zu bringen, vor allen Dingen das, was noch nicht das Licht der Welt gesehen hat. Das ist wichtig für die Angehörigen der Opfer, und es hilft vor allen Dingen uns, verloren gegangenes Ver-trauen in den Rechtsstaat zurückzugewinnen.
 
@@ -1591,10 +1591,10 @@ Wie wir die Gesetze ändern müssen, damit ras-sistische oder fremdenfeindliche 
 Schließlich müssen wir darüber hinaus auch die ganz alltägliche Zusammenarbeit der Sicherheits-behörden verbessern. Auch das ist ein Ergebnis des Untersuchungsausschusses gewesen. Staatsanwaltschaften müssen über die Arbeit des Verfassungsschutzes besser informiert werden und häufiger den Kontakt mit diesen Ämtern su-chen. Außerdem wird der Generalbundesanwalt auch der Länderjustiz helfen, rechtsterroristische Zusammenhänge besser erkennen zu können: Welche Codes und Symbole nutzen die Rechts-extremisten? Wie erkennt man, dass sich Ver-dächtige auf ein Leben in der Illegalität vorberei-ten? Diese und viele weitere Informationen müs-sen und werden wir innerhalb der Justiz besser aufarbeiten, weiter verbreiten und einfacher nutz-bar machen, damit rechtsextreme Taten als sol-che rechtzeitig erkannt und auch verhindert wer-den können.
 
 Meine Damen und Herren, vor drei Jahren wur-den die NSU-Verbrechen aufgedeckt. Ein Jahres-tag - das klingt ein bisschen nach Geschichte. Tatsache ist aber leider: Rechte Gewalt ist keine Geschichte, sondern brennend aktuell. Rechte Hooligans und militante Neonazis haben das kürz-lich mitten in Deutschland deutlich gemacht; Herr de Maizière hat es bereits angesprochen. Diese Gewalttaten - auch das will ich in aller Deutlich-keit sagen - waren auch eine Kampfansage an unseren Rechtsstaat. Ich sage deshalb sehr deut-lich: Wer die Gewalt auf unsere Straßen trägt, der wird die ganze Härte unseres Rechtsstaates zu spüren bekommen.",data/txt/18062.txt,speech,
-2268024,62,18,0,,,,136,Beifall bei der SPD und der CDU/CSU sowie bei Abgeordneten des BÜNDNIS-SES 90/DIE GRÜNEN,data/txt/18062.txt,poi,
-2268025,62,18,0,,,,137,"Wer die Versammlungsfreiheit für Gewaltexzesse missbraucht, für den wird es im Rechtsstaat keine Toleranz geben. Wir werden deshalb aber ganz sicherlich nicht das Demonstrationsrecht ein-schränken müssen. Es ist als Verlängerung der Meinungsfreiheit in einer Demokratie unantastbar.",data/txt/18062.txt,speech,
-2268026,62,18,0,,,,138,Beifall bei Abgeordneten des BÜNDNIS-SES 90/DIE GRÜNEN,data/txt/18062.txt,poi,
-2268027,62,18,0,,,,139,"Wir brauchen auch nichts einzuschränken; denn Verabredungen zur Gewaltausübung stehen ganz sicherlich nicht unter dem Schutz von Artikel 8 des Grundgesetzes. Ganz im Gegenteil: Landfrie-densbruch ist die bessere Bezeichnung, und Land-friedensbruch kann mit Freiheitsstrafe bis zu drei Jahren geahndet werden. Ich bin mir absolut si-cher, dass Polizei und Justiz diese Gewalttäter entschlossen ermitteln und auch bestrafen wer-den.
+2853243,62,18,0,,,,136,Beifall bei der SPD und der CDU/CSU sowie bei Abgeordneten des BÜNDNIS-SES 90/DIE GRÜNEN,data/txt/18062.txt,poi,
+2853244,62,18,0,,,,137,"Wer die Versammlungsfreiheit für Gewaltexzesse missbraucht, für den wird es im Rechtsstaat keine Toleranz geben. Wir werden deshalb aber ganz sicherlich nicht das Demonstrationsrecht ein-schränken müssen. Es ist als Verlängerung der Meinungsfreiheit in einer Demokratie unantastbar.",data/txt/18062.txt,speech,
+2853245,62,18,0,,,,138,Beifall bei Abgeordneten des BÜNDNIS-SES 90/DIE GRÜNEN,data/txt/18062.txt,poi,
+2853246,62,18,0,,,,139,"Wir brauchen auch nichts einzuschränken; denn Verabredungen zur Gewaltausübung stehen ganz sicherlich nicht unter dem Schutz von Artikel 8 des Grundgesetzes. Ganz im Gegenteil: Landfrie-densbruch ist die bessere Bezeichnung, und Land-friedensbruch kann mit Freiheitsstrafe bis zu drei Jahren geahndet werden. Ich bin mir absolut si-cher, dass Polizei und Justiz diese Gewalttäter entschlossen ermitteln und auch bestrafen wer-den.
 
 Und ja, wenn das zutrifft, was wir in den letzten Wochen wahrgenommen haben, wenn Hooligans und Rechtsextreme zukünftig nachhaltig gemein-same Sache machen, dann werden wir auch über-legen müssen, ob auch Hooligans zukünftig ein Thema für den Verfassungsschutz werden kön-nen. Wir brauchen ein gutes und funktionierendes Frühwarnsystem gegen solche Gewalt.
 
@@ -1603,8 +1603,8 @@ Gleichzeitig müssen wir aber auch verhindern, dass junge Leute in die rechte Sz
 Rechtstaatliche Härte gegen Gewalttäter und kluge Prävention, damit niemand zum Täter wird - ich meine, das sind die richtigen Antworten auf die rechte Gewalt. Diese Antworten sind wir den Op-fern des NSU auch bitter schuldig.
 
 Ich danke Ihnen.",data/txt/18062.txt,speech,
-2268028,62,18,0,,,,140,"Beifall bei der SPD, der CDU/CSU und dem BÜNDNIS 90/DIE GRÜNEN",data/txt/18062.txt,poi,
-2268029,62,18,0,,,,141,"Vizepräsident Johannes Singhammer:
+2853247,62,18,0,,,,140,"Beifall bei der SPD, der CDU/CSU und dem BÜNDNIS 90/DIE GRÜNEN",data/txt/18062.txt,poi,
+2853248,62,18,0,,,,141,"Vizepräsident Johannes Singhammer:
 
 Nächster Redner ist der Kollege Cem Özdemir, Bündnis 90/Die Grünen.
 
@@ -1615,42 +1615,42 @@ Herr Präsident! Meine Damen und Herren! Ges-tern vor drei Jahren kamen Ermittlu
 Ich stehe mit vielen der Familien der Opfer in Kontakt. Jede geschredderte Akte, jede mit Ge-heimschutz begründete Aktenschwärzung und je-der verhinderte Zeuge ist ein weiterer Stich ins Herz der Opferangehörigen, immer wieder aufs Neue.
 
 In letzter Zeit frage ich mich immer häufiger: Leistet sich eigentlich die Politik einen Nachrich-tendienst und den entsprechenden Apparat, um Gefahren zu erkennen und abzuwehren, oder ha-ben wir es hier mittlerweile mit einem gefährlichen Eigenleben der Nachrichtendienste zu tun? Ich stelle mir die Frage: Wer hat hier eigentlich gera-de das Sagen: wir, die dafür vom Volk Gewählten, oder der Apparat? Ich finde, diese Frage muss sich jeder hier in diesem Hause stellen.",data/txt/18062.txt,speech,
-2268030,62,18,0,,,,142,Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD,data/txt/18062.txt,poi,
-2268031,62,18,0,,,,143,"Ich will Ihnen eine weitere Frage der Opferan-gehörigen nicht vorenthalten. Es gibt sehr, sehr gute Berichte aus Thüringen. Ich war vor Ort, als der Bericht des Untersuchungsausschusses dort fraktionsübergreifend vorgestellt wurde. Es gibt einen ausgezeichneten Bericht dieses Hauses. Auch dieser wurde mit allen Fraktionen gemein-sam erstellt. Es gibt ein sehr gutes Buch von Ste-fan Aust und Dirk Laabs. Aber was es nicht gibt, ist, dass die Verantwortlichen irgendwo und ir-gendwann einmal auch zur Rechenschaft gezogen werden. Sicher, einige Behördenchefs mussten gehen. Aber was ist eigentlich mit dem Apparat selbst? Steht der Apparat vielleicht außerhalb der Gesetze, Herr de Maizière? Wo sind denn die strafrechtlichen Ermittlungen? Wo gibt es ein Dis-ziplinarverfahren? Leute werden umgesetzt, okay. Aber reicht uns das wirklich?",data/txt/18062.txt,speech,
-2268032,62,18,0,,,,144,Beifall beim BÜNDNIS 90/DIE GRÜNEN,data/txt/18062.txt,poi,
-2268033,62,18,0,,,,145,"Kann das ein frei gewähltes Parlament zufrieden-stellen?
+2853249,62,18,0,,,,142,Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD,data/txt/18062.txt,poi,
+2853250,62,18,0,,,,143,"Ich will Ihnen eine weitere Frage der Opferan-gehörigen nicht vorenthalten. Es gibt sehr, sehr gute Berichte aus Thüringen. Ich war vor Ort, als der Bericht des Untersuchungsausschusses dort fraktionsübergreifend vorgestellt wurde. Es gibt einen ausgezeichneten Bericht dieses Hauses. Auch dieser wurde mit allen Fraktionen gemein-sam erstellt. Es gibt ein sehr gutes Buch von Ste-fan Aust und Dirk Laabs. Aber was es nicht gibt, ist, dass die Verantwortlichen irgendwo und ir-gendwann einmal auch zur Rechenschaft gezogen werden. Sicher, einige Behördenchefs mussten gehen. Aber was ist eigentlich mit dem Apparat selbst? Steht der Apparat vielleicht außerhalb der Gesetze, Herr de Maizière? Wo sind denn die strafrechtlichen Ermittlungen? Wo gibt es ein Dis-ziplinarverfahren? Leute werden umgesetzt, okay. Aber reicht uns das wirklich?",data/txt/18062.txt,speech,
+2853251,62,18,0,,,,144,Beifall beim BÜNDNIS 90/DIE GRÜNEN,data/txt/18062.txt,poi,
+2853252,62,18,0,,,,145,"Kann das ein frei gewähltes Parlament zufrieden-stellen?
 
 Vielleicht wäre eine Voraussetzung dafür, dass wir auf diese Frage künftig anders antworten, dass wir endlich aufhören, von einer NSU-Zelle zu sprechen, sondern endlich darüber sprechen, was wirklich stattfand, nämlich darüber, dass wir es hier mit einem rechtsradikalen Netzwerk zu tun haben. Ich habe Ihnen sehr aufmerksam zugehört, Herr Innenminister. Ihren Worten konnte man ent-nehmen, dass es sich möglicherweise nicht nur um drei Täter handelt. Aber wenn stimmt, was der Innenminister hier gesagt hat, dann heißt das ja im Klartext: Da draußen laufen rechtsradikale Mörder herum. Was heißt das dann? Was folgt daraus? Drei Jahre nachdem der NSU aufgedeckt wurde, haben wir mehr Fragen als Antworten.
 
 Ich will mit einem weiteren Mythos aufräumen. Der Verfassungsschutz war - das sage ich auch an die eigene Adresse - nicht so dumm, wie man-che es dargestellt haben, und schon gar nicht fa-schistoid oder so etwas. Ganz offensichtlich wa-ren die V-Männer sehr nahe dran; vielleicht war der Verfassungsschutz in Gänze deutlich näher an den Mördern dran, als wir wissen.
 
 Eines ist jedenfalls bereits heute klar: Die These, sobald die drei Täter - von denen zwei Selbstmord begingen und die Dritte gerade in München vor Gericht steht - endlich verurteilt sind, ist der Fall gelöst, gehört ins Reich der Mär-chen. Damit wird man den Fall nicht aufklären, meine Damen und Herren.",data/txt/18062.txt,speech,
-2268034,62,18,0,,,,146,Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN,data/txt/18062.txt,poi,
-2268035,62,18,0,,,,147,"Mit Blick auf mein eigenes Bundesland will ich sagen: Die Theorie bzw. These, dass mit der Poli-zeibeamtin Michèle Kiesewetter ein Zufallsopfer getroffen wurde und dieser Fall aufgeklärt sei, da man jetzt die drei Täter habe, darf weder den In-nenminister noch den Landtag von Baden-Württemberg zufriedenstellen. Darum, glaube ich, kann ich im Namen von uns allen hier im Hause sagen: Wir begrüßen, dass es jetzt endlich auch in Baden-Württemberg einen Untersuchungsaus-schuss gibt. Ich freue mich schon auf die Zu-sammenarbeit mit den Kolleginnen und Kollegen.",data/txt/18062.txt,speech,
-2268036,62,18,0,,,,148,"Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der LINKEN sowie bei Abgeordneten der CDU/CSU",data/txt/18062.txt,poi,
-2268037,62,18,0,,,,149,"Zum Schluss will ich ein Wort des Dankes sa-gen, und zwar an all diejenigen, die hier im Haus immer noch die Geduld und die Kraft haben, an diesem Fall festzuhalten. Ich will aber ausdrück-lich auch „NSU-Watch“ und „Tatort Theresienwie-se“ danken, ohne die wir viele Erkenntnisse nicht hätten. Ich will den Medien, den Journalisten und denjenigen danken, die bei der Aufklärung große Verdienste haben und den Prozess in München nach wie vor besuchen, auch jetzt, da er nicht mehr auf Seite 1 der Zeitungen zu finden ist.
+2853253,62,18,0,,,,146,Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN,data/txt/18062.txt,poi,
+2853254,62,18,0,,,,147,"Mit Blick auf mein eigenes Bundesland will ich sagen: Die Theorie bzw. These, dass mit der Poli-zeibeamtin Michèle Kiesewetter ein Zufallsopfer getroffen wurde und dieser Fall aufgeklärt sei, da man jetzt die drei Täter habe, darf weder den In-nenminister noch den Landtag von Baden-Württemberg zufriedenstellen. Darum, glaube ich, kann ich im Namen von uns allen hier im Hause sagen: Wir begrüßen, dass es jetzt endlich auch in Baden-Württemberg einen Untersuchungsaus-schuss gibt. Ich freue mich schon auf die Zu-sammenarbeit mit den Kolleginnen und Kollegen.",data/txt/18062.txt,speech,
+2853255,62,18,0,,,,148,"Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der LINKEN sowie bei Abgeordneten der CDU/CSU",data/txt/18062.txt,poi,
+2853256,62,18,0,,,,149,"Zum Schluss will ich ein Wort des Dankes sa-gen, und zwar an all diejenigen, die hier im Haus immer noch die Geduld und die Kraft haben, an diesem Fall festzuhalten. Ich will aber ausdrück-lich auch „NSU-Watch“ und „Tatort Theresienwie-se“ danken, ohne die wir viele Erkenntnisse nicht hätten. Ich will den Medien, den Journalisten und denjenigen danken, die bei der Aufklärung große Verdienste haben und den Prozess in München nach wie vor besuchen, auch jetzt, da er nicht mehr auf Seite 1 der Zeitungen zu finden ist.
 
 Meine Damen und Herren, es wird uns nur ge-lingen, das Vertrauen der Angehörigen der Opfer zurückzugewinnen, wenn wir über diesen Fall nicht nur in Sonntagsreden und wichtigen Debat-ten reden, sondern wenn wir das nächste Mal auch sagen können, was tatsächlich geschehen ist, wer es war und welche Konsequenzen daraus gezogen werden.
 
 Herzlichen Dank.",data/txt/18062.txt,speech,
-2268038,62,18,0,,,,150,Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD,data/txt/18062.txt,poi,
-2268039,62,18,0,,,,151,"Vizepräsident Johannes Singhammer:
+2853257,62,18,0,,,,150,Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD,data/txt/18062.txt,poi,
+2853258,62,18,0,,,,151,"Vizepräsident Johannes Singhammer:
 
 Für die CDU/CSU spricht jetzt der Kollege Cle-mens Binninger.",data/txt/18062.txt,speech,
-2268040,62,18,0,,,,152,Beifall bei der CDU/CSU sowie bei Ab-geordneten der SPD,data/txt/18062.txt,poi,
-2268041,62,18,0,,,,153,"Clemens Binninger (CDU/CSU):
+2853259,62,18,0,,,,152,Beifall bei der CDU/CSU sowie bei Ab-geordneten der SPD,data/txt/18062.txt,poi,
+2853260,62,18,0,,,,153,"Clemens Binninger (CDU/CSU):
 
 Herr Präsident! Verehrte Kolleginnen und Kolle-gen! Die Ernsthaftigkeit der Debattenbeiträge aller vorhe-rigen Redner hat, glaube ich, deutlich ge-macht, dass -dieses Parlament dem Thema, die Verbrechen des NSU möglichst umfassend aufzu-klären und den Opfern, so gut es eben geht, zu Genugtuung zu verhelfen, überfraktionell ein gro-ßes Interesse beimisst - nicht erst heute, am Jah-restag, sondern, wie ich glaube, immer wieder in den letzten drei Jahren. Dafür gilt der Dank allen. Er gilt auch Ihnen, Herr Minister de Maizière, weil Sie heute, wie ich finde, sehr klar und ohne es nur einen Deut abzuschwächen, für eine Zeit Verant-wortung übernommen haben, die größtenteils gar nicht in Ihrem Verantwortungsbereich liegt, und deutlich gemacht haben, dass hier schwere Fehler passiert sind.
 
 Ich will aber auch sagen: Es gab nicht den ei-nen Fehler, es gab nicht die eine Ursache. Fehler sind in diesem Zeitraum von 13 Jahren nahezu überall passiert: bei der Polizei, beim Verfas-sungsschutz, bei der Justiz - auch die Gesell-schaft hat es nicht gesehen -, auch bei der Poli-tik, in den Parlamenten. 4 der 47 Empfehlungen, die der Untersuchungsausschuss ausgesprochen hat, richten sich übrigens ganz gezielt an das Par-lament. Es steht dort unter anderem sinngemäß drin: Eine wirksame parlamentarische Kontrolle der Arbeit der Nachrichtendienste auf dem Gebiet der Bekämpfung des Rechtsextremismus fand nicht statt. - Deshalb haben auch wir hier im Par-lament Konsequenzen gezogen und das Parla-mentarische Kontrollgremium reformiert. Wir ha-ben den Reformprozess, der schon in der letzten Legislatur angestoßen worden ist, fortgesetzt. Wir haben eine Taskforce gebildet, wir haben wirkli-che Kontrollaufträge definiert, und wir werden uns unter anderem sehr viel intensiver über das In-strument der V-Leute beugen als in der Vergan-genheit.
 
 Wenn wir in den Spiegel schauen, stellen wir fest: Wir müssen ein Weiteres tun. Als der NSU bzw. das Trio am 4. November 2011 aufflog, war sehr schnell klar: Das sind Bankräuber und - weil man die Dienstwaffen im Wohnmobil gefunden hat - die mutmaßlichen Polizistenmörder aus Heil-bronn. Aber niemand - niemand in den Medien, niemand in den Parlamenten, niemand sonst ir-gendwo - hat in den Tagen danach den Gedanken erwogen: Könnten das auch die Täter der - so wurden sie damals ja noch genannt - Ceska-Mordserie sein? Diesen Gedanken hat niemand geäußert, weder am 5. noch am 6. noch am 7. noch am 8. November 2011. Erst als am 9. No-vember die Ceska im Brandschutt vor dem Haus in Zwickau gefunden wurde, war eine ganz andere Dimension des Verbrechens da. Es muss uns zu denken geben, dass wir nicht einmal, als dieses Trio namentlich präsent war und mit einem Ver-brechen in Verbindung gebracht wurde, die richti-ge Ahnung hatten. Das heißt für uns alle: Wir alle haben in den vergangenen Jahren das Phänomen des gewaltbereiten bewaffneten Rechtsextremis-mus unterschätzt. Wenn wir eine Lehre ziehen wollen, dann doch die, dass sich diese fatale Un-terschätzung nicht wiederholen darf.",data/txt/18062.txt,speech,
-2268042,62,18,0,,,,154,Beifall im ganzen Hause,data/txt/18062.txt,poi,
-2268043,62,18,0,,,,155,"Ich will nicht noch einmal vertieft auf die Fehler eingehen; denn das haben wir schon an vielen Stellen gemacht.
+2853261,62,18,0,,,,154,Beifall im ganzen Hause,data/txt/18062.txt,poi,
+2853262,62,18,0,,,,155,"Ich will nicht noch einmal vertieft auf die Fehler eingehen; denn das haben wir schon an vielen Stellen gemacht.
 
 Herr Kollege Özdemir, ich begrüße ebenfalls ausdrücklich, dass endlich auch in Baden-Württemberg ein Untersuchungsausschuss ein-gesetzt worden ist. Ich habe nie verstanden - Sie auch nicht; da waren wir uns vollkommen einig, obwohl wir unterschiedlichen Parteien angehören -, warum man in dem Land, in dem 52 Personen zum NSU und zum NSU-Umfeld nachweislich Kontakte gehabt haben, gesagt hat: Das Parla-ment muss das nicht untersuchen. Der Innenmi-nister deckt das mit einem Bericht ab, und dann lassen wir es gut sein. - Das haben wir beide nie verstanden. Insofern ist die heutige Entscheidung eine gute und richtige Entscheidung.",data/txt/18062.txt,speech,
-2268044,62,18,0,,,,156,Beifall im ganzen Hause,data/txt/18062.txt,poi,
-2268045,62,18,0,,,,157,"Die Fehler sind genannt worden: Opfer wurden nochmals zu Opfern gemacht, schlechte Zusam-menarbeit zwischen Polizei und Verfassungs-schutz, Unterschätzung des gewaltbereiten Rechtsextremismus, schlechte Informationswei-tergabe usw. Wichtig ist jetzt, dass wir uns immer wieder fragen, ob wir daraus gelernt haben.
+2853263,62,18,0,,,,156,Beifall im ganzen Hause,data/txt/18062.txt,poi,
+2853264,62,18,0,,,,157,"Die Fehler sind genannt worden: Opfer wurden nochmals zu Opfern gemacht, schlechte Zusam-menarbeit zwischen Polizei und Verfassungs-schutz, Unterschätzung des gewaltbereiten Rechtsextremismus, schlechte Informationswei-tergabe usw. Wichtig ist jetzt, dass wir uns immer wieder fragen, ob wir daraus gelernt haben.
 
 Ich will deshalb auf ein aktuelles Thema zu sprechen kommen, Herr Minister. Ein Problem bei der Bekämpfung des Rechtsextremismus war in der Vergangenheit, dass wir geglaubt haben, im-mer alles in Schubladen stecken zu müssen. Wir haben für alles einen Begriff und eine Organisati-on gesucht. Da packt man es hinein, und dann hat man es im Blick. Dass dahinter häufig Personen-netzwerke stecken, geht dabei ein bisschen verlo-ren. Deshalb werden wir uns jetzt sehr gründlich ansehen müssen: Was steckt hinter der Bewe-gung „Hooligans gegen Salafisten“? Ist das ein neues Instrument für Neonazis, um hier mehr Ak-tion zu finden? Ist das eine Vermischung der Sze-nen? Mischen noch andere mit? Ich empfehle uns, nicht zu früh einen Begriff dafür zu verwenden und das einer bestimmten Schublade zuzuordnen. Vielmehr sollten wir uns sehr genau ansehen, was es damit auf sich hat. Nur dann kann der Rechts-staat richtig, treffsicher und zielgenau agieren und solche Umtriebe, die wir alle auf unseren Straßen nicht wollen, verhindern und auch für die Zukunft ausschließen.
 
@@ -1659,8 +1659,8 @@ Wir sind heute an einem bestimmten Punkt an-gelangt. Sie haben den Großteil Ihr
 Wir sind dabei keine Ersatzermittler. Manchmal heißt es: Warum kümmert ihr euch jetzt schon wieder darum im Innenausschuss, im Kontroll-gremium und im Parlament? Das ist doch Sache der Ermittlungsbehörden. Wir sind natürlich keine Ermittlungsbehörde und auch keine Ersatzermitt-ler. Aber auch uns, dem Deutschen Bundestag, liegt die Sicherheit der Bürgerinnen und Bürger in diesem Land am Herzen. Außerdem ist es unsere Aufgabe, unseren Beitrag dazu zu leisten, dass of-fene Fragen im Zusammenhang mit einer solchen Verbrechensserie geklärt werden, dass wir auf Antworten drängen, dass wir das Thema im Blick haben und mit den Instrumenten arbeiten, die wir haben, zum Bespiel den Sonderermittler im Ge-heimdienstgremium und die Berichterstatterrunde im Innenausschuss. Wir leisten als Deutscher Bundestag unseren Beitrag. Wir haben das in den vergangenen drei Jahren getan und werden es auch in Zukunft tun im Interesse eines friedlichen Zusammenlebens aller Menschen in diesem Land. Das ist unsere Aufgabe.
 
 Herzlichen Dank.",data/txt/18062.txt,speech,
-2268046,62,18,0,,,,158,"Beifall bei der CDU/CSU, der SPD und dem BÜNDNIS 90/DIE GRÜNEN",data/txt/18062.txt,poi,
-2268047,62,18,0,,,,159,"Vizepräsident Johannes Singhammer:
+2853265,62,18,0,,,,158,"Beifall bei der CDU/CSU, der SPD und dem BÜNDNIS 90/DIE GRÜNEN",data/txt/18062.txt,poi,
+2853266,62,18,0,,,,159,"Vizepräsident Johannes Singhammer:
 
 Nächste Rednerin ist die Kollegin Irene Mihalic für Bündnis 90/Die Grünen.
 
@@ -1669,108 +1669,108 @@ Irene Mihalic (BÜNDNIS 90/DIE GRÜNEN):
 Sehr geehrter Herr Präsident! Liebe Kollegin-nen! Liebe Kollegen! Gemeinsam erinnern wir uns heute an die Aufdeckung der grausamen Terror-serie des NSU. Die Familien und Freunde der Op-fer - das haben heute schon viele völlig zutreffend beschrieben - werden das sicherlich niemals ver-winden können. Auch drei Jahre danach stehen wir tief in der Verantwortung, wirklich rückhaltlos aufzuklären, wie es zu diesem eklatanten Versa-gen der Sicherheitsbehörden kommen konnte.
 
 Einige Details sind mittlerweile bekannt. Andere dagegen wurden hemmungslos geschreddert. Die unvollständige Aufarbeitung ist ein unfassbarer Skandal, der mit jedem weiteren Tag größer und größer wird. Genau an diesem Punkt würde ich mir wünschen, dass die Bundeskanzlerin - sie ist leider heute nicht anwesend - die Aufarbeitung bei den Behörden höchstpersönlich ein-fordert. Frau Merkel hat - und das war vollkommen richtig - den Familien der Opfer im Februar 2012 rückhalt-lose Aufklärung versprochen. Sie steht dafür per-sönlich im Wort und damit auch in der Verantwor-tung.",data/txt/18062.txt,speech,
-2268048,62,18,0,,,,160,Beifall beim BÜNDNIS 90/DIE GRÜNEN,data/txt/18062.txt,poi,
-2268049,62,18,0,,,,161,"Deshalb hätte ich auch gerne gewusst, wie das al-les heute aus ihrer Sicht zu bewerten ist. Hat das Bundesamt für Verfassungsschutz bisher wirklich alles getan, um die Aufklärung im Parlament nach Kräften zu unterstützen? Was ist zum Beispiel mit der Frage, ob der Begriff „NSU“ dort früher schon bekannt gewesen ist? Was ist mit den V-Leuten oder mit der jetzt aufgetauchten NSU-CD, die seit Jahren beim Bundesamt für Verfassungsschutz irgendwo herumgelegen hat? Kann das alles so richtig sein?
+2853267,62,18,0,,,,160,Beifall beim BÜNDNIS 90/DIE GRÜNEN,data/txt/18062.txt,poi,
+2853268,62,18,0,,,,161,"Deshalb hätte ich auch gerne gewusst, wie das al-les heute aus ihrer Sicht zu bewerten ist. Hat das Bundesamt für Verfassungsschutz bisher wirklich alles getan, um die Aufklärung im Parlament nach Kräften zu unterstützen? Was ist zum Beispiel mit der Frage, ob der Begriff „NSU“ dort früher schon bekannt gewesen ist? Was ist mit den V-Leuten oder mit der jetzt aufgetauchten NSU-CD, die seit Jahren beim Bundesamt für Verfassungsschutz irgendwo herumgelegen hat? Kann das alles so richtig sein?
 
 Wenn die Integrationsbeauftragte - sie wird gleich auch noch in dieser Debatte sprechen - diese Meinung zu haben scheint und sagt, dass die Behörden bereits auf die Fehler von damals reagiert hätten, dann kann ich nur sagen - und ich werde es nicht so diplomatisch ausdrücken wie die Kollegin Pau -: Die Reaktion der Behörden, die ich wahrnehme, ist vor allem Mauern, Vernebeln und Vertuschen.",data/txt/18062.txt,speech,
-2268050,62,18,0,,,,162,Beifall beim BÜNDNIS 90/DIE GRÜNEN,data/txt/18062.txt,poi,
-2268051,62,18,0,,,,163,"Das hat mit proaktiver Aufklärung nicht das Ge-ringste zu tun.
+2853269,62,18,0,,,,162,Beifall beim BÜNDNIS 90/DIE GRÜNEN,data/txt/18062.txt,poi,
+2853270,62,18,0,,,,163,"Das hat mit proaktiver Aufklärung nicht das Ge-ringste zu tun.
 
 Auch bei den Ermittlungen des Generalbundes-anwalts und des Bundeskriminalamts habe ich persönlich große Zweifel, was die Festlegung an-geht, dass das Trio Zschäpe, Mundlos und Böhn-hardt alleine gehandelt hat. Wie können wir denn sicher sein, dass der NSU nur aus drei Leuten be-stand? Wenn die wahre Dimension des Rechtster-rorismus nicht erkannt wird, wäre das furchtbar für die Familien der Opfer und eine große Gefahr für das Erkennen solcher Strukturen in der Zu-kunft. Dass so etwas nicht erkannt wird, darf in Deutschland nie wieder passieren, liebe Kollegin-nen und Kollegen.",data/txt/18062.txt,speech,
-2268052,62,18,0,,,,164,Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der LINKEN,data/txt/18062.txt,poi,
-2268053,62,18,0,,,,165,"Politisch und in der öffentlichen Debatte müs-sen wir dem Rechtsterrorismus den Boden entzie-hen. Das bringt mich zu einem letzten Punkt, bei dem ich insbesondere die Kolleginnen und Kolle-gen der Union ansprechen möchte. Ich persönlich finde es unerträglich, wenn an-gesichts der aktu-ellen terroristischen Bedrohung durch Islamisten Mitglieder Ihrer Partei wieder allzu leicht Men-schen mit Migrationshintergrund, die hier in Deutschland aufgewachsen und zum Teil auch hier geboren worden sind, als „Fremde“ oder als „Gäste“ bezeichnen, die man in ihre Heimatländer abschieben solle, so die Autoren eines Positions-papiers aus Ihrer Fraktion.",data/txt/18062.txt,speech,
-2268054,62,18,0,Michael Grosse-Brömer [CDU/CSU],Michael Grosse-Brömer [CDU/CSU],michael-grosse-bromer-cdu-csu,166,In welchem Zusammenhang denn?,data/txt/18062.txt,poi,cducsu
-2268055,62,18,0,,,,167,"Ich sage Ihnen ganz deutlich: Bei aller Notwen-digkeit, dem ISIS-Terror mit Maßnahmen, die auch greifen, zu begegnen, möchte ich die Saat solcher ausgrenzenden Äußerungen nicht aufge-hen sehen.",data/txt/18062.txt,speech,
-2268056,62,18,0,,,,168,Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der LINKEN,data/txt/18062.txt,poi,
-2268057,62,18,0,,,,169,"Ich fordere Sie auf - das gilt auch für Herrn Kau-der -, sich von einem solchen Sprachgebrauch ganz klar zu dis-tanzieren.
+2853271,62,18,0,,,,164,Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der LINKEN,data/txt/18062.txt,poi,
+2853272,62,18,0,,,,165,"Politisch und in der öffentlichen Debatte müs-sen wir dem Rechtsterrorismus den Boden entzie-hen. Das bringt mich zu einem letzten Punkt, bei dem ich insbesondere die Kolleginnen und Kolle-gen der Union ansprechen möchte. Ich persönlich finde es unerträglich, wenn an-gesichts der aktu-ellen terroristischen Bedrohung durch Islamisten Mitglieder Ihrer Partei wieder allzu leicht Men-schen mit Migrationshintergrund, die hier in Deutschland aufgewachsen und zum Teil auch hier geboren worden sind, als „Fremde“ oder als „Gäste“ bezeichnen, die man in ihre Heimatländer abschieben solle, so die Autoren eines Positions-papiers aus Ihrer Fraktion.",data/txt/18062.txt,speech,
+2853273,62,18,0,Michael Grosse-Brömer [CDU/CSU],Michael Grosse-Brömer,michael-grosse-bromer,166,In welchem Zusammenhang denn?,data/txt/18062.txt,poi,cducsu
+2853274,62,18,0,,,,167,"Ich sage Ihnen ganz deutlich: Bei aller Notwen-digkeit, dem ISIS-Terror mit Maßnahmen, die auch greifen, zu begegnen, möchte ich die Saat solcher ausgrenzenden Äußerungen nicht aufge-hen sehen.",data/txt/18062.txt,speech,
+2853275,62,18,0,,,,168,Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der LINKEN,data/txt/18062.txt,poi,
+2853276,62,18,0,,,,169,"Ich fordere Sie auf - das gilt auch für Herrn Kau-der -, sich von einem solchen Sprachgebrauch ganz klar zu dis-tanzieren.
 
 Liebe Kolleginnen und Kollegen, sehr geehrte Frau Bundeskanzlerin - vielleicht hört sie uns ir-gendwo zu -, rückhaltlose Aufklärung ist mehr als nur eine Redewendung. Es geht um Verantwor-tung für das eigene Handeln, um Verantwortung für die Sicherheitsbehörden und um Verantwor-tung für unbedachte Äußerungen. Drei Jahre sind schon vergangen, Frau Merkel. Lösen Sie Ihr Versprechen ein!
 
 Herzlichen Dank für Ihre Aufmerksamkeit.",data/txt/18062.txt,speech,
-2268058,62,18,0,,,,170,Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN,data/txt/18062.txt,poi,
-2268059,62,18,0,,,,171,"Vizepräsident Johannes Singhammer:
+2853277,62,18,0,,,,170,Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN,data/txt/18062.txt,poi,
+2853278,62,18,0,,,,171,"Vizepräsident Johannes Singhammer:
 
 Die Kollegin Dr. Eva Högl spricht als nächste Rednerin für die Sozialdemokraten.",data/txt/18062.txt,speech,
-2268060,62,18,0,,,,172,Beifall bei der SPD sowie bei Abgeord-neten der CDU/CSU,data/txt/18062.txt,poi,
-2268061,62,18,0,,,,173,"Dr. Eva Högl (SPD):
+2853279,62,18,0,,,,172,Beifall bei der SPD sowie bei Abgeord-neten der CDU/CSU,data/txt/18062.txt,poi,
+2853280,62,18,0,,,,173,"Dr. Eva Högl (SPD):
 
 Sehr geehrter Herr Präsident! Liebe Kollegin-nen! Liebe Kollegen! Meine sehr geehrten Damen und Herren! Die Morde und Sprengstoffanschläge des rechts-extremen Terrornetzwerks NSU waren Anschläge auf unsere Demokratie. Wir alle waren gemeint: unser friedliches Zusammenleben, unse-re tolerante Gesellschaft und unser Rechtsstaat. Wir alle sollten getroffen werden durch diese An-schläge. Wir mussten vor drei Jahren schlagartig erkennen, dass wir in Deutschland rechts-extremen Terror haben. Wir mussten erkennen, wie gefährlich Rechtsextremismus ist und dass Rechtsextremisten zum Äußersten nicht nur be-reit, sondern auch in der Lage sind. Das war für uns eine schlagartige Erkenntnis. Wir mussten leider auch feststellen - das ist sehr bitter -, dass niemand damit gerechnet hat, dass wir solche rechtsextremen Terrorstrukturen haben, dass niemand darauf vorbereitet war und dass die Si-cherheitsbehörden weder in der Lage waren, das untergetauchte Trio zu fassen, noch bis in die letzten Tage hinein die Zusammenhänge zur Mordserie herzustellen. Deswegen - das wurde schon gesagt; ich betone das, weil das für uns al-le eine Verpflichtung ist - ist es unsere Verant-wortung, hier im Deutschen Bundestag alles dafür zu tun - das eint uns -, dass so etwas nie wieder passiert.",data/txt/18062.txt,speech,
-2268062,62,18,0,,,,174,"Beifall bei der SPD, der CDU/CSU und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN",data/txt/18062.txt,poi,
-2268063,62,18,0,,,,175,"Zwei Botschaften sind für mich sehr wichtig; das ist schon angeklungen, und ich wiederhole es. Wir haben etwas daraus gelernt. Das ist die erste wichtige Botschaft. Der NSU stellt eine Zäsur dar, und wir haben etwas daraus gelernt. Die zweite Botschaft lautet: Wir lassen nicht locker.",data/txt/18062.txt,speech,
-2268064,62,18,0,,,,176,Beifall bei der SPD sowie bei Abgeord-neten der CDU/CSU,data/txt/18062.txt,poi,
-2268065,62,18,0,,,,177,"Zwei Punkte möchte ich hervorheben. Das Ers-te ist: Die Aufklärung geht weiter. Wir sind bei der Aufklärung noch nicht am Ende. Es gibt noch viele offene Fragen. Ich will sie kurz nennen. Es hat uns nie überzeugt - auch im Untersuchungsaus-schuss nicht -, dass Michèle Kiesewetter, die Heilbronner Polizistin, ein Zufallsopfer gewesen sein soll. Es hat uns nie überzeugt, dass das Trio nur ein Trio sein sollte, plus ein paar Unterstützer. Wir sind der Auffassung, dass es sich um ein breites Netzwerk rechtsextremer Strukturen, ver-teilt über ganz Deutschland, handelt. Wir sind im-mer der Frage nachgegangen - das tun wir noch heute -: Gab es V-Leute, die mehr hätten wissen können und dichter dran waren? Das sind nur drei der vielen offenen Fragen, die uns auch hier im Bundestag bewegen. Es eint uns - hier sollten keine Differenzen herbeigeredet werden, die es nicht gibt -, dass wir alle gemeinsam weiter auf-klären wollen.",data/txt/18062.txt,speech,
-2268066,62,18,0,,,,178,Beifall bei der SPD und der CDU/CSU sowie bei Abgeordneten der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN,data/txt/18062.txt,poi,
-2268067,62,18,0,,,,179,"Es ist sehr wichtig, dass auch die Landtage aufklären. Wir freuen uns, dass in Hessen und in Nordrhein-Westfalen Untersuchungsausschüsse eingesetzt wurden. Auch in Baden-Württemberg wurde endlich ein Untersuchungsausschuss ein-gerichtet. Die Thüringer denken darüber nach, ih-ren Untersuchungsausschuss fortzusetzen. Das steht noch zur Diskussion. Wir erwarten, dass er fortgesetzt wird. Wir im Bundestag bleiben eben-falls dran. Wie gesagt, wir lassen nicht locker. Das machen wir fraktionsübergreifend, Stichwort „Corelli“. Wir gehen den offenen Fragen nach.
+2853281,62,18,0,,,,174,"Beifall bei der SPD, der CDU/CSU und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN",data/txt/18062.txt,poi,
+2853282,62,18,0,,,,175,"Zwei Botschaften sind für mich sehr wichtig; das ist schon angeklungen, und ich wiederhole es. Wir haben etwas daraus gelernt. Das ist die erste wichtige Botschaft. Der NSU stellt eine Zäsur dar, und wir haben etwas daraus gelernt. Die zweite Botschaft lautet: Wir lassen nicht locker.",data/txt/18062.txt,speech,
+2853283,62,18,0,,,,176,Beifall bei der SPD sowie bei Abgeord-neten der CDU/CSU,data/txt/18062.txt,poi,
+2853284,62,18,0,,,,177,"Zwei Punkte möchte ich hervorheben. Das Ers-te ist: Die Aufklärung geht weiter. Wir sind bei der Aufklärung noch nicht am Ende. Es gibt noch viele offene Fragen. Ich will sie kurz nennen. Es hat uns nie überzeugt - auch im Untersuchungsaus-schuss nicht -, dass Michèle Kiesewetter, die Heilbronner Polizistin, ein Zufallsopfer gewesen sein soll. Es hat uns nie überzeugt, dass das Trio nur ein Trio sein sollte, plus ein paar Unterstützer. Wir sind der Auffassung, dass es sich um ein breites Netzwerk rechtsextremer Strukturen, ver-teilt über ganz Deutschland, handelt. Wir sind im-mer der Frage nachgegangen - das tun wir noch heute -: Gab es V-Leute, die mehr hätten wissen können und dichter dran waren? Das sind nur drei der vielen offenen Fragen, die uns auch hier im Bundestag bewegen. Es eint uns - hier sollten keine Differenzen herbeigeredet werden, die es nicht gibt -, dass wir alle gemeinsam weiter auf-klären wollen.",data/txt/18062.txt,speech,
+2853285,62,18,0,,,,178,Beifall bei der SPD und der CDU/CSU sowie bei Abgeordneten der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN,data/txt/18062.txt,poi,
+2853286,62,18,0,,,,179,"Es ist sehr wichtig, dass auch die Landtage aufklären. Wir freuen uns, dass in Hessen und in Nordrhein-Westfalen Untersuchungsausschüsse eingesetzt wurden. Auch in Baden-Württemberg wurde endlich ein Untersuchungsausschuss ein-gerichtet. Die Thüringer denken darüber nach, ih-ren Untersuchungsausschuss fortzusetzen. Das steht noch zur Diskussion. Wir erwarten, dass er fortgesetzt wird. Wir im Bundestag bleiben eben-falls dran. Wie gesagt, wir lassen nicht locker. Das machen wir fraktionsübergreifend, Stichwort „Corelli“. Wir gehen den offenen Fragen nach.
 
 Der zweite Punkt ist die Umsetzung der Emp-fehlungen des Untersuchungsausschusses. Hier geht es manchen nicht schnell genug. Manche Dinge brauchen aber auch Zeit. Es geht um die gemeinsame Verantwortung von Bund und Län-dern. Wir haben uns jedenfalls gemeinsam darauf verständigt, umfassende Reformen bei Polizei, Verfassungsschutz und Justiz einzuleiten. Dass es dringend erforderlich ist, dass wir besser auf-gestellt sind, haben die Ereignisse rund um Köln bei der gewalttätigen Demonstration der Rechts-extremen gezeigt. Köln hat gezeigt, dass die Rechtsextremen in der Lage sind, ein breites Netzwerk zu bilden, sich mit Hooligans zu verbün-den, breit zu mobilisieren, und zwar in ganz Deutschland, und mehrere Tausend Leute an ei-nem Ort zu versammeln. Das muss uns große Sorgen machen. Wir müssen besser aufgestellt sein und dürfen die Gefahr des Rechtsextremis-mus auch bei solchen Demonstrationen auf keinen Fall unterschätzen.",data/txt/18062.txt,speech,
-2268068,62,18,0,,,,180,Beifall bei der SPD und dem BÜND-NIS 90/DIE GRÜNEN,data/txt/18062.txt,poi,
-2268069,62,18,0,,,,181,"Ich möchte einen weiteren Punkt ansprechen, der die Empfehlungen des NSU-Untersuchungsausschusses betrifft. Das ist unser Einsatz für Prävention und zivilgesellschaftliches Engagement gegen Extremismus. Wir haben be-reits einen Punkt der Empfehlungen des NSU-Untersuchungsausschusses umgesetzt. Ich bin sehr dankbar - ich schaue dabei unsere Bundes-ministerin für Familie, Senioren, Frauen und Ju-gend an -, dass wir es geschafft haben, die Pro-gramme verlässlicher zu gestalten, für mehr Pla-nungssicherheit zugunsten von Verbänden, Verei-nen und Organisationen zu sorgen und eine lang-fristigere Finanzierung zu ermöglichen. Das war eine wichtige Forderung, weil viele Projekte ins-besondere unter der Kurzfristigkeit ihrer Förde-rung sehr gelitten haben.
+2853287,62,18,0,,,,180,Beifall bei der SPD und dem BÜND-NIS 90/DIE GRÜNEN,data/txt/18062.txt,poi,
+2853288,62,18,0,,,,181,"Ich möchte einen weiteren Punkt ansprechen, der die Empfehlungen des NSU-Untersuchungsausschusses betrifft. Das ist unser Einsatz für Prävention und zivilgesellschaftliches Engagement gegen Extremismus. Wir haben be-reits einen Punkt der Empfehlungen des NSU-Untersuchungsausschusses umgesetzt. Ich bin sehr dankbar - ich schaue dabei unsere Bundes-ministerin für Familie, Senioren, Frauen und Ju-gend an -, dass wir es geschafft haben, die Pro-gramme verlässlicher zu gestalten, für mehr Pla-nungssicherheit zugunsten von Verbänden, Verei-nen und Organisationen zu sorgen und eine lang-fristigere Finanzierung zu ermöglichen. Das war eine wichtige Forderung, weil viele Projekte ins-besondere unter der Kurzfristigkeit ihrer Förde-rung sehr gelitten haben.
 
 Was wir aber gemeinsam noch nicht geschafft haben, woran wir noch arbeiten müssen und wozu wir einen Auftrag haben - wir haben die Haus-haltsdebatte hier im Plenum ja noch vor uns -, ist Folgendes: Wir müssen die Mittel aufstocken, lie-be Kolleginnen und Kollegen.",data/txt/18062.txt,speech,
-2268070,62,18,0,,,,182,"Beifall bei der SPD, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN",data/txt/18062.txt,poi,
-2268071,62,18,0,,,,183,"Wir brauchen mehr Geld im Kampf gegen Ras-sismus, gegen Rechtsextremismus, gegen Anti-semitismus, gegen politischen und religiösen Ext-remismus.
+2853289,62,18,0,,,,182,"Beifall bei der SPD, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN",data/txt/18062.txt,poi,
+2853290,62,18,0,,,,183,"Wir brauchen mehr Geld im Kampf gegen Ras-sismus, gegen Rechtsextremismus, gegen Anti-semitismus, gegen politischen und religiösen Ext-remismus.
 
 Vor allen Dingen brauchen wir mehr Geld für Prävention. Wir müssen Anlaufstellen auch zum Beispiel für diejenigen schaffen, die sich jetzt den Salafisten anschließen. Es besorgt uns sehr, dass gerade junge Menschen den Salafismus attraktiv finden und sich dort in die Moscheen begeben.
 
 Deswegen werbe ich auch an dieser Stelle, bei dieser Debatte, dafür, dass wir uns gemeinsam dazu entschließen, die Mittel nicht nur zu versteti-gen, sondern auch aufzustocken, und dass von dieser Debatte das klare Signal ausgeht: Kein Platz in Deutschland, in Europa und überall für Rassismus und Rechtsextremismus, kein Platz für Gewalt! Ich habe mich sehr gefreut, dass wir, drei Jahre nachdem der NSU aufgeflogen war, hier noch einmal zu diesem Thema diskutieren. Es wird sicherlich nicht das letzte Mal gewesen sein; denn wir bleiben an diesem Thema dran.
 
 Vielen Dank.",data/txt/18062.txt,speech,
-2268072,62,18,0,,,,184,"Beifall bei der SPD, der CDU/CSU und dem BÜNDNIS 90/DIE GRÜNEN",data/txt/18062.txt,poi,
-2268073,62,18,0,,,,185,"Vizepräsident Johannes Singhammer:
+2853291,62,18,0,,,,184,"Beifall bei der SPD, der CDU/CSU und dem BÜNDNIS 90/DIE GRÜNEN",data/txt/18062.txt,poi,
+2853292,62,18,0,,,,185,"Vizepräsident Johannes Singhammer:
 
 Das Wort hat jetzt für die CDU/CSU der Kollege Armin Schuster.",data/txt/18062.txt,speech,
-2268074,62,18,0,,,,186,Beifall bei der CDU/CSU und der SPD,data/txt/18062.txt,poi,
-2268075,62,18,0,,,,187,"Armin Schuster (Weil am Rhein) (CDU/CSU):
+2853293,62,18,0,,,,186,Beifall bei der CDU/CSU und der SPD,data/txt/18062.txt,poi,
+2853294,62,18,0,,,,187,"Armin Schuster (Weil am Rhein) (CDU/CSU):
 
 Sehr geehrter Herr Präsident! Meine sehr ver-ehrten Damen und Herren! Systemversagen, gro-ßes Leid, Schuld, die wir auf uns geladen haben - ich möchte nicht alles wiederholen -, all dies führt uns zu der Frage, was gut ein Jahr danach daraus folgt. Ich empfinde es heute Nachmittag jedenfalls als sehr eindrucksvoll, dass es nicht um eine rou-tinemäßige Gedenkdebatte geht. Dass das nicht alles sein kann, wurde jetzt schon deutlich; dafür müsste ich nicht hier vorne ans Pult gehen. Nein, der Sinn dieser wertvollen 60 Minuten ist es, uns selbst den Finger in die Wunde zu legen, die für mich noch deutlich spürbar ist.
 
 Was ist aus unseren Empfehlungen geworden, wie werden sie umgesetzt? Diese Frage im deut-schen Parlament jährlich zu stellen, halte ich im Sinne der Opfer noch eine ganze Zeit für unab-dingbar, ja, sogar für würdig und angemessen.",data/txt/18062.txt,speech,
-2268076,62,18,0,,,,188,"Beifall bei der CDU/CSU, der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN",data/txt/18062.txt,poi,
-2268077,62,18,0,,,,189,"Ich halte dies auch deshalb für angemessen, weil sich unsere Aufklärungsarbeit noch so un-vollendet anfühlt; jedenfalls fühle ich es so. Viele Fragen bleiben offen; einige Rätsel sind ungelöst. Dass wir deswegen eine eigene Ermittlungsgrup-pe einsetzen, Herr Özdemir, erscheint mir irgend-wie merkwürdig. Das ist hier immer noch das deutsche Parlament und nicht die Exekutive.
+2853295,62,18,0,,,,188,"Beifall bei der CDU/CSU, der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN",data/txt/18062.txt,poi,
+2853296,62,18,0,,,,189,"Ich halte dies auch deshalb für angemessen, weil sich unsere Aufklärungsarbeit noch so un-vollendet anfühlt; jedenfalls fühle ich es so. Viele Fragen bleiben offen; einige Rätsel sind ungelöst. Dass wir deswegen eine eigene Ermittlungsgrup-pe einsetzen, Herr Özdemir, erscheint mir irgend-wie merkwürdig. Das ist hier immer noch das deutsche Parlament und nicht die Exekutive.
 
 Meine Damen und Herren, dass viele Fragen offengeblieben sind, heißt aber nicht, dass ich hier ein Plädoyer für den 3. Untersuchungsausschuss halte. Da sich die Kolleginnen und Kollegen nicht selber loben können, möchte ich an dieser Stelle für die vielfältigen Aktivitäten, die hier im Parla-ment ohne Untersuchungsausschuss seit 14 Monaten laufen, den Berichterstattern, wie ich hoffe, fraktionsübergreifend einmal danken, die diese Arbeit ohne Untersuchungsausschussrefe-renten und wen auch immer intensiv, sensibel und, Frau Mihalic, zumeist viel konsensualer leis-ten, als Sie es jetzt hier vorgestellt haben. Ich glaube, dass Clemens Binninger, Eva Högl, Petra Pau und Irene Mihalic dafür einmal einen großen Dank von uns entgegennehmen sollten. Das ist eine sehr aufwendige, aber wichtige Arbeit.",data/txt/18062.txt,speech,
-2268078,62,18,0,,,,190,Beifall im ganzen Hause,data/txt/18062.txt,poi,
-2268079,62,18,0,,,,191,"Frau Mihalic, die Unionsfraktion anzugreifen wegen ihrer Haltung zu Ausländern, ist ziemlich an der Sache vorbei. Wissen Sie, diese Fraktion sorgt seit neun Jahren in wechselnden Koalitions-besetzungen dafür, dass wir das Einwanderungs-land Nummer 2 auf der Welt sind. Wenn das nicht ein Erfolg von Integrations- und Zuwanderungspo-litik ist! Davon träumen Sie doch in Wirklichkeit.",data/txt/18062.txt,speech,
-2268080,62,18,0,,,,192,Beifall bei Abgeordneten der CDU/CSU,data/txt/18062.txt,poi,
-2268081,62,18,0,,,,193,"Meine Damen und Herren, ich werde wie viele andere Kollegen auch zu Polizei- und Verfas-sungsschutzbehörden eingeladen, um Vorträge über den NSU zu halten: 60 Minuten, 90 Minuten, 120 Minuten, toll. Vor allem in NRW - das muss ich einmal sagen - ist man hierbei vorbildlich. Aber unsere Empfehlung ging einen Schritt weiter.
+2853297,62,18,0,,,,190,Beifall im ganzen Hause,data/txt/18062.txt,poi,
+2853298,62,18,0,,,,191,"Frau Mihalic, die Unionsfraktion anzugreifen wegen ihrer Haltung zu Ausländern, ist ziemlich an der Sache vorbei. Wissen Sie, diese Fraktion sorgt seit neun Jahren in wechselnden Koalitions-besetzungen dafür, dass wir das Einwanderungs-land Nummer 2 auf der Welt sind. Wenn das nicht ein Erfolg von Integrations- und Zuwanderungspo-litik ist! Davon träumen Sie doch in Wirklichkeit.",data/txt/18062.txt,speech,
+2853299,62,18,0,,,,192,Beifall bei Abgeordneten der CDU/CSU,data/txt/18062.txt,poi,
+2853300,62,18,0,,,,193,"Meine Damen und Herren, ich werde wie viele andere Kollegen auch zu Polizei- und Verfas-sungsschutzbehörden eingeladen, um Vorträge über den NSU zu halten: 60 Minuten, 90 Minuten, 120 Minuten, toll. Vor allem in NRW - das muss ich einmal sagen - ist man hierbei vorbildlich. Aber unsere Empfehlung ging einen Schritt weiter.
 
 Die Idee, sich den NSU-Fall im Führungsnach-wuchs des höheren Dienstes planspielartig gerne auch mehrere Tage vorzunehmen, hat einen be-sonderen Hintergrund. Fragen des Trennungsge-bots, der überregionalen Zusammenarbeit ver-schiedenster Behörden deutschlandweit, Ermitt-lungspannen, Rechtsextremismus und Terroris-mus sind schon rein kognitiv wichtige Lerneffekte. Wir wollten damit aber eigentlich etwas anderes: Planspiele sorgen für emotionale Betroffenheit. Diese würde ich gern beim Führungsnachwuchs des höheren Dienstes in Polizeibehörden und Ver-fassungsschutzbehörden sowie bei Staatsanwalt-schaften auslösen. Das sorgt für die größte Multi-plikationswirkung, die wir unbedingt brauchen, damit der Fall lebendig bleibt.",data/txt/18062.txt,speech,
-2268082,62,18,0,,,,194,Beifall bei der CDU/CSU und der SPD sowie bei Abgeordneten der LINKEN,data/txt/18062.txt,poi,
-2268083,62,18,0,,,,195,"Auch mit und in der Gesellschaft ist das Thema nicht einfach abgehakt worden. Ich erlebe das so-gar im eigenen Wahlkreis immer wieder und bin davon überrascht, wie viel Power da ist. Ich be-grüße zum Beispiel die Initiative des Freiburger Filmemachers Peter Ohlendorf, der die Hinter-gründe zum Mord an Michèle Kiesewetter recher-chieren und in einem Film verarbeiten möchte. Ich merke für diejenigen an, die Interesse haben: Das Projekt soll über Crowdfunding finanziert werden. Ich könnte viele andere Beispiele nennen.
+2853301,62,18,0,,,,194,Beifall bei der CDU/CSU und der SPD sowie bei Abgeordneten der LINKEN,data/txt/18062.txt,poi,
+2853302,62,18,0,,,,195,"Auch mit und in der Gesellschaft ist das Thema nicht einfach abgehakt worden. Ich erlebe das so-gar im eigenen Wahlkreis immer wieder und bin davon überrascht, wie viel Power da ist. Ich be-grüße zum Beispiel die Initiative des Freiburger Filmemachers Peter Ohlendorf, der die Hinter-gründe zum Mord an Michèle Kiesewetter recher-chieren und in einem Film verarbeiten möchte. Ich merke für diejenigen an, die Interesse haben: Das Projekt soll über Crowdfunding finanziert werden. Ich könnte viele andere Beispiele nennen.
 
 Es ist in unserer Gesellschaft angekommen, und deswegen sehe ich nicht alles negativ, Herr Özdemir. Meines Erachtens haben wir Grund zum Optimismus. Dies ersetzt nicht unsere Aufklä-rungsarbeit, aber es ergänzt sie.
 
 Was haben wir in gesetzgeberischer Hinsicht getan? Meine Damen und Herren, das GAR ist ein voller Erfolg. Es war sehr schnell, konsequent und hat sich komplett bewährt. Dafür stehen die Rechtsextremismusdatei und das Bundesamt für Verfassungsschutz mit einem umfangreichen Re-formprozess, der nahezu abgeschlossen ist. In Kürze werden wir hier einen Entwurf des Ministers beraten, der insgesamt 48 Einzelregelungen bein-halten wird, die wir allesamt mit den Ländern ab-stimmen mussten.
 
 Wenn es Ihnen zu langsam geht, Frau Pau - leider regieren Sie ja hier und da mit in den Län-dern,",data/txt/18062.txt,speech,
-2268084,62,18,0,,,,196,Lachen bei Abgeordneten der CDU/CSU,data/txt/18062.txt,poi,
-2268085,62,18,0,,,,197,"zunehmend mehr -,",data/txt/18062.txt,speech,
-2268086,62,18,0,Volker Kauder [CDU/CSU],Volker Kauder [CDU/CSU],volker-kauder-cdu-csu,198,Einmal!,data/txt/18062.txt,poi,cducsu
-2268087,62,18,0,,,,199,"dann sollten Sie sich einmal dort informieren, wa-rum das Verhalten hier und da so sperrig ist und ein Innenminister immer wieder persönlich Hand anlegen muss, damit die Dinge vorwärtsgehen. - Herr Dr. de Maizière, ich halte es jedenfalls für beachtlich, welches Megaprojekt das Innenminis-terium hierbei schultert; wir werden es demnächst hier im Deutschen Bundestag behandeln.",data/txt/18062.txt,speech,
-2268088,62,18,0,,,,200,Beifall bei der CDU/CSU,data/txt/18062.txt,poi,
-2268089,62,18,0,,,,201,"Meine Damen und Herren, ich möchte zum Ab-schluss noch zwei Punkte bringen, die mir sehr wichtig sind. Der erste Punkt bezieht sich auf Kri-tik. Ich halte es nicht für akzeptabel, dass ange-sichts eines Gesetzespakets, das zur Reform des Verfassungsschutzes kommen wird, und ange-sichts dessen, dass auch bei den Polizeien nichts passiert, die Länderinnenminister es kategorisch ablehnen, sich mit dem Bund auf einen Staatsver-trag zu einigen, in dem wir regeln, wie künftig ein NSU-Fall 2.0 oder andere Fälle länderübergreifend konsequent geführt werden sollen.
+2853303,62,18,0,,,,196,Lachen bei Abgeordneten der CDU/CSU,data/txt/18062.txt,poi,
+2853304,62,18,0,,,,197,"zunehmend mehr -,",data/txt/18062.txt,speech,
+2853305,62,18,0,Volker Kauder [CDU/CSU],Volker Kauder,volker-kauder,198,Einmal!,data/txt/18062.txt,poi,cducsu
+2853306,62,18,0,,,,199,"dann sollten Sie sich einmal dort informieren, wa-rum das Verhalten hier und da so sperrig ist und ein Innenminister immer wieder persönlich Hand anlegen muss, damit die Dinge vorwärtsgehen. - Herr Dr. de Maizière, ich halte es jedenfalls für beachtlich, welches Megaprojekt das Innenminis-terium hierbei schultert; wir werden es demnächst hier im Deutschen Bundestag behandeln.",data/txt/18062.txt,speech,
+2853307,62,18,0,,,,200,Beifall bei der CDU/CSU,data/txt/18062.txt,poi,
+2853308,62,18,0,,,,201,"Meine Damen und Herren, ich möchte zum Ab-schluss noch zwei Punkte bringen, die mir sehr wichtig sind. Der erste Punkt bezieht sich auf Kri-tik. Ich halte es nicht für akzeptabel, dass ange-sichts eines Gesetzespakets, das zur Reform des Verfassungsschutzes kommen wird, und ange-sichts dessen, dass auch bei den Polizeien nichts passiert, die Länderinnenminister es kategorisch ablehnen, sich mit dem Bund auf einen Staatsver-trag zu einigen, in dem wir regeln, wie künftig ein NSU-Fall 2.0 oder andere Fälle länderübergreifend konsequent geführt werden sollen.
 
 Der Leiter der BAO Bosporus hat uns in seinem Erfahrungsbericht ins Stammbuch geschrieben: So kann kein Mensch führen. Das Gleiche würde wieder passieren, wenn wir debattieren und keine Bindungswirkungen entstehen. Solange Nord-rhein-Westfalen Angst hat, von Bremen geführt zu werden, ändert sich nichts.",data/txt/18062.txt,speech,
-2268090,62,18,0,Zuruf von der CDU/CSU,von der CDU/CSU,von-der-cdu-csu,202,Nichts gegen Bremen!,data/txt/18062.txt,poi,cducsu
-2268091,62,18,0,,,,203,"- Entschuldigung, wir finden Bremen gar nicht so schlecht. Immerhin holen wir uns von da, glaube ich, den BKA-Präsidenten. Das kann man doch einmal sagen. - Ich denke, wir brauchen diesen Staatsvertrag.
+2853309,62,18,0,Zuruf von der CDU/CSU,von der CDU/CSU,von-der-cdu-csu,202,Nichts gegen Bremen!,data/txt/18062.txt,poi,cducsu
+2853310,62,18,0,,,,203,"- Entschuldigung, wir finden Bremen gar nicht so schlecht. Immerhin holen wir uns von da, glaube ich, den BKA-Präsidenten. Das kann man doch einmal sagen. - Ich denke, wir brauchen diesen Staatsvertrag.
 
 Liebe Frau Dr. Högl, wenn ich nur eine Minute gehabt hätte, dann hätte ich dieses Thema her-ausgegriffen, das Gegenteil von Frau Pau: Wer dem Bundesamt für Verfassungsschutz so viele neue Aufgaben aufbürdet wie wir, sie ihm zu Recht aufbürdet, der muss nach dem Prinzip „Wer anschafft, bezahlt auch“ in Haushaltsverhandlun-gen dafür sorgen, dass diese Behörde unseren berechtigten Qualitäts- und Quantitätsanforderun-gen überhaupt gerecht werden kann. Das Motto „Du hast zwar keine Chance, aber nutze sie“ kann nicht für das BfV gelten.
 
 Nach meiner Auffassung brauchen wir Nach-richtendienste. Ich hoffe, ihr schafft das in Thürin-gen nicht ab. Meines Erachtens sind Nachrichten-dienste in dieser Sicherheitslage unverzichtbar. Das Land braucht mehr als soziale Sicherheit in diesen Tagen, und deshalb werbe ich darum, auf der Zielgeraden der Haushaltsverhandlungen noch einmal im Sinne des NSU-Abschlussberichts und unserer weitreichenden Forderungen, die entspre-chenden Mittel in Köln zur Verfügung zu stellen.
 
 Ich danke Ihnen.",data/txt/18062.txt,speech,
-2268092,62,18,0,,,,204,Beifall bei der CDU/CSU sowie bei Ab-geordneten der SPD,data/txt/18062.txt,poi,
-2268093,62,18,0,,,,205,"Vizepräsident Johannes Singhammer:
+2853311,62,18,0,,,,204,Beifall bei der CDU/CSU sowie bei Ab-geordneten der SPD,data/txt/18062.txt,poi,
+2853312,62,18,0,,,,205,"Vizepräsident Johannes Singhammer:
 
 Staatsministerin Aydan Özoğuz spricht jetzt für die Bundesregierung.",data/txt/18062.txt,speech,
-2268094,62,18,0,,,,206,Beifall bei der SPD und der CDU/CSU,data/txt/18062.txt,poi,
-2268095,62,18,0,Zuruf von der CDU/CSU,von der CDU/CSU,von-der-cdu-csu,207,Bayerisch re-den kann er besser!,data/txt/18062.txt,poi,cducsu
-2268096,62,18,0,Cem Özdemir [BÜNDNIS 90/DIE GRÜNEN],Cem Özdemir [BÜNDNIS 90/DIE GRÜNEN],cem-ozdemir-bundnis-90-die-grunen,208,"Immerhin, sie weiß, wer gemeint ist!",data/txt/18062.txt,poi,gruene
-2268097,62,18,0,,,,209,"Aydan Özoğuz, Staatsministerin bei der Bun-deskanzlerin:
+2853313,62,18,0,,,,206,Beifall bei der SPD und der CDU/CSU,data/txt/18062.txt,poi,
+2853314,62,18,0,Zuruf von der CDU/CSU,von der CDU/CSU,von-der-cdu-csu,207,Bayerisch re-den kann er besser!,data/txt/18062.txt,poi,cducsu
+2853315,62,18,0,Cem Özdemir [BÜNDNIS 90/DIE GRÜNEN],Cem Özdemir,cem-ozdemir,208,"Immerhin, sie weiß, wer gemeint ist!",data/txt/18062.txt,poi,gruene
+2853316,62,18,0,,,,209,"Aydan Özoğuz, Staatsministerin bei der Bun-deskanzlerin:
 
 Ja, und ich bin sehr tolerant.",data/txt/18062.txt,speech,
-2268098,62,18,0,,,,210,Beifall bei der SPD,data/txt/18062.txt,poi,
-2268099,62,18,0,,,,211,"Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Neun Menschen wurden offensicht-lich umgebracht, weil sie eine Einwanderungsge-schichte hatten, und wir wissen auch heute noch nicht, warum gerade sie ausgewählt wurden.
+2853317,62,18,0,,,,210,Beifall bei der SPD,data/txt/18062.txt,poi,
+2853318,62,18,0,,,,211,"Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen! Neun Menschen wurden offensicht-lich umgebracht, weil sie eine Einwanderungsge-schichte hatten, und wir wissen auch heute noch nicht, warum gerade sie ausgewählt wurden.
 
 Eine Polizistin wurde umgebracht, und auch hier wissen wir immer noch nicht, warum.
 
@@ -1781,26 +1781,26 @@ Ich glaube, dass diese Fragen für die Angehö-rigen nicht erst seit drei Jahren
 Wer hat den drei mutmaßlich Hauptverantwort-lichen geholfen? Das ist eine weitere Frage, die uns sehr beschäftigt und die wir unmöglich unbe-antwortet lassen können. All die anderen Fragen, zum Beispiel, was nun wirklich in dem Wohnmobil geschah, gehören natürlich auch dazu. Waren zwei so abgebrühte Menschen wirklich so leicht von nur einem Polizeiwagen aus der Fassung zu bringen? Ich bin den Kollegen Binninger und Strö-bele sehr dankbar, dass sie dies in einem ge-meinsamen Interview noch einmal angesprochen und dargestellt haben, dass viele Fragen noch of-fen sind.
 
 Ich bin auch dem Kollegen Jerzy Montag sehr dankbar, der sich nun als Untersuchungsbeauf-tragter für den Bundestag zur Verfügung stellt. Ich denke, er weiß, welche schwierige Aufgabe vor ihm liegt. Er verdient jede mögliche Unterstützung dieses Hauses.",data/txt/18062.txt,speech,
-2268100,62,18,0,,,,212,Beifall im ganzen Hause,data/txt/18062.txt,poi,
-2268101,62,18,0,,,,213,"Was sich in der Öffentlichkeit festgesetzt hat - Frau Mihalic, ich würde es vielleicht ein bisschen anders ausdrücken -, sind natürlich diese Schredderaktionen. Fast jeder spricht einen darauf an. Das ist durchaus ein riesiger Vertrauensver-lust. Da brauchen wir uns gar nichts vorzuma-chen. Daran erinnern sich viele. Nun kommt wie-der etwas hinzu: die aktuellen Geschehnisse rund um den V-Mann Corelli, die Geschichte seines Ab-lebens, die plötzlich wiedergefundene CD mit den NSU-Bezügen. Ich will es an dieser Stelle etwas überspitzt formulieren: Manchmal kann man schon den Eindruck gewinnen, wir klärten auf, was vor-her bewusst verschleiert wurde. Das ist eine sehr schreckliche Einsicht. Bei den eigentlichen Fra-gen, die ich ja eben angerissen habe, sind wir hingegen noch nicht zufriedenstellend weiterge-kommen.
+2853319,62,18,0,,,,212,Beifall im ganzen Hause,data/txt/18062.txt,poi,
+2853320,62,18,0,,,,213,"Was sich in der Öffentlichkeit festgesetzt hat - Frau Mihalic, ich würde es vielleicht ein bisschen anders ausdrücken -, sind natürlich diese Schredderaktionen. Fast jeder spricht einen darauf an. Das ist durchaus ein riesiger Vertrauensver-lust. Da brauchen wir uns gar nichts vorzuma-chen. Daran erinnern sich viele. Nun kommt wie-der etwas hinzu: die aktuellen Geschehnisse rund um den V-Mann Corelli, die Geschichte seines Ab-lebens, die plötzlich wiedergefundene CD mit den NSU-Bezügen. Ich will es an dieser Stelle etwas überspitzt formulieren: Manchmal kann man schon den Eindruck gewinnen, wir klärten auf, was vor-her bewusst verschleiert wurde. Das ist eine sehr schreckliche Einsicht. Bei den eigentlichen Fra-gen, die ich ja eben angerissen habe, sind wir hingegen noch nicht zufriedenstellend weiterge-kommen.
 
 Richtig ist aber auch, dass die Untersuchungs-ausschüsse im Bund und in den Ländern eine sehr wichtige Aufgabe haben und hatten. Sie haben ei-niges in Sachen Aufklärung und Rückgewinnung von Vertrauen geleistet, natürlich nur ein Stück weit. Es ist für die Angehörigen der Opfer un-glaublich wichtig, zu sehen, dass wir mit einer großen Ernsthaftigkeit dabei sind und dass sich nicht jeder mit einer Einwanderungsbiografie fra-gen muss: Wie geht man eigentlich mit mir um, wenn ich Opfer werde? Was ist mit meiner Fami-lie? - Das ist doch eine schreckliche Frage für ein Einwanderungsland, das wir eben auch sind.
 
 Deswegen möchte ich an dieser Stelle schon daran erinnern, dass erst vor einigen Monaten der Europarat Fälle von Rassismus und Diskriminie-rung in Deutschland gerügt hat. Die dem Rat un-terstehende Europäische Kommission gegen Rassismus und Intoleranz hat dabei auf Gewaltde-likte Bezug genommen, die durch Rassismus, Homophobie und Transphobie ausgelöst seien. Was nachdenklich macht, ist, dass die Kommissi-on eben auch zu dem Schluss kommt, dass Opfer von Diskriminierung in Deutschland unzureichend unterstützt werden.
 
 Es kann, wie ich finde, kein verheerenderes Signal geben. An dieser Stelle müssen wir sehr stark ansetzen. Opferschutz - egal wer das Opfer ist - muss immer einen sehr hohen Stellenwert bei uns einnehmen; denn diejenigen, denen etwas Schreckliches angetan wurde, müssen wissen, dass wir alle neben ihnen stehen und ihnen jede Hilfe zukommen lassen.",data/txt/18062.txt,speech,
-2268102,62,18,0,,,,214,"Beifall bei der SPD sowie bei Abgeord-neten der CDU/CSU, der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN",data/txt/18062.txt,poi,
-2268103,62,18,0,,,,215,"Ich möchte zum Schluss nur noch eine Sache ansprechen. Ich glaube, dass es eine Dauerauf-gabe bleibt, das, was wir interkulturelle Kompe-tenz nennen, bei der Polizei, der Justiz und den Nachrichtendiensten zu steigern und den Anteil der Menschen, die Einwanderungsbiografien ha-ben, überall, auch in den Länderpolizeien, zu erhö-hen.
+2853321,62,18,0,,,,214,"Beifall bei der SPD sowie bei Abgeord-neten der CDU/CSU, der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN",data/txt/18062.txt,poi,
+2853322,62,18,0,,,,215,"Ich möchte zum Schluss nur noch eine Sache ansprechen. Ich glaube, dass es eine Dauerauf-gabe bleibt, das, was wir interkulturelle Kompe-tenz nennen, bei der Polizei, der Justiz und den Nachrichtendiensten zu steigern und den Anteil der Menschen, die Einwanderungsbiografien ha-ben, überall, auch in den Länderpolizeien, zu erhö-hen.
 
 Die genannten Einrichtungen sollen die Gesell-schaft abbilden. Sie sollen ein Stück weit zeigen, dass sie für diese Gesellschaft arbeiten. Sie sol-len verstehen, was in dieser Gesellschaft vor sich geht. Darum glaube ich, dass es so wichtig ist, dass wir uns vorgenommen haben, alle 47 Emp-fehlungen tatsächlich umzusetzen. Das wird ein bisschen Zeit erfordern. Ich glaube, man kann personalpolitische Vorstellungen dieser Art nicht in wenigen Monaten umsetzen. Wir alle sollten zu-sammen dafür sorgen, dass wir nächstes Jahr sagen können: Es hat sich an allen Punkten Er-hebliches getan, und wir nehmen diese Empfeh-lung alle gemeinsam sehr ernst.
 
 Vielen Dank.",data/txt/18062.txt,speech,
-2268104,62,18,0,,,,216,Beifall bei der SPD sowie bei Abgeord-neten der CDU/CSU und des BÜNDNIS-SES 90/DIE GRÜNEN,data/txt/18062.txt,poi,
-2268105,62,18,0,,,,217,"Vizepräsident Johannes Singhammer:
+2853323,62,18,0,,,,216,Beifall bei der SPD sowie bei Abgeord-neten der CDU/CSU und des BÜNDNIS-SES 90/DIE GRÜNEN,data/txt/18062.txt,poi,
+2853324,62,18,0,,,,217,"Vizepräsident Johannes Singhammer:
 
 Abschließender Redner in dieser Aussprache ist der Kollege Dr. Volker Ullrich.",data/txt/18062.txt,speech,
-2268106,62,18,0,,,,218,Beifall bei Abgeordneten der CDU/CSU und der SPD,data/txt/18062.txt,poi,
-2268107,62,18,0,,,,219,"Dr. Volker Ullrich (CDU/CSU):
+2853325,62,18,0,,,,218,Beifall bei Abgeordneten der CDU/CSU und der SPD,data/txt/18062.txt,poi,
+2853326,62,18,0,,,,219,"Dr. Volker Ullrich (CDU/CSU):
 
 Begreifen … bedeutet … die Last, die uns durch die Ereignisse auferlegt wurde, zu un-tersuchen und bewußt zu tragen … Begreifen bedeutet, sich aufmerksam und unvoreinge-nommen der Wirklichkeit, was immer sie ist oder war, zu stellen und entgegenzustellen.
 
@@ -1821,4 +1821,4 @@ Es darf zu keinem Zeitpunkt eine Situation ent-stehen, in welcher die tatsächli
 Diese Anstrengung für Demokratie und ein friedliches Miteinander ist nicht immer bequem. Manchmal sind Passivität und Gleichgültigkeit bei oberflächlicher Betrachtung ein einfacher Weg. Es ist aber der Weg des süßen Giftes. Wer sich nicht für die Werte einsetzt, die unsere Gemeinschaft begründen, wird morgen nicht mehr die Umge-bung vorfinden, die ihm seine Bequemlichkeit erst ermöglicht hat.
 
 Manche mögen - abschließend - einwenden, dass keiner abzuschätzen vermag, ob unsere An-strengungen von Erfolg gekrönt sein werden. Zweifel dürfen uns aber nicht erschüttern. Wir werden erfolgreich sein, weil das Vertrauen in die Idee der Unverletzlichkeit der Würde des Men-schen unerschütterlich ist. Es ist die beste Idee, die wir haben. Hannah Arendt hat die Hoffnung in das Gelingen so formuliert: Es ist nur möglich „im Vertrauen auf die Menschen. Das heißt, in einem - schwer genau zu fassenden, aber grundsätzli-chen - Vertrauen auf das Menschliche aller Men-schen. Anders könnte man es nicht.“",data/txt/18062.txt,speech,
-2268108,62,18,0,,,,220,Beifall bei der CDU/CSU und der SPD sowie bei Abgeordneten der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN,data/txt/18062.txt,poi,
+2853327,62,18,0,,,,220,Beifall bei der CDU/CSU und der SPD sowie bei Abgeordneten der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN,data/txt/18062.txt,poi,
