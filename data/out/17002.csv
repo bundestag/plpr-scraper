@@ -1,0 +1,168 @@
+id,sitzung,wahlperiode,in_writing,speaker,speaker_cleaned,speaker_fp,sequence,text,filename,type,speaker_party
+2324167,2,17,0,Präsident Dr. Norbert Lammert,Dr. Norbert Lammert,norbert-lammert,0,"Nehmen Sie bitte Platz. Die Sitzung ist eröffnet.
+
+Guten Morgen, liebe Kolleginnen und Kollegen, ich begrüße Sie alle herzlich zur zweiten Sitzung des Deutschen Bundestages in der neuen Legislaturperiode.
+
+Ich rufe den Tagesordnungspunkt 1 auf:
+
+Wahl der Bundeskanzlerin",data/txt/17002.txt,chair,
+2324168,2,17,0,Dazu hat mir der Herr Bundespräsident mitgeteilt,Dazu hat mir der Herr Bundespräsident mitgeteilt,dazu-hat-mir-der-herr-bundesprasident-mitgeteilt,1,"Gemäß Artikel 63 Absatz 1 des Grundgesetzes für die Bundesrepublik Deutschland schlage ich dem Deutschen Bundestag vor, Frau Dr. Angela Merkel zur Bundeskanzlerin zu wählen.",data/txt/17002.txt,speech,
+2324169,2,17,0,,,,2,Beifall bei der CDU/CSU und der FDP,data/txt/17002.txt,poi,
+2324170,2,17,0,Dazu hat mir der Herr Bundespräsident mitgeteilt,Dazu hat mir der Herr Bundespräsident mitgeteilt,dazu-hat-mir-der-herr-bundesprasident-mitgeteilt,3,Eine besondere Überraschung scheint dieser Vorschlag nicht auszulösen.,data/txt/17002.txt,speech,
+2324171,2,17,0,,,,4,Heiterkeit,data/txt/17002.txt,poi,
+2324172,2,17,0,Dazu hat mir der Herr Bundespräsident mitgeteilt,Dazu hat mir der Herr Bundespräsident mitgeteilt,dazu-hat-mir-der-herr-bundesprasident-mitgeteilt,5,"Ich bitte nun um Aufmerksamkeit für einige Hinweise zu unserem Wahlverfahren. Zu dieser Wahl sind die Stimmen der Mehrheit der Mitglieder des Bundestages, also mindestens 312 Stimmen, erforderlich. Nach unserer Geschäftsordnung wird die Bundeskanzlerin mit verdeckten Stimmkarten, also geheim, gewählt. Sie benötigen für die Wahl einen Wahlausweis, den Sie, soweit noch nicht geschehen, in Ihren Stimmkartenfächern vorfinden. Bitte kontrollieren Sie, ob der Wahlausweis Ihren Namen trägt. Die für die Wahl gültige Stimmkarte und den amtlichen Wahlumschlag erhalten Sie nach Aufruf Ihres Namens von den Schriftführerinnen und Schriftführern an den Ausgabetischen hier oben links und rechts neben den Wahlkabinen. Um einen reibungslosen Ablauf zu ermöglichen, bitte ich Sie, genauso wie gestern von Ihren Plätzen aus über die seitlichen Zugänge und nicht durch den Mittelgang zu den Ausgabetischen zu gehen.
+
+Nachdem Sie die Stimmkarte in eine der Wahlkabinen gekennzeichnet und in den Wahlumschlag gelegt haben, gehen Sie bitte zu den Wahlurnen hier vor dem Rednerpult. Sie dürfen Ihre Stimmkarte nur in der Wahlkabine ankreuzen und müssen ebenfalls noch in der Wahlkabine die Stimmkarte in den Umschlag legen. Die Schriftführerinnen und Schriftführer sind verpflichtet, jeden, der seine Stimmkarte außerhalb der Wahlkabine kennzeichnet oder in den Umschlag legt, zurückzuweisen. Immerhin besteht in diesem Fall noch die Möglichkeit einer ordnungsgemäßen Wiederholung der gerade beschriebenen Prozedur.
+
+Gültig sind nur Stimmkarten mit einem Kreuz bei „ja“, „nein“ oder „enthalte mich“. Ungültig sind Stimmen auf nichtamtlichen Stimmkarten oder solchen Stimmkarten, die mehr als ein Kreuz, andere Namen oder Zusätze enthalten.
+
+Bevor Sie die Stimmkarte in eine der Wahlurnen werfen, übergeben Sie bitte Ihren Wahlausweis einem der Schriftführer an der Wahlurne. Der Nachweis der Teilnahme an der Wahl kann nur durch die Abgabe des Wahlausweises erbracht werden.
+
+Ich darf jetzt die eingeteilten Schriftführerinnen und Schriftführer bitten, die vorgesehenen Plätze einzunehmen. Die beiden Schriftführer neben mir werden danach mit der Verlesung der Namen in alphabetischer Reihenfolge beginnen. Ich bitte Sie, den Namensaufruf zu verfolgen und sich nach dem Aufruf Ihres Namens zur Entgegennahme der Stimmkarte zu den Ausgabetischen vor den Wahlkabinen zu begeben.
+
+Darf ich um ein Signal bitten, ob die Schriftführerinnen und Schriftführer ihre Plätze bereits eingenommen haben? - Das ist der Fall.
+
+Der Kollege Winkler macht mich darauf aufmerksam, dass an der Urne links von mir die Regierung fehle. Das halte ich für ein doppeltes Missverständnis. Die Regierung fehlt bei diesem Wahlgang sicher nicht, aber vielleicht ein Vertreter der Koalition. Das sollten wir vielleicht komplettieren. - Sehr gut. Nun ist auch diesem liebenswürdigen Wunsch der Opposition Rechnung getragen.
+
+Damit eröffne ich den Wahlgang und bitte, mit dem Aufruf der Namen zu beginnen.",data/txt/17002.txt,speech,
+2324173,2,17,0,,,,6,Namensaufruf und Wahl,data/txt/17002.txt,poi,
+2324174,2,17,0,Dazu hat mir der Herr Bundespräsident mitgeteilt,Dazu hat mir der Herr Bundespräsident mitgeteilt,dazu-hat-mir-der-herr-bundesprasident-mitgeteilt,7,"Liebe Kolleginnen und Kollegen, ich frage Sie, ob irgendein Mitglied des Hauses anwesend ist, das seine Stimmkarte noch nicht abgegeben hat. - Ich habe den Eindruck, dass inzwischen auch die Schriftführerinnen und Schriftführer ihre Stimmkarten abgegeben haben. Gibt es daran von irgendeiner Seite Widerspruch oder Zweifel? - Das ist nicht der Fall. Dann schließe ich hiermit den Wahlgang.
+
+Für die Auszählung der Stimmen unterbreche ich die Sitzung für voraussichtlich etwa 20 Minuten. Wir werden nach Auszählung der Stimmen in geeigneter Weise akustisch darauf aufmerksam machen, dass die Sitzung zur Bekanntgabe des Ergebnisses wieder eröffnet wird.
+
+Die Sitzung ist unterbrochen.",data/txt/17002.txt,speech,
+2324175,2,17,0,,,,8,Unterbrechung von 10.34 bis 10.58 Uhr,data/txt/17002.txt,poi,
+2324176,2,17,0,Dazu hat mir der Herr Bundespräsident mitgeteilt,Dazu hat mir der Herr Bundespräsident mitgeteilt,dazu-hat-mir-der-herr-bundesprasident-mitgeteilt,9,,data/txt/17002.txt,speech,
+2324177,2,17,0,Präsident Dr. Norbert Lammert,Dr. Norbert Lammert,norbert-lammert,10,"Liebe Kolleginnen und Kollegen, ich bitte Sie, wieder Platz zu nehmen, und teile Ihnen dann das Ergebnis des Wahlgangs mit. - Abgegebene Stimmen 612, davon ungültig keine. Mit Ja haben gestimmt 323 Mitglieder des Hauses.",data/txt/17002.txt,chair,
+2324178,2,17,0,,,,11,Langanhaltender Beifall bei der CDU/CSU und der FDP,data/txt/17002.txt,poi,
+2324179,2,17,0,Präsident Dr. Norbert Lammert,Dr. Norbert Lammert,norbert-lammert,12,Mit Nein gestimmt haben 285 Mitglieder des Hauses.,data/txt/17002.txt,chair,
+2324180,2,17,0,,,,13,Beifall bei Abgeordneten der LINKEN,data/txt/17002.txt,poi,
+2324181,2,17,0,Präsident Dr. Norbert Lammert,Dr. Norbert Lammert,norbert-lammert,14,- Das mit den geheimen Abstimmungen hatten wir schon einmal. -,data/txt/17002.txt,chair,
+2324182,2,17,0,,,,15,Heiterkeit,data/txt/17002.txt,poi,
+2324183,2,17,0,Präsident Dr. Norbert Lammert,Dr. Norbert Lammert,norbert-lammert,16,"Enthaltungen gab es 4.1
+
+Nach Art. 63 Abs. 2 des Grundgesetzes ist zur Bundeskanzlerin gewählt, wer die Stimmen der Mehrheit der Mitglieder des Bundestages auf sich vereinigt. Ich stelle fest, dass Frau Dr. Angela Merkel mit der erforderlichen Mehrheit der Stimmen der Mitglieder des Deutschen Bundestages zur Bundeskanzlerin der Bundesrepublik Deutschland gewählt ist. Ich darf Sie fragen, Frau Abgeordnete Dr. Merkel: Nehmen Sie diese Wahl an?",data/txt/17002.txt,chair,
+2324184,2,17,0,Dr. Angela Merkel (CDU/CSU),Dr. Angela Merkel,angela-merkel,17,"Herr Präsident, ich nehme die Wahl an und bedanke mich für das Vertrauen.",data/txt/17002.txt,speech,cducsu
+2324185,2,17,0,,,,18,Langanhaltender Beifall bei der CDU/CSU und der FDP,data/txt/17002.txt,poi,
+2324186,2,17,0,,,,19,Die Abgeordneten der CDU/ CSU und der FDP erheben sich,data/txt/17002.txt,poi,
+2324187,2,17,0,,,,20,Abgeordnete aller Fraktionen beglückwünschen Abg. Dr. Angela Merkel [CDU/CSU],data/txt/17002.txt,poi,
+2324188,2,17,0,Dr. Angela Merkel (CDU/CSU),Dr. Angela Merkel,angela-merkel,21,,data/txt/17002.txt,speech,cducsu
+2324189,2,17,0,Präsident Dr. Norbert Lammert,Dr. Norbert Lammert,norbert-lammert,22,"Frau Bundeskanzlerin, im Namen all der Kolleginnen und Kollegen des Hauses, die Ihnen noch nicht persönlich ihre Aufwartung machen konnten, möchte ich Ihnen ganz herzlich die Glückwünsche des ganzen Hauses zu Ihrer Wahl übermitteln und auch ganz persönlich für die Bewältigung der großen Aufgabe, die vor Ihnen liegt, Kraft, Erfolg und Gottes Segen wünschen.",data/txt/17002.txt,chair,
+2324190,2,17,0,,,,23,Beifall im ganzen Hause,data/txt/17002.txt,poi,
+2324191,2,17,0,Präsident Dr. Norbert Lammert,Dr. Norbert Lammert,norbert-lammert,24,"Das Ergebnis der Wahl werde ich unverzüglich dem Herrn Bundespräsidenten mitteilen. Nach Ausfertigung und Überreichung der Urkunde findet die Vereidigung der Kanzlerin um 13 Uhr hier im Plenarsaal statt.
+
+Bis dahin unterbreche ich die Sitzung.",data/txt/17002.txt,chair,
+2324192,2,17,0,,,,25,Unterbrechung von 11.04 bis 13.01 Uhr,data/txt/17002.txt,poi,
+2324193,2,17,0,Präsident Dr. Norbert Lammert,Dr. Norbert Lammert,norbert-lammert,26,,data/txt/17002.txt,chair,
+2324194,2,17,0,Präsident Dr. Norbert Lammert,Dr. Norbert Lammert,norbert-lammert,27,"Die unterbrochene Sitzung ist wieder eröffnet.
+
+Ich rufe den Tagesordnungspunkt 2 auf:
+
+Eidesleistung der Bundeskanzlerin",data/txt/17002.txt,chair,
+2324195,2,17,0,Der Herr Bundespräsident hat mir mit Schreiben vom heutigen Tage mitgeteilt,Der Herr Bundespräsident hat mir mit Schreiben vom heutigen Tage mitgeteilt,der-herr-bundesprasident-hat-mir-mit-schreiben-vom-heutigen-tage-mitgeteilt,28,Gemäß Artikel 63 Absatz 2 des Grundgesetzes für die Bundesrepublik Deutschland habe ich heute Frau Dr. Angela Merkel zur Bundeskanzlerin ernannt.,data/txt/17002.txt,speech,
+2324196,2,17,0,,,,29,Beifall bei der CDU/CSU und der FDP sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN,data/txt/17002.txt,poi,
+2324197,2,17,0,Der Herr Bundespräsident hat mir mit Schreiben vom heutigen Tage mitgeteilt,Der Herr Bundespräsident hat mir mit Schreiben vom heutigen Tage mitgeteilt,der-herr-bundesprasident-hat-mir-mit-schreiben-vom-heutigen-tage-mitgeteilt,30,"Nach Art. 64 Abs. 2 des Grundgesetzes leistet die Bundeskanzlerin bei der Amtsübernahme vor dem Deutschen Bundestag den in Art. 56 des Grundgesetzes vorgesehenen Eid.
+
+Frau Bundeskanzlerin, ich bitte Sie, zur Eidesleistung zu mir zu kommen.",data/txt/17002.txt,speech,
+2324198,2,17,0,,,,31,Die Anwesenden erheben sich,data/txt/17002.txt,poi,
+2324199,2,17,0,Der Herr Bundespräsident hat mir mit Schreiben vom heutigen Tage mitgeteilt,Der Herr Bundespräsident hat mir mit Schreiben vom heutigen Tage mitgeteilt,der-herr-bundesprasident-hat-mir-mit-schreiben-vom-heutigen-tage-mitgeteilt,32,,data/txt/17002.txt,speech,
+2324200,2,17,0,"Dr. Angela Merkel, Bundeskanzlerin","Dr. Angela Merkel,",angela-merkel,33,"Ich schwöre, dass ich meine Kraft dem Wohle des deutschen Volkes widmen, seinen Nutzen mehren, Schaden von ihm wenden, das Grundgesetz und die Gesetze des Bundes wahren und verteidigen, meine Pflichten gewissenhaft erfüllen und Gerechtigkeit gegenüber jedermann üben werde. So wahr mir Gott helfe.",data/txt/17002.txt,speech,
+2324201,2,17,0,,,,34,Anhaltender Beifall bei der CDU/CSU und der FDP,data/txt/17002.txt,poi,
+2324202,2,17,0,,,,35,"Beifall bei Abgeordneten der SPD, der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN",data/txt/17002.txt,poi,
+2324203,2,17,0,"Dr. Angela Merkel, Bundeskanzlerin","Dr. Angela Merkel,",angela-merkel,36,,data/txt/17002.txt,speech,
+2324204,2,17,0,Präsident Dr. Norbert Lammert,Dr. Norbert Lammert,norbert-lammert,37,"Meine Damen und Herren! Liebe Kolleginnen und Kollegen! Ich stelle nicht nur für unser Protokoll fest, dass die Frau Bundeskanzlerin den vorgeschriebenen Eid vor dem Deutschen Bundestag geleistet hat.
+
+Ich darf Ihnen noch einmal alle guten Wünsche für dieses Amt mit auf den Weg geben.
+
+Wir unterbrechen jetzt die Sitzung bis 15 Uhr. Dann wird die wahrscheinlich nur noch mäßig überraschende Liste der Mitglieder der Bundesregierung",data/txt/17002.txt,chair,
+2324205,2,17,0,,,,38,Heiterkeit bei der CDU/CSU und der FDP,data/txt/17002.txt,poi,
+2324206,2,17,0,Renate Künast [BÜNDNIS 90/DIE GRÜNEN],Renate Künast,renate-kunast,39,Mäßig?,data/txt/17002.txt,poi,gruene
+2324207,2,17,0,Präsident Dr. Norbert Lammert,Dr. Norbert Lammert,norbert-lammert,40,"nach förmlicher Ausfertigung der Urkunden durch den Bundespräsidenten bekannt gegeben und werden die Mitglieder der Bundesregierung vereidigt.
+
+Ich unterbreche die Sitzung bis 15 Uhr.",data/txt/17002.txt,chair,
+2324208,2,17,0,,,,41,Unterbrechung von 13.05 bis 15.00 Uhr,data/txt/17002.txt,poi,
+2324209,2,17,0,Präsident Dr. Norbert Lammert,Dr. Norbert Lammert,norbert-lammert,42,,data/txt/17002.txt,chair,
+2324210,2,17,0,Präsident Dr. Norbert Lammert,Dr. Norbert Lammert,norbert-lammert,43,"Liebe Kolleginnen und Kollegen! Verehrte Gäste! Wir setzen unsere unterbrochene Sitzung mit dem Tagesordnungspunkt 3 fort:
+
+Bekanntgabe der Bildung der Bundesregierung
+
+Gemeint ist selbstverständlich die Zusammensetzung der Bundesregierung und nicht, was man unter dem gleichen Begriff sonst verstehen muss und sollte.",data/txt/17002.txt,chair,
+2324211,2,17,0,Jürgen Trittin [BÜNDNIS 90/DIE GRÜNEN],Jürgen Trittin,jurgen-trittin,44,"Auf die Idee wären wir nicht gekommen, Herr Präsident!",data/txt/17002.txt,poi,gruene
+2324212,2,17,0,Präsident Dr. Norbert Lammert,Dr. Norbert Lammert,norbert-lammert,45,,data/txt/17002.txt,chair,
+2324213,2,17,0,Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt,Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt,der-herr-bundesprasident-hat-mir-hierzu-mit-schreiben-vom-heutigen-tage-mitgeteilt,46,"Gemäß Artikel 64 Absatz 1 des Grundgesetzes für die Bundesrepublik Deutschland habe ich heute auf Vorschlag der Frau Bundeskanzlerin ernannt:
+
+Herrn Dr. Guido Westerwelle zum Bundesminister des Auswärtigen,",data/txt/17002.txt,speech,
+2324214,2,17,0,,,,47,Beifall bei der CDU/CSU und der FDP sowie der Abg. Dr. Gesine Lötzsch [DIE LINKE],data/txt/17002.txt,poi,
+2324215,2,17,0,Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt,Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt,der-herr-bundesprasident-hat-mir-hierzu-mit-schreiben-vom-heutigen-tage-mitgeteilt,48,"Herrn Dr. Thomas de Maizière zum Bundesminister des Innern,",data/txt/17002.txt,speech,
+2324216,2,17,0,,,,49,Beifall bei der CDU/CSU und der FDP sowie der Abg. Dr. Gesine Lötzsch [DIE LINKE],data/txt/17002.txt,poi,
+2324217,2,17,0,Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt,Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt,der-herr-bundesprasident-hat-mir-hierzu-mit-schreiben-vom-heutigen-tage-mitgeteilt,50,"Frau Sabine Leutheusser-Schnarrenberger zur Bundesministerin der Justiz,",data/txt/17002.txt,speech,
+2324218,2,17,0,,,,51,"Beifall bei der CDU/CSU und der FDP sowie bei Abgeordneten der SPD, der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN",data/txt/17002.txt,poi,
+2324219,2,17,0,Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt,Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt,der-herr-bundesprasident-hat-mir-hierzu-mit-schreiben-vom-heutigen-tage-mitgeteilt,52,"Herrn Dr. Wolfgang Schäuble zum Bundesminister der Finanzen,",data/txt/17002.txt,speech,
+2324220,2,17,0,,,,53,Beifall bei der CDU/CSU und der FDP,data/txt/17002.txt,poi,
+2324221,2,17,0,Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt,Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt,der-herr-bundesprasident-hat-mir-hierzu-mit-schreiben-vom-heutigen-tage-mitgeteilt,54,"Herrn Rainer Brüderle zum Bundesminister für Wirtschaft und Technologie,",data/txt/17002.txt,speech,
+2324222,2,17,0,,,,55,Beifall bei der CDU/CSU und der FDP,data/txt/17002.txt,poi,
+2324223,2,17,0,Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt,Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt,der-herr-bundesprasident-hat-mir-hierzu-mit-schreiben-vom-heutigen-tage-mitgeteilt,56,"Herrn Dr. Franz Josef Jung zum Bundesminister für Arbeit und Soziales,",data/txt/17002.txt,speech,
+2324224,2,17,0,,,,57,Beifall bei der CDU/CSU und der FDP,data/txt/17002.txt,poi,
+2324225,2,17,0,Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt,Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt,der-herr-bundesprasident-hat-mir-hierzu-mit-schreiben-vom-heutigen-tage-mitgeteilt,58,"Frau Ilse Aigner zur Bundesministerin für Ernährung, Landwirtschaft und Verbraucherschutz,",data/txt/17002.txt,speech,
+2324226,2,17,0,,,,59,Beifall bei der CDU/CSU und der FDP,data/txt/17002.txt,poi,
+2324227,2,17,0,Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt,Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt,der-herr-bundesprasident-hat-mir-hierzu-mit-schreiben-vom-heutigen-tage-mitgeteilt,60,"Herrn Dr. Karl-Theodor zu Guttenberg zum Bundesminister der Verteidigung,",data/txt/17002.txt,speech,
+2324228,2,17,0,,,,61,Beifall bei der CDU/CSU und der FDP,data/txt/17002.txt,poi,
+2324229,2,17,0,Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt,Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt,der-herr-bundesprasident-hat-mir-hierzu-mit-schreiben-vom-heutigen-tage-mitgeteilt,62,"Frau Dr. Ursula von der Leyen zur Bundesministerin für Familie, Senioren, Frauen und Jugend,",data/txt/17002.txt,speech,
+2324230,2,17,0,,,,63,Beifall bei der CDU/CSU und der FDP,data/txt/17002.txt,poi,
+2324231,2,17,0,Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt,Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt,der-herr-bundesprasident-hat-mir-hierzu-mit-schreiben-vom-heutigen-tage-mitgeteilt,64,"Herrn Dr. Philipp Rösler zum Bundesminister für Gesundheit,",data/txt/17002.txt,speech,
+2324232,2,17,0,,,,65,Beifall bei der CDU/CSU und der FDP,data/txt/17002.txt,poi,
+2324233,2,17,0,Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt,Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt,der-herr-bundesprasident-hat-mir-hierzu-mit-schreiben-vom-heutigen-tage-mitgeteilt,66,"Herrn Dr. Peter Ramsauer zum Bundesminister für Verkehr, Bau und Stadtentwicklung,",data/txt/17002.txt,speech,
+2324234,2,17,0,,,,67,Beifall bei der CDU/CSU und der FDP,data/txt/17002.txt,poi,
+2324235,2,17,0,Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt,Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt,der-herr-bundesprasident-hat-mir-hierzu-mit-schreiben-vom-heutigen-tage-mitgeteilt,68,"Herrn Dr. Norbert Röttgen zum Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit,",data/txt/17002.txt,speech,
+2324236,2,17,0,,,,69,Beifall bei der CDU/CSU und der FDP,data/txt/17002.txt,poi,
+2324237,2,17,0,Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt,Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt,der-herr-bundesprasident-hat-mir-hierzu-mit-schreiben-vom-heutigen-tage-mitgeteilt,70,"Frau Professor Dr. Annette Schavan zur Bundesministerin für Bildung und Forschung,",data/txt/17002.txt,speech,
+2324238,2,17,0,,,,71,Beifall bei der CDU/CSU und der FDP,data/txt/17002.txt,poi,
+2324239,2,17,0,Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt,Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt,der-herr-bundesprasident-hat-mir-hierzu-mit-schreiben-vom-heutigen-tage-mitgeteilt,72,Herrn Dirk Niebel zum Bundesminister für wirtschaftliche Zusammenarbeit und Entwicklung,data/txt/17002.txt,speech,
+2324240,2,17,0,,,,73,Beifall bei der CDU/CSU und der FDP,data/txt/17002.txt,poi,
+2324241,2,17,0,,,,74,"Lachen bei Abgeordneten der SPD, der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN",data/txt/17002.txt,poi,
+2324242,2,17,0,Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt,Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt,der-herr-bundesprasident-hat-mir-hierzu-mit-schreiben-vom-heutigen-tage-mitgeteilt,75,sowie Herrn Ronald Pofalla zum Bundesminister für besondere Aufgaben.,data/txt/17002.txt,speech,
+2324243,2,17,0,,,,76,Beifall bei der CDU/CSU und der FDP,data/txt/17002.txt,poi,
+2324244,2,17,0,Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt,Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt,der-herr-bundesprasident-hat-mir-hierzu-mit-schreiben-vom-heutigen-tage-mitgeteilt,77,"Ich rufe nun unseren Tagesordnungspunkt 4 auf:
+
+Eidesleistung der Bundesminister
+
+Meine Damen und Herren, nach Art. 64 Abs. 2 des Grundgesetzes leisten die Bundesminister bei der Amtsübernahme vor dem Deutschen Bundestag den in Art. 56 des Grundgesetzes vorgesehenen Eid.
+
+Ich werde den Eid vorsprechen und bitte dann die Mitglieder der Bundesregierung, den Eid mit den Worten „Ich schwöre es, so wahr mir Gott helfe“ oder „Ich schwöre es“ zu bekräftigen. Den Text der Eidesformel haben Sie bereits heute Mittag zur Kenntnis genommen. Ich trage ihn noch einmal vor:
+
+Ich schwöre, dass ich meine Kraft dem Wohle des deutschen Volkes widmen, seinen Nutzen mehren, Schaden von ihm wenden, das Grundgesetz und die Gesetze des Bundes wahren und verteidigen, meine Pflichten gewissenhaft erfüllen und Gerechtigkeit gegen jedermann üben werde.
+
+Ich darf jetzt die Bundesminister zur Eidesleistung bitten und sie fragen, ob sie bereit sind, diesen Eid zu leisten.",data/txt/17002.txt,speech,
+2324245,2,17,0,,,,78,Die Anwesenden erheben sich,data/txt/17002.txt,poi,
+2324246,2,17,0,Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt,Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt,der-herr-bundesprasident-hat-mir-hierzu-mit-schreiben-vom-heutigen-tage-mitgeteilt,79,"Zunächst der Bundesminister des Auswärtigen, Herr Dr. Guido Westerwelle?",data/txt/17002.txt,speech,
+2324247,2,17,0,"Dr. Guido Westerwelle, Bundesminister des Auswärtigen",Dr. Guido Westerwelle,guido-westerwelle,80,"Ich schwöre es, so wahr mir Gott helfe.",data/txt/17002.txt,speech,
+2324248,2,17,0,Präsident Dr. Norbert Lammert,Dr. Norbert Lammert,norbert-lammert,81,"Der Bundesminister des Innern, Dr. Thomas de Maizière?",data/txt/17002.txt,chair,
+2324249,2,17,0,"Dr. Thomas de Maizière, Bundesminister des Innern",Dr. Thomas de Maizière,thomas-de-maiziere,82,"Ich schwöre es, so wahr mir Gott helfe.",data/txt/17002.txt,speech,
+2324250,2,17,0,Präsident Dr. Norbert Lammert,Dr. Norbert Lammert,norbert-lammert,83,"Die Bundesministerin der Justiz, Frau Sabine Leutheusser-Schnarrenberger?",data/txt/17002.txt,chair,
+2324251,2,17,0,"Sabine Leutheusser-Schnarrenberger, Bundesministerin der Justiz",Sabine Leutheusser-Schnarrenberger,sabine-leutheusser-schnarrenberger,84,"Ich schwöre es, so wahr mir Gott helfe.",data/txt/17002.txt,speech,
+2324252,2,17,0,Präsident Dr. Norbert Lammert,Dr. Norbert Lammert,norbert-lammert,85,"Der Bundesminister der Finanzen, Dr. Wolfgang Schäuble?",data/txt/17002.txt,chair,
+2324253,2,17,0,"Dr. Wolfgang Schäuble, Bundesminister der Finanzen",Dr. Wolfgang Schäuble,wolfgang-schauble,86,"Ich schwöre es, so wahr mir Gott helfe.",data/txt/17002.txt,speech,
+2324254,2,17,0,Präsident Dr. Norbert Lammert,Dr. Norbert Lammert,norbert-lammert,87,"Der Bundesminister für Wirtschaft und Technologie, Rainer Brüderle?",data/txt/17002.txt,chair,
+2324255,2,17,0,"Rainer Brüderle, Bundesminister für Wirtschaft und Technologie",Rainer Brüderle,rainer-bruderle,88,"Ich schwöre es, so wahr mir Gott helfe.",data/txt/17002.txt,speech,
+2324256,2,17,0,Präsident Dr. Norbert Lammert,Dr. Norbert Lammert,norbert-lammert,89,"Der Bundesminister für Arbeit und Soziales, Dr. Franz Josef Jung?",data/txt/17002.txt,chair,
+2324257,2,17,0,"Dr. Franz Josef Jung, Bundesminister für Arbeit und Soziales",Dr. Franz Josef Jung,franz-josef-jung,90,"Ich schwöre es, so wahr mir Gott helfe.",data/txt/17002.txt,speech,
+2324258,2,17,0,Präsident Dr. Norbert Lammert,Dr. Norbert Lammert,norbert-lammert,91,"Die Bundesministerin für Ernährung, Landwirtschaft und Verbraucherschutz, Ilse Aigner?",data/txt/17002.txt,chair,
+2324259,2,17,0,"Ilse Aigner, Bundesministerin für Ernährung, Landwirtschaft und Verbraucherschutz",Ilse Aigner,ilse-aigner,92,"Ich schwöre es, so wahr mir Gott helfe.",data/txt/17002.txt,speech,
+2324260,2,17,0,Präsident Dr. Norbert Lammert,Dr. Norbert Lammert,norbert-lammert,93,"Der Bundesminister der Verteidigung, Dr. Karl-Theodor zu Guttenberg?",data/txt/17002.txt,chair,
+2324261,2,17,0,"Dr. Karl-Theodor Freiherr zu Guttenberg, Bundesminister der Verteidigung",Dr. Karl-Theodor Freiherr zu Guttenberg,karl-theodor-freiherr-zu-guttenberg,94,"Ich schwöre es, so wahr mir Gott helfe.",data/txt/17002.txt,speech,
+2324262,2,17,0,Präsident Dr. Norbert Lammert,Dr. Norbert Lammert,norbert-lammert,95,"Die Bundesministerin für Familie, Senioren, Frauen und Jugend, Frau Dr. Ursula von der Leyen?",data/txt/17002.txt,chair,
+2324263,2,17,0,"Dr. Ursula von der Leyen, Bundesministerin für Familie, Senioren, Frauen und Jugend",Dr. Ursula von der Leyen,ursula-leyen,96,"Ich schwöre es, so wahr mir Gott helfe.",data/txt/17002.txt,speech,
+2324264,2,17,0,Präsident Dr. Norbert Lammert,Dr. Norbert Lammert,norbert-lammert,97,"Der Bundesminister für Gesundheit, Dr. Philipp Rösler?",data/txt/17002.txt,chair,
+2324265,2,17,0,"Dr. Philipp Rösler, Bundesminister für Gesundheit",Dr. Philipp Rösler,philipp-rosler,98,"Ich schwöre es, so wahr mir Gott helfe.",data/txt/17002.txt,speech,
+2324266,2,17,0,Präsident Dr. Norbert Lammert,Dr. Norbert Lammert,norbert-lammert,99,"Der Bundesminister für Verkehr, Bau und Stadtentwicklung, Dr. Peter Ramsauer?",data/txt/17002.txt,chair,
+2324267,2,17,0,"Dr. Peter Ramsauer, Bundesminister für Verkehr, Bau und Stadtentwicklung",Dr. Peter Ramsauer,peter-ramsauer,100,"Ich schwöre es, so wahr mir Gott helfe.",data/txt/17002.txt,speech,
+2324268,2,17,0,Präsident Dr. Norbert Lammert,Dr. Norbert Lammert,norbert-lammert,101,"Der Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit, Dr. Norbert Röttgen?",data/txt/17002.txt,chair,
+2324269,2,17,0,"Dr. Norbert Röttgen, Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit",Dr. Norbert Röttgen,norbert-rottgen,102,"Ich schwöre es, so wahr mir Gott helfe.",data/txt/17002.txt,speech,
+2324270,2,17,0,Präsident Dr. Norbert Lammert,Dr. Norbert Lammert,norbert-lammert,103,"Die Bundesministerin für Bildung und Forschung, Frau Dr. Annette Schavan?",data/txt/17002.txt,chair,
+2324271,2,17,0,"Dr. Annette Schavan, Bundesministerin für Bildung und Forschung",Dr. Annette Schavan,annette-schavan,104,"Ich schwöre es, so wahr mir Gott helfe.",data/txt/17002.txt,speech,
+2324272,2,17,0,Präsident Dr. Norbert Lammert,Dr. Norbert Lammert,norbert-lammert,105,"Der Bundesminister für wirtschaftliche Zusammenarbeit und Entwicklung, Dirk Niebel?",data/txt/17002.txt,chair,
+2324273,2,17,0,"Dirk Niebel, Bundesminister für wirtschaftliche Zusammenarbeit und Entwicklung",Dirk Niebel,dirk-niebel,106,"Ich schwöre es, so wahr mir Gott helfe.",data/txt/17002.txt,speech,
+2324274,2,17,0,Präsident Dr. Norbert Lammert,Dr. Norbert Lammert,norbert-lammert,107,"Der Bundesminister für besondere Aufgaben, Ronald Pofalla?",data/txt/17002.txt,chair,
+2324275,2,17,0,"Ronald Pofalla, Bundesminister für besondere Aufgaben",Ronald Pofalla,ronald-pofalla,108,"Ich schwöre es, so wahr mir Gott helfe.",data/txt/17002.txt,speech,
+2324276,2,17,0,,,,109,Beifall bei der CDU/CSU und der FDP sowie bei Abgeordneten der SPD,data/txt/17002.txt,poi,
+2324277,2,17,0,"Ronald Pofalla, Bundesminister für besondere Aufgaben",Ronald Pofalla,ronald-pofalla,110,,data/txt/17002.txt,speech,
