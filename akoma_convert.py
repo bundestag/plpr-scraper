@@ -7,6 +7,7 @@
 # * http://examples.akomantoso.org/usage.html
 # * http://examples.akomantoso.org/alphabetical.html
 #
+
 import os
 import csv
 import sys
@@ -107,7 +108,7 @@ def convert_session(path):
             speech = etree.SubElement(group, "speech")
             speech.set('as', '#%s' % row.get('type'))
         else:
-            speech = etree.SubElement(group, "narrative")
+            speech = etree.SubElement(group, "scene")
 
         if fp:
             speech.set('by', '#%s' % fp)
