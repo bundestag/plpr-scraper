@@ -4,4 +4,4 @@ lxml
 normality
 dataset
 
-https://github.com/bundestag/normdatei/archive/master.zip#egg=normdatei
+git+https://github.com/bundestag/normdatei
