@@ -12,9 +12,9 @@ from normdatei.parties import search_party_names
 log = logging.getLogger(__name__)
 
 
-DATA_DIR = 'data'
-TXT_DIR = os.path.join(DATA_DIR, 'txt')
-OUT_DIR = os.path.join(DATA_DIR, 'out')
+DATA_PATH = os.environ.get('DATA_PATH', 'data')
+TXT_DIR = os.path.join(DATA_PATH, 'txt')
+OUT_DIR = os.path.join(DATA_PATH, 'out')
 
 INDEX_URL = 'https://www.bundestag.de/plenarprotokolle'
 ARCHIVE_URL = 'http://webarchiv.bundestag.de/archive/2013/0927/dokumente/protokolle/plenarprotokolle/plenarprotokolle/17%03.d.txt'
@@ -39,9 +39,9 @@ WRITING_END = re.compile(u'(^Tagesordnungspunkt .*:\s*$|– Drucksache d{2}/\d{2
 # REM_CHAIRS = '|'.join(CHAIRS)
 # NAME_REMOVE = re.compile(u'(\\[.*\\]|\\(.*\\)|%s|^Abg.? |Liedvortrag|Bundeskanzler(in)?|, zur.*|, auf die| an die|, an .*|, Parl\\. .*|gewandt|, Staatsmin.*|, Bundesmin.*|, Ministe.*)' % REM_CHAIRS, re.U)
 
-
-eng = dataset.connect('sqlite:///data.sqlite')
-table = eng['data']
+db = os.environ.get('DATABASE_URI', 'sqlite:///data.sqlite')
+eng = dataset.connect(db)
+table = eng['de_bundestag_plpr']
 
 
 class SpeechParser(object):
@@ -214,4 +214,3 @@ if __name__ == '__main__':
 
     for filename in os.listdir(TXT_DIR):
         parse_transcript(os.path.join(TXT_DIR, filename))
-        # break

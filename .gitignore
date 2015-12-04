@@ -57,3 +57,5 @@ docs/_build/
 target/
 
 data.sqlit*
+.DS_Store
+data/akomantoso/
