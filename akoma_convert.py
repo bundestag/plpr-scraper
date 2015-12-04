@@ -15,9 +15,9 @@ from unicodecsv import DictReader
 import unicodedata
 from lxml import etree
 
-DATA_DIR = 'data'
-XML_DIR = os.path.join(DATA_DIR, 'akomantoso')
-OUT_DIR = os.path.join(DATA_DIR, 'out')
+DATA_PATH = os.environ.get('DATA_PATH', 'data')
+XML_DIR = os.path.join(DATA_PATH, 'akomantoso')
+OUT_DIR = os.path.join(DATA_PATH, 'out')
 
 ROLES = {
     'chair': 'Sitzungsleitung',
